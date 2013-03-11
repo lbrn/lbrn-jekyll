@@ -1,0 +1,5 @@
+baseurl: /
+permalink: /:year/:month/:title
+source: .
+destination: ./_site
+exclude: [ Gemfile, Gemfile.lock, Procfile, vendor ]
