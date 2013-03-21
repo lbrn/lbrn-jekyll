@@ -3,22 +3,25 @@
 <html>
   <head>
     <title>LBRN</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
     <meta charset="utf-8">
   </head>
   <body>
     <header class="site-header">
-      <h1><a href="{{ site.baseurl }}">LBRN</a></h1>
-      <h3>Louisiana Biomedical Research Network</h3>
+      <a href="{{ site.baseurl }}" class="logo">Louisiana Biomedical Research Network</a>
+      <p>
+        The aim of this network is to enhance the quality of biomedical research conducted throughout the state of Louisiana by increasing access to state of the art research infrastructure.
+      </p>
+
+      <nav class="navbar">
+        <ul class="nav-list">
+          <li><a href="#">About</a></li>
+          <li><a href="#">Summer Research</a></li>
+          <li><a href="#">BBC Core</a></li>
+          <li><a href="#">MCB Core</a></li>
+        </ul>
+      </nav>
     </header>
-    <nav class="navbar">
-      <ul class="nav-list">
-        <li><a href="#">About</a></li>
-        <li><a href="#">Summer Research</a></li>
-        <li><a href="#">BBC Core</a></li>
-        <li><a href="#">MCB Core</a></li>
-      </ul>
-    </nav>
     <div class="main">
       {{ content }}
     </div>
