@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>LBRN</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <h1><a href="{{ site.baseurl }}">LBRN</a></h1>
+      <h3>Louisiana Biomedical Research Network</h3>
+    </header>
+    <nav class="navbar">
+      <ul>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Summer Research</a></li>
+        <li><a href="#">BBC Core</a></li>
+        <li><a href="#">MCB Core</a></li>
+      </ul>
+    </nav>
+    <div class="main">
+      {{ content }}
+    </div>
+    <footer class="site-footer">
+      <p>Copyright © LBRN {{ 'now' | date: "%Y" }}</p>
+    </footer>
+  </body>
+</html>
