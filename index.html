@@ -9,7 +9,7 @@ title: Home
   {% for post in site.posts limit: 10 %}
     <li class="feed-post">
       <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
-      <date class="post-date">{{ post.date | date_to_string }} by {{ post.author }}</date>
+      <date class="post-date">posted on {{ post.date | date_to_string }} by {{ post.author }}</date>
       {{ post.content | truncatewords: 100 }} <a href="{{ post.url }}" class="readmore">read more</a>
     </li>
   {% endfor %}

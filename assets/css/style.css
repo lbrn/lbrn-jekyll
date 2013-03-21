@@ -1,12 +1,13 @@
 * {
   font-size: 100%;
   text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
   line-height: 1.3em;
   color: #333;
 }
 
 body {
-  width: 80%;
+  width: 70%;
   margin: 5px auto;
   background: #fdfdfd;
 }
@@ -61,7 +62,9 @@ h1 {
       padding: 0 10px;
     }
 
-.main { min-height: 700px; }
+.main {
+  min-height: 700px;
+}
 
 .feed {
   list-style: none;
@@ -73,7 +76,7 @@ h1 {
     background: #EEE;
     border: 1px solid #999;
     border-radius: 4px;
-    width: 70%;
+    /*width: 70%;*/
   }
 
     .post-title {
@@ -91,7 +94,7 @@ h1 {
 
     .feed-post {
       font-size: .9em;
-      width: 70%;
+      /*width: 70%;*/
       overflow: hidden;
       margin-bottom: 20px;
     }
@@ -104,12 +107,18 @@ h1 {
         height: 30% !important;
       }
 
+
 .post {
   width: 90%;
   margin: 0 auto;
 }
 
+  .post-header {
+    margin-bottom: 50px;
+  }
+
   .post img {
     float: right;
     padding: 0 0 5px 5px;
+    width: 40%;
   }
