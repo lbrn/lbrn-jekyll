@@ -7,7 +7,7 @@ title: Home
   {% for post in site.posts limit: 10 %}
     <li class="news-post">
       <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
-      <date class="post-date">{{ post.date | date_to_string }}</date>
+      <date class="post-date">{{ post.date | date_to_string }} by <strong>{{ post.author }}</strong></date>
       {{ post.content }}
     </li>
   {% endfor %}
