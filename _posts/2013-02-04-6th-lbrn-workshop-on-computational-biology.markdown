@@ -4,6 +4,8 @@ title: 6th LBRN Workshop on Computational Biology
 author: LBRN BBCore
 ---
 
+![Flyer](/assets/images/lbrn-bbc-flyer-2013.png)
+
 This year's workshop is being held on **Friday, February 22, 2013** at the **NEW** Louisiana Cancer Research Consortium in New Orleans, LA.
 
 LSU Health Science Center and LBRN will host the 6th Computational Biology Workshop. The one-day event will take place Friday, February 22, 2013 in New Orleans (Louisiana Cancer Research Center). We would like to invite researchers, faculty, graduate and undergraduate students to attend.

@@ -1,17 +1,25 @@
 * {
-  font-family: sans-serif;
   font-size: 100%;
-  line-height: 1.25em;
+  text-rendering: optimizeLegibility;
+  line-height: 1.3em;
   color: #333;
 }
 
 body {
   width: 80%;
   margin: 0 auto;
+  background: #fdfdfd;
 }
 
-a { text-decoration: none; color: rgb(65, 131, 196); }
-a:hover { text-decoration: underline; }
+a {
+  text-decoration: none;
+  color: rgb(65, 131, 196);
+}
+
+  a:hover {
+    text-decoration: underline;
+  }
+
 
 .site-header {
   border-bottom: 1px solid #EEE;
@@ -30,11 +38,15 @@ a:hover { text-decoration: underline; }
     text-align: justify;
   }
 
-.navbar { margin-bottom: 50px; }
+.navbar {
+  margin-bottom: 50px;
+  padding-bottom: 1px;
+}
 
   ul.nav-list {
     display: inline-block;
     float: right;
+    padding: 0;
   }
 
     ul.nav-list li {
@@ -45,23 +57,42 @@ a:hover { text-decoration: underline; }
 
 .main { min-height: 700px; }
 
-.news { list-style: none; }
+.feed {
+  list-style: none;
+  padding: 0;
+}
 
-  .news-post {
+  .feed-post {
     padding: 10px;
     background: #EEE;
     border: 1px solid #999;
     border-radius: 4px;
+    width: 70%;
   }
 
     .post-title {
-      font-size: 1.1em;
       display: block;
+      font-size: 1.5em;
+      margin-bottom: 5px;
     }
 
-    .post-date { font-size: .7em; }
-
-    .news-post p {
+    .post-date {
+      text-transform: lowercase;
+      display: block;
       font-size: .8em;
+      margin-bottom: 20px;
+    }
+
+    .feed-post {
+      font-size: .9em;
       width: 70%;
+      overflow: hidden;
+    }
+
+    .feed-post img  {
+      display: block;
+      float: right;
+      padding-left: 5px;
+      width: 30%;
+      height: 30% !important;
     }
