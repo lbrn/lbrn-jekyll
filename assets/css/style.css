@@ -66,3 +66,8 @@ a {
   padding: 0 0 5px 5px;
   width: 40%;
 }
+
+.page {
+  width: 80%;
+  margin: 0 auto;
+}
