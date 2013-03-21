@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Computational Biophysics to Systems Biology (CBSB13) Workshop
-author: Ulrich H.E. Hansmann, Ulrich H.E. Hansmann, Ulrich H.E. Hansmann, Ulrich H.E. Hansmann
+author: Ulrich H.E. Hansmann
 ---
 
 ![CBSB13](/assets/images/cbsb13.jpg)

@@ -1,9 +1,6 @@
 * {
-  font-size: 100%;
   text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  line-height: 1.3em;
-  color: #333;
+  /*line-height: 1.3em;*/
 }
 
 body {
@@ -13,112 +10,59 @@ body {
 }
 
 a {
-  text-decoration: none;
-  color: rgb(65, 131, 196);
+  text-decoration: none !important;
 }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-h1 {
-  font-size: 1.5em;
-  /*font-weight: 100;*/
-  margin-bottom: 30px;
-}
-
-
-.site-header {
-  border-bottom: 1px solid #EEE;
-  margin-bottom: 30px;
-}
-
-  .logo {
-    font-size: 2em;
-    font-weight: 100;
-  }
-
-  .site-header p {
-    font-size: .8em;
-    color: #999;
-    width: 50%;
-    text-align: justify;
-  }
-
-.navbar {
-  margin-bottom: 50px;
-  padding-bottom: 1px;
-}
-
-  ul.nav-list {
-    display: inline-block;
-    float: right;
-    padding: 0;
-  }
-
-    ul.nav-list li {
-      list-style: none;
-      float: left;
-      padding: 0 10px;
-    }
 
 .main {
   min-height: 700px;
 }
 
+.site-header {
+  margin-bottom: 30px;
+}
+
+.site-header a {
+  color: #34495e;
+  text-decoration: none;
+}
+
 .feed {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
+
+  .feed h4, .feed h6 {
+    padding: 0;
+    margin: 0;
+  }
+
+/*  .feed h4 a {
+    color: #34495e;
+  }*/
+
+  .feed h6 {
+    padding-bottom: 15px;
+  }
 
   .feed-post {
-    padding: 10px;
-    background: #EEE;
-    border: 1px solid #999;
-    border-radius: 4px;
-    /*width: 70%;*/
+    overflow: hidden;
   }
 
-    .post-title {
-      display: block;
-      font-size: 1.5em;
-      margin-bottom: 5px;
-    }
+  .feed-post img  {
+    display: block;
+    float: right;
+    padding-left: 5px;
+    width: 30%;
+    height: 30% !important;
+  }
 
-    .post-date {
-      text-transform: lowercase;
-      display: block;
-      font-size: .8em;
-      margin-bottom: 20px;
-    }
-
-    .feed-post {
-      font-size: .9em;
-      /*width: 70%;*/
-      overflow: hidden;
-      margin-bottom: 20px;
-    }
-
-      .feed-post img  {
-        display: block;
-        float: right;
-        padding-left: 5px;
-        width: 30%;
-        height: 30% !important;
-      }
-
-
-.post {
-  width: 90%;
-  margin: 0 auto;
+.post-header {
+  margin-bottom: 50px;
 }
 
-  .post-header {
-    margin-bottom: 50px;
-  }
-
-  .post img {
-    float: right;
-    padding: 0 0 5px 5px;
-    width: 40%;
-  }
+.post img {
+  float: right;
+  padding: 0 0 5px 5px;
+  width: 40%;
+}

@@ -3,23 +3,34 @@
 <html>
   <head>
     <title>LBRN</title>
-    <!-- <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css"> -->
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
     <link href="{{ site.baseurl }}assets/css/bootstrap.css" rel="stylesheet">
     <link href="{{ site.baseurl }}assets/css/flat-ui.css" rel="stylesheet">
     <meta charset="utf-8">
   </head>
   <body class="container">
-    <header class="page-header">
-      <h1><a href="{{ site.baseurl }}">Louisiana Biomedical Research Network</a></h1>
-
-      {% include menu.html %}
+    <header class="row site-header">
+      <div class="span12">
+        <h1><a href="{{ site.baseurl }}">Louisiana Biomedical Research Network</a></h1>
+        {% include menu.html %}
+      </div>
     </header>
-    <div class="main">
-      {{ content }}
+    <div class="row main">
+      <div class="span9">
+        {{ content }}
+      </div>
+      <div class="span3 sidebar">
+      </div>
     </div>
-    <footer class="site-footer">
-      <p>Copyright © LBRN {{ 'now' | date: "%Y" }}</p>
+    <footer class="row">
+      <div class="span12">
+        <p>Copyright © LBRN {{ 'now' | date: "%Y" }}</p>
+      </div>
     </footer>
+
+
+
+
     <script src="{{ site.baseurl }}assets/js/jquery-1.8.2.min.js"></script>
     <script src="{{ site.baseurl }}assets/js/jquery-ui-1.10.0.custom.min.js"></script>
     <script src="{{ site.baseurl }}assets/js/jquery.dropkick-1.0.0.js"></script>

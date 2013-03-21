@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-<h1>News</h1>
+<h2>News</h2>
 
 <ul class="feed">
   {% for post in site.posts limit: 10 %}
-    <li class="feed-post">
-      <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
-      <date class="post-date">posted on {{ post.date | date_to_string }} by {{ post.author }}</date>
-      {{ post.content | truncatewords: 100 }} <a href="{{ post.url }}" class="readmore">read more</a>
+    <li class="feed-post well">
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <small><h6>by {{ post.author }} | {{ post.date | date_to_string }}</h6></small>
+      {{ post.content | truncatewords: 100 }} <a href="{{ post.url }}">Read More</a>
     </li>
   {% endfor %}
 </ul>
