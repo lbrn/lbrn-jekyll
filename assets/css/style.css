@@ -7,7 +7,7 @@
 
 body {
   width: 80%;
-  margin: 0 auto;
+  margin: 5px auto;
   background: #fdfdfd;
 }
 
@@ -19,6 +19,12 @@ a {
   a:hover {
     text-decoration: underline;
   }
+
+h1 {
+  font-size: 1.5em;
+  /*font-weight: 100;*/
+  margin-bottom: 30px;
+}
 
 
 .site-header {
@@ -87,12 +93,23 @@ a {
       font-size: .9em;
       width: 70%;
       overflow: hidden;
+      margin-bottom: 20px;
     }
 
-    .feed-post img  {
-      display: block;
-      float: right;
-      padding-left: 5px;
-      width: 30%;
-      height: 30% !important;
-    }
+      .feed-post img  {
+        display: block;
+        float: right;
+        padding-left: 5px;
+        width: 30%;
+        height: 30% !important;
+      }
+
+.post {
+  width: 90%;
+  margin: 0 auto;
+}
+
+  .post img {
+    float: right;
+    padding: 0 0 5px 5px;
+  }
