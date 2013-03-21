@@ -18,7 +18,10 @@ a:hover { text-decoration: underline; }
   margin-bottom: 30px;
 }
 
-  .logo { font-size: 2em; }
+  .logo {
+    font-size: 2em;
+    font-weight: 100;
+  }
 
   .site-header p {
     font-size: .8em;
