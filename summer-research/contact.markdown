@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LBRN Summer Research Program - Contact
+layout: summer-research
+title: Contact
 ---
 
 <style>

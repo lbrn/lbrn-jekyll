@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LBRN Summer Research Program - How To Get Selected
+layout: summer-research
+title: How To Get Selected
 ---
 
 #### **Faculty Must:**

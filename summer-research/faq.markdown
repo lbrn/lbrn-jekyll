@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LBRN Summer Research Program - FAQ
+layout: summer-research
+title: Frequently Asked Questions
 ---
 
 <style>

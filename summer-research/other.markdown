@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LBRN Summer Research Program - Other Research Opportunities
+layout: summer-research
+title: Other Research Opportunities
 ---
 
 1.  [Bioinformatics Internships for Undergraduate Students (BIUS) in the Southeast INBRE Region.][1]

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Summer Research Program - Applications
+layout: summer-research
+title: Applications
 ---
 
 <div class="alert alert-warning alert-block">

@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h2 class="page-title">LBRN Summer Research Program</h2>
+  <ul class="nav nav-pills srp-nav">
+
+    {% if page.title == "Program Info" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research">Program Info</a>
+    </li>
+
+    {% if page.title == "How To Get Selected" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/selection.html">How To Get Selected</a>
+    </li>
+
+    {% if page.title == "Applications" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/applications.html">Applications</a>
+    </li>
+
+    {% if page.title == "Frequently Asked Questions" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/faq.html">FAQ</a>
+    </li>
+
+    {% if page.title == "Mentorship" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/mentorship.html">Mentorship</a>
+    </li>
+
+    {% if page.title == "Resources" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/resources.html">Resources</a>
+    </li>
+
+    {% if page.title == "Contact" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/contact.html">Contact</a>
+    </li>
+    
+    {% if page.title == "Other Research Opportunities" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="{{ site.baseurl }}summer-research/other.html">Other Opportunities</a>
+    </li>
+
+  </ul>
+
+  <hr style ="margin-top: 0">
+  
+  {% if page.title != "Program Info" %}
+    <h3>{{ page.title }}</h3>
+  {% endif %}
+
+  {{ content }}
+</div>

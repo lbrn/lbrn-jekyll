@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LBRN Summer Research Program - Mentorship
+layout: summer-research
+title: Mentorship
 ---
 
 <style>
