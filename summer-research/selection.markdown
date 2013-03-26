@@ -35,4 +35,4 @@ title: How To Get Selected
 *Women & members of under-represented minorities are urged to apply. Please note that priority will be given to applicants from primarily undergraduate institutes in Louisiana.*
 
 <br>
-<a class="btn btn-large btn-primary" href="{{ site.baseurl }}summer-research/applications.html">Continue to Applications</a>
+<a class="btn btn-large btn-primary" href="{{ site.baseurl }}summer-research/applications">Continue to Applications</a>
