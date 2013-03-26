@@ -18,12 +18,16 @@ a {
 }
 
 .site-header {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
 }
 
 .site-header a {
   color: #34495e;
   text-decoration: none;
+}
+
+.site-header h1 {
+  margin-bottom: 0;
 }
 
 .feed {
@@ -68,6 +72,10 @@ a {
 }
 
 .page {
-  width: 80%;
-  margin: 0 auto;
+  /*width: 80%;*/
+  /*margin: 0 auto;*/
+}
+
+footer {
+  margin-top: 50px;
 }
