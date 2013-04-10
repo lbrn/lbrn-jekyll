@@ -1,0 +1,66 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen|Merriweather);
+
+* { text-rendering:  optimizeLegibility; }
+
+.logo {
+  height: 40px !important;
+  position: relative;
+  top: -40px;
+  padding: 0 5px;
+}
+
+h1, h4, h5 { font-family: 'Oxygen', sans-serif !important; }
+
+p, .accordion-inner ul.unstyled li, em, strong {
+  font-family: 'Merriweather', serif;
+  line-height: 1.6em;
+}
+
+.other-links {
+  font-family: inherit;
+}
+
+dl * {
+  font-family: 'Merriweather', serif;
+  line-height: 1.6em;
+}
+
+.alert-block ul {
+  font-family: 'Merriweather', serif !important;
+}
+
+dt { padding: 10px 0; }
+
+dd { padding-bottom: 10px; }
+
+footer {
+  margin-top: 50px;
+  padding-top: 10px;
+  font-size: .8em;
+  line-height: .8;
+}
+
+.btn-link { padding: 0; margin: 0; border: 0; }
+
+.tab-content { min-height: 600px; }
+
+.img-polaroid { width: 200px !important; }
+
+#social-links {
+  position: relative;
+  top: -35px;
+  text-align: right;
+}
+
+#logos img {
+  display: inline-block;
+  float: left;
+  padding-right: 10px;
+  height: 40px !important;
+}
+
+.thankyou-message, .hotel-code, h3 {
+  font-family: 'Oxygen', serif !important;
+  text-align: center;
+}
+
