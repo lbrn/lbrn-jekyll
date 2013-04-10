@@ -48,9 +48,10 @@
 Here are some examples of why using Git+Github is so useful:
 
 - `$ git log` will show a list of every change that has been made to the code from the very beginning, and who authored the change.
-- `$ git reset --hard [commit]` will completely change the directory to the sate it was in after [commit]. Basically, we can rollback to any point in the project's history at any time.
+- `$ git reset --hard [commit]` will completely change the directory to the state it was in after [commit]. Basically, we can rollback to any point in the project's history at any time.
 - `$ git pull` will downlaod all the latest changes from Github and merge them into your current code. This allows everybody to always have the most up-to-date code for the site.
-- `$ git revert [commit]` will reverse any changes brought in with a certain commit. In this way, if somebody pushes something bad to everybody else, reverting that change is very easy.
+- `$ git revert [commit]` will reverse any changes brought in with a certain commit. In this way, if somebody pushes something to the server that was bad, undoing that change is very easy.
+- This is only the surface of what you can do with Git.
 
 [1]: https://github.com/mojombo/jekyll#jekyll
 [2]: http://git-scm.com/
