@@ -1,4 +1,4 @@
-# This is the new LBRN site, generated with [jekyll][1]
+# This is the new LBRN site, generated with [Jekyll][1]
 
 
 ### Proper Development Workflow
@@ -34,7 +34,7 @@
 
   - `$ git push origin`
   - `$ git push server`
-  
+
 - Your changes will instantly be reflected on http://test.lbrn.lsu.edu!
 
 
