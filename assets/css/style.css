@@ -78,6 +78,11 @@ a {
   background: #34495e !important;
 }
 
+.bio img {
+  width: 60% !important;
+  height: 60% !important;
+}
+
 footer {
   margin-top: 50px;
 }
