@@ -86,3 +86,13 @@ a {
 footer {
   margin-top: 50px;
 }
+
+.pi h4 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.long-text {
+  width: 70%;
+  margin: 0 auto;
+}

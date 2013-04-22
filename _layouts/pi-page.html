@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h2 class="page-title">{{ page.title }}</h2>
+  <hr>
+  <div class="pi">
+    <p style="text-align: center; padding-bottom: 30px;">
+      <img src="{{ site.baseurl }}assets/images/pi-photos/full/{{ page.image }}" class="img-polaroid">
+    </p>
+    <div class="row">
+      <div class="span4">
+        <h4>Mentors:</h4>
+        {% for mentor in page.mentors %}
+          <p>{{ mentor }}</p>
+        {% endfor %}
+      </div>
+      <div class="span4">
+        <h4>Project Title:</h4>
+        <p>{{ page.project_title }}</p>
+      </div>
+      <div class="span4">
+        <h4>Funding Period:</h4>
+        {% for period in page.funding_periods %}
+          <p>{{ period }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <h4 style="text-align: center">Abstract</h4>
+    <p class="long-text">
+      {{ page.abstract }}
+    </p>
+  </div>
+</div>
