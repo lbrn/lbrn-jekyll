@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="page">
-  <a href="{{ page.pubmed_link }}" class="pubmed-link btn btn-info">Link to Pubmed Publications</a>
+  <a href="{{ page.pubmed_link }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
   <h2 class="page-title">{{ page.title }}</h2>
   <hr>
   <div class="pi">
@@ -18,7 +18,7 @@ layout: default
           <p>{{ mentor }}</p>
         {% endfor %}
         <br>
-        
+
         <h4>Funding Period:</h4>
         {% for period in page.funding_periods %}
           <p>{{ period }}</p>
