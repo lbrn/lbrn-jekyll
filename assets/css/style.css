@@ -96,3 +96,11 @@ footer {
   width: 70%;
   margin: 0 auto;
 }
+
+.project-title { font-size: 1.2em; }
+
+.pubmed-link {
+  float: right;
+  position: relative;
+  top: 10px;
+}
