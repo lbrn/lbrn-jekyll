@@ -23,7 +23,7 @@
 
 #### Editing The Site
 
-1. You can use `$ jekyll --server --auto` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to end.
+1. You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to end.
 2. Edit the site using whatever editor you like. When you are satisfied with your change, add your changed files..
     ```bash
     $ git add --all
@@ -53,7 +53,7 @@ Here are some examples of why using Git+Github is so useful:
 - `$ git revert [commit]` will reverse any changes brought in with a certain commit. In this way, if somebody pushes something to the server that was bad, undoing that change is very easy.
 - This is only the surface of what you can do with Git.
 
-[1]: https://github.com/mojombo/jekyll#jekyll
+[1]: http://jekyllrb.com/
 [2]: http://git-scm.com/
 [3]: https://github.com/mojombo/jekyll/wiki/install
 [4]: https://github.com/settings/ssh
