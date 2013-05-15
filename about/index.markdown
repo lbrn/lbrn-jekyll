@@ -8,13 +8,13 @@ title: About Us
 
 LBRN is the result of a collaboration between:
 
-**Flagship Campus: **
+**Flagship Campus:**
 
 
 * [Louisiana State University (LSU)][2]
 
 
-**PUI Campus: **
+**PUI Campus:**
 
 
 * [Louisiana State University-Shreveport (LSU-S) ][3]
@@ -24,7 +24,7 @@ LBRN is the result of a collaboration between:
 * [Xavier University of Louisiana (XULA)][7]
 
 
-**Mentor Campus: **
+**Mentor Campus:**
 
 
 * [LSU Health Sciences Center-New Orleans (LSUHSC-NO) ][8]
@@ -34,7 +34,7 @@ LBRN is the result of a collaboration between:
 * [Tulane National Primate Research Center (TNPRC)][12]
 
 
-**Summer Research Program Campus: **
+**Summer Research Program Campus:**
 
 
 * [Centenary College ][13]
