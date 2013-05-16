@@ -4,22 +4,24 @@ layout: default
 
 <div class="page">
   <a href="{{ page.pubmed_link }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
-  <h2 class="page-title">{{ page.title }}</h2>
+  <h2 class="page-title" style="margin-bottom: 0">{{ page.title }}</h2>
+    {{ page.department }}<br>
+    {{ page.university }}
   <hr>
   <div class="pi">
     <div class="row">
       <div class="span6">
-        <h4>Project Title:</h4>
+        <h4>Project Title</h4>
         <p class="project-title">{{ page.project_title }}</p>
         <br>
 
-        <h4>Mentors:</h4>
+        <h4>Mentors</h4>
         {% for mentor in page.mentors %}
           <p>{{ mentor }}</p>
         {% endfor %}
         <br>
 
-        <h4>Funding Period:</h4>
+        <h4>Funding Period</h4>
         {% for period in page.funding_periods %}
           <p>{{ period }}</p>
         {% endfor %}
