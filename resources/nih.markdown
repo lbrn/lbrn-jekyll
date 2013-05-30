@@ -3,26 +3,28 @@ layout: page
 title: NIH Resources
 ---
 
-#### Grants.gov Links
+<style>
+  h4 a { color: rgb(52, 73, 94); }
+</style>
 
-- [Grants.gov](http://grants.gov/)
+#### [Grants.gov](http://grants.gov/)
+
 - [Grants.gov - Get Started](http://grants.gov/GetStarted)
 - [Grants.gov - Customer Service](http://www.grants.gov/help/help.jsp)
 - [NIH Guide Notices](http://grants1.nih.gov/grants/guide/index.html)
 
 <br>
 
-#### NIH eRA (Electronic Research Administration)
+#### [NIH eRA (Electronic Research Administration)](http://era.nih.gov/)
 
-- [Main Page](http://era.nih.gov/)
 - [Support Page](http://era.nih.gov/commons/index.cfm)
 - [Register your institution in the NIH Commons to receive emailed Notice of Grant Awards as well as other important information](https://public.era.nih.gov/commons/public/login.do?TYPE=33554433&REALMOID=06-1edb031f-46c7-44b3-b803-60b537de74d2&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-938PYmoLVb4VrDeXo04LZUDVDvc%2b3899ByInEAjuSUvWNIGfB2zRpWiCivYGCogG&TARGET=-SM-http%3a%2f%2fpublic%2eera%2enih%2egov%2fcommons)
 
 <br>
 
-#### NIH Grants
+#### [NIH Grants](http://grants1.nih.gov/grants/oer.htm)
 
-- [Home Page](http://grants1.nih.gov/grants/oer.htm)
+- [NIH R15 (AREA)](http://grants.nih.gov/grants/funding/area.htm)
 - [PHS 398 Instructions and Forms](http://grants.nih.gov/grants/funding/phs398/phs398.html)
 - [Office of Extramural Research](http://grants.nih.gov/grants/oer.htm)
 - [Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/index.html)
@@ -34,9 +36,8 @@ title: NIH Resources
 
 <br>
 
-#### Office for Human Research Protections
+#### [Office for Human Research Protections](http://www.hhs.gov/ohrp/)
 
-- [Main Page](http://www.hhs.gov/ohrp/)
 - [Human Subject Education Certification - Requirements](http://grants.nih.gov/grants/policy/hs_educ_faq.htm)
 - [All existing Assurances and Registered IRBs](http://www.hhs.gov/ohrp/assurances/)
 - [Guidance on Written IRB Procedures](http://www.hhs.gov/ohrp/humansubjects/guidance/irb71102.pdf)
@@ -61,9 +62,3 @@ title: NIH Resources
 - [Career Award Wizard](http://grants.nih.gov/training/kwizard/index.htm)
 - [NIH Loan Repayment Programs](http://www.lrp.nih.gov/)
 - [Fellowship and Career Development Programs, Information Fellowships](http://www.training.nih.gov/careers/careercenter/fellow.html)
-
-<br>
-
-#### Other
-
-- [NIH R15 (AREA)](http://grants.nih.gov/grants/funding/area.htm)
