@@ -6,7 +6,7 @@ title: NIH Resources
 <style>
   h4 a {
     color: rgb(52, 73, 94);
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
 </style>
 
