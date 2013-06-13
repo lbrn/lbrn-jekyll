@@ -17,4 +17,4 @@ When you produce such material, please be sure to identify the IDeA program, not
 
 **LBRN banner available for use in publications/presentations:**
 
-<a href="{{ site.baseurl}}assets/images/lbrn.jpg"><img src="{{ site.baseurl}}assets/images/lbrn.jpg" width="300px" height="65px"></a>
+<a href="/assets/images/lbrn.jpg"><img src="/assets/images/lbrn.jpg" width="300px" height="65px"></a>

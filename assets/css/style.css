@@ -95,7 +95,7 @@ footer {
 
 .long-text {
   width: 70%;
-  margin: 0 auto;
+  padding-left: 50px;
 }
 
 .project-title { font-size: 1.2em; }
@@ -104,4 +104,13 @@ footer {
   float: right;
   position: relative;
   top: 10px;
+}
+
+.carousel-caption h3 {
+  color: #FFF;
+}
+
+.hero-unit {
+  padding: 40px !important;
+  margin
 }
