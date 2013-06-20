@@ -30,4 +30,12 @@
   {% endif %}
     <a href="{{ site.baseurl }}about/pi-info">Project Investigators</a>
   </li>
+
+  {% if page.title == "Partner Institutes" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about/partners">Partner Institutes</a>
+  </li>
 </ul>
