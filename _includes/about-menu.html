@@ -1,0 +1,33 @@
+<ul class="nav nav-pills srp-nav">
+  {% if page.title == "About Us" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about">About Us</a>
+  </li>
+
+  {% if page.title == "Molecular and Cell Biology Core" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about/mcb">MCB Core</a>
+  </li>
+
+  {% if page.title == "Bioinformatics, Biostatistics, and Computational Biology Core" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about/bbc">BBC Core</a>
+  </li>
+
+  {% if page.title == "Project Investigators" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about/pi-info">Project Investigators</a>
+  </li>
+</ul>
