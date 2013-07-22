@@ -36,6 +36,14 @@ a {
   padding-left: 10px;
 }
 
+.ss-icon.facebook {
+  color: #4c66a4;
+}
+
+.ss-icon.twitter {
+  color: #00a0d1;
+}
+
 .feed {
   list-style: none;
   padding: 0;
