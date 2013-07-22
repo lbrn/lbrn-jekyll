@@ -13,6 +13,11 @@ a {
   text-decoration: none !important;
 }
 
+.demo-row {
+  position: relative;
+  top: -20px;
+}
+
 .main {
   min-height: 700px;
 }
@@ -24,6 +29,11 @@ a {
 
 .site-header h1 {
   margin-bottom: 0;
+}
+
+.site-header .ss-icon {
+  font-size: 1.5em;
+  padding-left: 10px;
 }
 
 .feed {
