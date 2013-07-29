@@ -12,6 +12,6 @@ The 20th Annual Summer Undergraduate Research Forum (SURF) where undergraduate s
 
 Please come and ask the participants about their summer research!
 
-For more information and registration info for SURF 2013 please visit SURF (click here).
+For more information and registration info for SURF 2013 please visit SURF ([click here](/events/surf)).
 
 **note: Deadline for SURF Registration: Friday, July 19, 2013**
