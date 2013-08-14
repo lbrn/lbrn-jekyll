@@ -1,4 +1,4 @@
-### This is the source for the new LBRN site, generated with [Jekyll][1]
+#### This is the source for the LBRN website.
 
 
 
