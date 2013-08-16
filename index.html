@@ -32,15 +32,15 @@ title: Home
 <h2>News</h2>
 <div class="row">
   <div class="span8">
-    <ul class="feed">
+    <div class="feed">
       {% for post in site.posts limit: 10 %}
-        <li class="feed-post well">
+        <div class="feed-post well">
           <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
           <small><h6>by {{ post.author }} | {{ post.date | date_to_string }}</h6></small>
-          {{ post.content | truncatewords: 100 }} <a href="{{ post.url }}">Read More</a>
-        </li>
+          {{ post.content | truncatewords: 200 }} <a href="{{ post.url }}">Read More</a>
+        </div>
       {% endfor %}
-    </ul>
+    </div>
   </div>
   <div class="span4">
     <a class="twitter-timeline" href="https://twitter.com/lbrn_inbre" height="700px" data-widget-id="365872231160619008">Tweets by @lbrn_inbre</a>
