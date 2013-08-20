@@ -34,8 +34,6 @@ The LBRN Work-in-progress Seminar Series will be held via Access Grid (please ch
 
   Prena Dua, PhD, Louisiana Tech
 
-_note: click on poster image to view schedule and speaker list._
-
 Also please check our participating sites; notify the site ahead of time to ensure site will be running via the Access Grid. All sites require 3 business day notice.  Read more to see attending sites: 
 
 - Louisiana State University Baton Rouge - A663 Life Sciences Annex Conference Room, 3502 VetMed Bldg
