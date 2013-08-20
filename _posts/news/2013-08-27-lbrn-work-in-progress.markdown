@@ -30,6 +30,4 @@ Southern University and A&M College
 
 ---
 
-_note: click on poster image to view poster and appropriate abstracts (same document)._
-
 Also please check our participating sites; notify the site ahead of time to ensure site will be running via the Access Grid. All sites require 3 business day notice.  Read more to see attending sites.

@@ -10,26 +10,29 @@ The LBRN Work-in-progress Seminar Series will be held via Access Grid (please ch
 
 - **August 27, 10-11:30 AM**
 
-  - Thomas Huckaba, PhD, Xavier University 
-	- Eduardo Martinez-Ceballos, PhD, Southern University 
+  Thomas Huckaba, PhD, Xavier University 
+
+	Eduardo Martinez-Ceballos, PhD, Southern University 
 
 - **September 3, 9:30-10:15 AM**
 
-  - Shuju Bai, PhD, Southern University
+  Shuju Bai, PhD, Southern University
 
 - **September 10, 10-11:30 AM**
 
-  - Amal Kaddoumi, PhD, University of Louisiana Monroe
-	- Harris McFerrin, PhD, Xavier University
+  Amal Kaddoumi, PhD, University of Louisiana Monroe
+	
+	Harris McFerrin, PhD, Xavier University
 
 - **September 16, 10-11:30 AM**
 
-  - Elahe Mahdavian, PhD, LSU-Shreveport
-	- Seetharama Satyanarayanajois, PhD, University of Louisiana Monroe
+  Elahe Mahdavian, PhD, LSU-Shreveport
+	
+	Seetharama Satyanarayanajois, PhD, University of Louisiana Monroe
 
 - **September 25, 9-10:30 AM**
 
-  - Prena Dua, PhD, Louisiana Tech
+  Prena Dua, PhD, Louisiana Tech
 
 _note: click on poster image to view schedule and speaker list._
 
