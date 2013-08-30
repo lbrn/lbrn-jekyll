@@ -12,7 +12,7 @@
 			<img src="img/lbrn.jpg" class="img-rounded banner">
 			<h2><strong>LBRN Work-In-Progress Seminar Series</strong></h2>
 			</div>
-			<ul class="nav nav-tabs">
+			<ul class="nav nav-tabs" id="nav">
 				<li class="active"><a href="#current" data-toggle="tab">Current Seminars</a></li>
 				<li><a href="#past" data-toggle="tab">Past Seminars</a></li>
 				<li><a href="#locations" data-toggle="tab">Locations</a></li>
@@ -40,6 +40,7 @@
 						<div class="media-body">
 							<h4 class="media-heading">Shuju Bai</h4>
 							<p><strong>Date:</strong>  Tuesday, September 3, 2013 at 9:30 - 10:15 AM</p>
+							<p><strong>Location:</strong> <a href="#" class="location-link">Check local access grid</a></p>
 						</div>
 					</div>
 					<div class="media well">
@@ -50,7 +51,7 @@
 							<h4 class="media-heading">Amal Kaddoumi</h4>
 							<h4 class="media-heading">Harris McFerrin</h4>
 							<p><strong>Date:</strong> September 10, 10-11:30 AM</p>
-							<p><strong>Location:</strong> Life Sciences Building Annex A101</p>
+							<p><strong>Location:</strong> <a href="#" class="location-link">Check local access grid</a></p>
 						</div>
 					</div>
 					<div class="media well">
@@ -61,7 +62,7 @@
 							<h4 class="media-heading">Elahe Mahdavian</h4>
 							<h4 class="media-heading">Seetharama Satyanarayanajois</h4>
 							<p><strong>Date:</strong> September 16, 10-11:30 AM</p>
-							<p><strong>Location:</strong> Life Sciences Building Annex A101</p>
+							<p><strong>Location:</strong> <a href="#" class="location-link">Check local access grid</a></p>
 						</div>
 					</div>
 					<div class="media well">
@@ -71,7 +72,7 @@
 						<div class="media-body">
 							<h4 class="media-heading">Prena Dua</h4>
 							<p><strong>Date:</strong> September 25, 9-10:30 AM</p>
-							<p><strong>Location:</strong> Life Sciences Building Annex A101</p>
+							<p><strong>Location:</strong> <a href="#" class="location-link">Check local access grid</a></p>
 						</div>
 					</div>
 				</div>
@@ -84,7 +85,7 @@
 							<h4 class="media-heading">Thomas Huckaba</h4>
 							<h4 class="media-heading">Eduardo Martinez-Ceballos</h4>
 							<p><strong>Date:</strong> Friday, August 27, 2013 at 10:00-11:30 AM</p>
-							<p><strong>Location:</strong> Life Sciences Building Annex A101</p>
+							<p><strong>Location:</strong> <a href="#" class="location-link">Check local access grid</a></p>
 						</div>
 					</div>
 				</div>
@@ -107,5 +108,13 @@
 		</div>
 		<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+		<script>
+			$(function() {
+				$('.location-link').click(function() {
+					console.log('clicked');
+					$('#nav a:last').tab('show');
+				});
+			});
+		</script>
 	</body>
 </html>
