@@ -46,7 +46,7 @@ title: Home
         <div class="feed-post well">
           <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
           <small><h6>by {{ post.author }} | {{ post.date | date_to_string }}</h6></small>
-          {{ post.content | truncatewords: 200 }} <a href="{{ post.url }}">Read More</a>
+          {{ post.content }}
         </div>
       {% endfor %}
     </div>

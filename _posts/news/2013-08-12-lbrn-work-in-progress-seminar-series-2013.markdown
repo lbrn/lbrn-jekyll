@@ -4,7 +4,8 @@ title: LBRN Work In Progress Seminal Series
 author: LBRN
 ---
 
-![Flyer](/assets/images/wipflyer.png)
+<a href="{{ site.baseurl }}events/work-in-progress"><img src="/assets/images/wipflyer.png"></a>
+
 
 The LBRN Work-in-progress Seminar Series will be held via Access Grid (please check your local access grid for these events) on the following schedule.
 
@@ -34,13 +35,6 @@ The LBRN Work-in-progress Seminar Series will be held via Access Grid (please ch
 
   Prena Dua, PhD, Louisiana Tech
 
-Also please check our participating sites; notify the site ahead of time to ensure site will be running via the Access Grid. All sites require 3 business day notice.  Read more to see attending sites: 
+<br>
 
-- Louisiana State University Baton Rouge - A663 Life Sciences Annex Conference Room, 3502 VetMed Bldg
-- Louisiana Tech University - 234 Nethken Hall - Pradeep Chowriappa
-- LSU Health Sciences Center - Shreveport - Medical Library 1-423 - Ryan Alexander or Jim Nelson
-- LSU, Shreveport - TC219 - Adam Jordan
-- LSUHSC - New Orleans - LEC 4D1 - Public Health Access Grid
-- Southern University Baton Rouge - Moore Hall - AG Room - Marcus Brown
-- University of Louisiana at Monroe - 127 Hanna - Adam Taylor
-- Xavier University - Rachel Cruthirds
+<a href="/events/work-in-progress" class="btn btn-info" style="margin-bottom: 30px">Details and Locations</a>
