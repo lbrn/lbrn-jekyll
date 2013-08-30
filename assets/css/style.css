@@ -132,3 +132,8 @@ footer {
   padding: 40px !important;
   margin
 }
+
+.carousel-inner img {
+  width: 100%;
+  height: 433px !important;
+}
