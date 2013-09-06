@@ -4,18 +4,18 @@
 
 #### Contributing
 
-1. Fork this repository
+1. [Fork](https://help.github.com/articles/fork-a-repo) this repository
 2. Make your changes to your personal fork
-3. Submit a pull request with a description of the change
+3. Submit a [pull request](https://help.github.com/articles/using-pull-requests) with a description of the change
 
 
 #### Developing
 
-1. You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to kill the server.
-2. Edit the site using whatever editor you like. When you are satisfied with your change, add your changed files..
+1. Edit the site using whatever editor you like. When you are satisfied with your change, add your changed files..
     ```bash
     $ git add .
     ```
+2. You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to kill the server.
 
 3. Commit the changes and add a short message explaining what you changed...
     ```bash
