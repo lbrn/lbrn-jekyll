@@ -15,6 +15,7 @@
     ```bash
     $ git add .
     ```
+
 2. You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to kill the server.
 
 3. Commit the changes and add a short message explaining what you changed...
