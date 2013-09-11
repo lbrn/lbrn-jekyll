@@ -16,7 +16,7 @@ The 2013 Annual Fall Meeting will be held Thursday, October 10-11, 2013 in Pinch
 
 **Important Dates**
 
-- Online Registration Open: August 1, 2013
-- Abstract Submission Deadline: September 9, 2013
-- Student Travel Award Deadline: September 10, 2013
-- Housing Cut-Off Deadline: October 9, 2013
+- Online Registration Open: **August 1, 2013**
+- Abstract Submission Deadline: **September 9, 2013**
+- Student Travel Award Deadline: **September 10, 2013**
+- Housing Cut-Off Deadline: **October 9, 2013**

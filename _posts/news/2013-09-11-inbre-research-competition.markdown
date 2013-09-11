@@ -17,3 +17,5 @@ author: LBRN
 
 The purpose of this RFA is to solicit a new project for the INBRE program. The expected start 
 date for this project is January 1, 2014 for the first year of funding through April 30, 2015. The selection and distribution of these projects by the Steering Committee will be based on the quality of the proposal and the needs of the INBRE program. Proposed projects should be consistent with the program’s focal research areas (listed below).
+
+Click the document to the right to view the full RFA.
