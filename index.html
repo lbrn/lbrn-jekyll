@@ -4,39 +4,7 @@ title: Home
 ---
 
 <div class="hero-unit">
-  <div id="featuredPhotos" class="carousel slide">
-    <div class="carousel-inner">
-      <div class="active item">
-        <!-- The first featured image and its caption -->
-        <img src="{{ site.baseurl }}assets/images/featured/surf.jpg">
-        <div class="carousel-caption">
-          <h3>Welcome to the Louisiana Biomedical Research Network</h3>
-          <p>The aim of LBRN is to enhance the quality of biomedical research conducted throughout the state of Louisiana by increasing access to state of the art research infrastructure.</p>
-          <a href="{{ site.baseurl }}about" class="btn btn-info pull-right">Learn More</a>
-        </div>
-      </div>
-      <div class="item">
-        <!-- The second featured image and its caption -->
-        <img src="{{ site.baseurl }}assets/images/featured/wipbanner.jpeg">
-        <div class="carousel-caption">
-          <h3>LBRN Work In Progress Seminar Series</h3>
-          <p>The Work In Progress Seminars are presentations by LBRN PI's where they present their research progress and have an opportunity for input from their peers and mentors in a collaborative setting.</p>
-          <a href="{{ site.baseurl }}events/work-in-progress" class="btn btn-info pull-right">Learn More</a>
-        </div>
-      </div>
-      <div class="item">
-        <!-- The second featured image and its caption -->
-        <img src="{{ site.baseurl }}assets/images/featured/classroom.jpg">
-        <div class="carousel-caption">
-          <h3>LBRN Summer Research Program</h3>
-          <p>Our summer research program brings together students from all over Louisiana to work together with mentors and explore the fields that they are passionate about.</p>
-          <a href="{{ site.baseurl }}summer-research" class="btn btn-info pull-right">Learn More</a>
-        </div>
-      </div>
-    </div>
-    <a class="carousel-control left" href="#featuredPhotos" data-slide="prev">&lsaquo;</a>
-    <a class="carousel-control right" href="#featuredPhotos" data-slide="next">&rsaquo;</a>
-  </div>
+  {% include carousel.html %}
 </div>
 <h2>News</h2>
 <div class="row">
