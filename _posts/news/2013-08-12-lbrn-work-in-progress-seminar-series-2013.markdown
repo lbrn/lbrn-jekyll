@@ -27,13 +27,15 @@ The LBRN Work-in-progress Seminar Series will be held via Access Grid (please ch
 
 - **September 16, 10-11:30 AM**
 
-  Elahe Mahdavian, PhD, LSU-Shreveport
+  Elahe Mahdavian, PhD, LSU Shreveport
 	
 	Seetharama Satyanarayanajois, PhD, University of Louisiana Monroe
 
 - **September 25, 9-10:30 AM**
 
   Prena Dua, PhD, Louisiana Tech
+	
+	Tara William-Hart, PhD, LSU Shreveport
 
 <br>
 
