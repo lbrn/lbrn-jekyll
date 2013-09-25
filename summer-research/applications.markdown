@@ -4,7 +4,7 @@ title: Applications
 ---
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Deadline is February 15, 2013.</strong></h4>
+  <h4><strong>Deadline is TBA</strong></h4>
   <br>
   <p>
     Note carefully the Application requirements. If these requirements are not met, the application is considered incomplete.
@@ -80,10 +80,8 @@ Completed Application Form which includes:
 <br>
 
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=XSCTQN" class="btn btn-large btn-primary" style="margin-bottom: 30px">2013 Summer Research Application Form</a>
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=XSCTQN" class="btn btn-large btn-primary" style="margin-bottom: 30px">2014 Summer Research Application Form</a>
 
-
-**Special Notice:** If you began an application form prior to December 12, 2012 you will need to re-start an application as the validation code will not work. Any letters of recommendation already sent we have and should not be resent by your recommending faculty. Our apologies for the inconvenience!
 
 If you have participated with us before, please note this year the application process form is different and INCLUDES all documentation and submissions from within the form. Any questions, please send us an email.
 

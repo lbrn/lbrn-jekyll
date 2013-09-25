@@ -29,7 +29,7 @@ title: Frequently Asked Questions
  * The program is 9-weeks long.
  
 
-* The 2013 Program will run from Monday May 27, to Friday, August 2nd, 2013 for Undergraduate and Graduate student participants.
+* The 2013 Program will run from May 26 (Memorial Day) – August 1, 2014 (tentative) for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
