@@ -15,13 +15,13 @@ title: Frequently Asked Questions
 * Students who are attending a university or college in the state of Louisiana, except LSU Baton Rouge and Tulane students.
  
 
-* Students who are not graduating between January through August of 2013.
+* Students who are not graduating between January through August of 2014.
  
 
  
  
 
-### *LBRN Summer Research Program dates 2013*
+### *LBRN Summer Research Program dates 2014*
 
 **What are the program dates?**
  
@@ -29,7 +29,7 @@ title: Frequently Asked Questions
  * The program is 9-weeks long.
  
 
-* The 2013 Program will run from May 26 (Memorial Day) – August 1, 2014 (tentative) for Undergraduate and Graduate student participants.
+* The 2014 Program will run from May 26 (Memorial Day) – August 1, 2014 (tentative) for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -188,7 +188,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Friday, February 15, 2013.
+* The application deadline is Friday, February 12, 2014.
  
 
  
@@ -255,7 +255,7 @@ title: Frequently Asked Questions
 **When and how will I be notified of my acceptance into the LBRN program?**
  
 
-* Letters will be emailed by the end of April, 2013.
+* Letters will be emailed by the end of April, 2014.
 
  
 
@@ -281,4 +281,5 @@ title: Frequently Asked Questions
 **Can personal vehicles be parked on the campus and is there a charge for parking?**
  
 
-* Yes, you may park your personal vehicle on campus. Yes, there is a charge for parking. When you let us know if you are staying on or off campus we'll let you know the cost for the parking permit.Last Updated: Tuesday, March 05 2013 @ 02:06 PM CST
+* Yes, you may park your personal vehicle on campus. Yes, there is a charge for parking. When you let us know if you are staying on or off campus we'll let you know the cost for the parking permit.
+
