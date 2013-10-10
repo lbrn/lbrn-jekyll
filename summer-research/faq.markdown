@@ -26,7 +26,7 @@ title: Frequently Asked Questions
 **What are the program dates?**
  
 
- * The program is 9-weeks long.
+ * The program is 10-weeks long.
  
 
 * The 2014 Program will run from May 26 (Memorial Day) – August 1, 2014 (tentative) for Undergraduate and Graduate student participants.
@@ -69,7 +69,7 @@ title: Frequently Asked Questions
 **Can I live off campus?**
  
 
-* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed East Campus Apartments for students working at LSU in Baton Rouge.
+* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments for students working at LSU in Baton Rouge.
  
 
 * For students who currently live at home or already have an apartment, please stay there and we cannot reimburse rents.
@@ -83,7 +83,7 @@ title: Frequently Asked Questions
 **May I take classes or have another job during the summer program?**
  
 
-* No. Nine weeks may sound like a long time, but it is a very short period in which to do any meaningful research. You will be working with your group and may not have free time; therefore, we do not allow student researchers to take classes or hold an outside job. You must be willing to devote your entire attention to the program.
+* No. Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. You will be working with your group and may not have free time; therefore, we do not allow student researchers to take classes or hold an outside job. You must be willing to devote your entire attention to the program.
  
 
  
@@ -169,7 +169,7 @@ title: Frequently Asked Questions
 * Undergraduate students will earn up to $4,000 for the whole summer.
  
 
-* Graduate students will earn up to  $6,000 for the whole summer.
+* Graduate students will earn up to $6,000 for the whole summer.
  
 
 * Faculty will depend on your proposed budget, which cannot exceed $19,000 total cost.
@@ -194,12 +194,12 @@ title: Frequently Asked Questions
  
  
 
-### *Housing - East Campus Apartments*
+### *Housing - Campus Apartments*
 
 **Is housing available?**
  
 
-* The LBRN office can arrange for participants to stay at the LSU East Campus Apartments if necessary. These are 4 bedroom units and you will live with other students (same gender) from one of our summer research programs.
+* The LBRN office can arrange for participants to stay at the LSU Campus Apartments if necessary. These are 4 bedroom units and you will live with other students (same gender) from one of our summer research programs. This is subject to change pending LSU Residential Housing arrangements.
  
 
 * The cost of housing will be covered by the LBRN Summer Undergraduate Research Program.
