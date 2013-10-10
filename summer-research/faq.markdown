@@ -46,7 +46,7 @@ title: Frequently Asked Questions
 **Am I required to be on the LSU campus (or other research facility) for the full term?**
  
 
-* Yes. Nine weeks may sound like a long time, but it is a very short period in which to do any meaningful research. You must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
+* Yes. Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. Undergraduates must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
  
 
  
