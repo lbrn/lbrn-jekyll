@@ -12,7 +12,7 @@ title: Other Research Opportunities
 - [TNPRC Veterinary Fellowship Program for Veterinary Student][7]
 
 [1]: http://www.programofdistinction.info/
-[2]: http://research.lsu.edu/UndergraduateResearch/HHMI/item39171.html
+[2]: http://lsuhhmi.com/
 [3]: http://reu.cct.lsu.edu/
 [4]: http://www.institute.loni.org/lasigma/reu/apply/index.php
 [5]: http://www.phys.lsu.edu/newwebsite/undergraduate/reu_program/
