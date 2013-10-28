@@ -3,7 +3,7 @@ layout: annual-meeting
 title: Event Registration
 ---
 
-Confirm your participation in the LBRN 11th Annual Meeting by registering. Registration is required to provide meeting space, materials and planned food and beverage functions. We look forward to your participation at the meeting.
+Confirm your participation in the LBRN 12th Annual Meeting by registering. Registration is required to provide meeting space, materials and planned food and beverage functions. We look forward to your participation at the meeting.
 
 This year's event is being held at the [Marriot Convention Center in Downtown New Orleans](http://www.marriott.com/hotels/travel/msymc-new-orleans-downtown-marriott-at-the-convention-center/).
 
