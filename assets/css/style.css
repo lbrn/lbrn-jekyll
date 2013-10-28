@@ -141,3 +141,7 @@ footer {
   width: 100%;
   height: 433px !important;
 }
+
+[data-toggle=collapse] {
+  height: inherit !important;
+}

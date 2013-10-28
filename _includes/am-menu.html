@@ -1,0 +1,42 @@
+
+<ul class="nav nav-pills srp-nav">
+  {% if page.title == "General Information" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting">General Information</a>
+  </li>
+
+  {% if page.title == "Event Registration" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting/event">Event Registration</a>
+  </li>
+
+  {% if page.title == "Hotel Registration" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting/hotel">Hotel Registration</a>
+  </li>
+
+  {% if page.title == "Poster Registration" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting/poster">Poster Registration</a>
+  </li>
+
+  {% if page.title == "Presentation Registration" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting/presentation">Presentation Registration</a>
+  </li>
+</ul>
