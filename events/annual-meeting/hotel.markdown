@@ -3,10 +3,12 @@ layout: annual-meeting
 title: Hotel Registration
 ---
 
-<span class="text-error">Deadline for registration is Monday, January 7, 2014</span>. After this date you will not be able to receive the discounted group rate.
+<p class="text-error">Deadline for registration is Monday, January 6, 2014.</p>
 
-The hotel for this annual meeting is the Fairfield Inn &amp; Suites Ruston.
+After this date you will not be able to receive the discounted group rate.
 
-*Remember to make hotel reservation if needed if you live outside Ruston. Hotel block name/link will be provided with your registration to the event.*
+The hotel for this annual meeting is the same location as the event, the [Marriot Convention Center in Downtown New Orleans](http://www.marriott.com/hotels/travel/msymc-new-orleans-downtown-marriott-at-the-convention-center/).
 
-Contact Mrs. Terri Gilbert, tgilbert@lsu.edu, if you need to cancel your registration or if you have any questions.
+*Remember to make hotel reservation if needed if you live outside New Orleans.* Hotel block name/link will be provided with your registration to the event.
+
+Contact Mrs. Terri Gilbert, [tgilbert@lsu.edu](mailto:tgilbert@lsu.edu), if you need to cancel your registration or if you have any questions.

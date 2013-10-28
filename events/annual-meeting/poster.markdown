@@ -9,6 +9,6 @@ Posters must be 4 ft wide X 4 ft. tall or smaller. <span class="text-error">Velc
 
 The poster abstract cannot exceed 2000 characters. Please avoid using scientific notation and special characters in your abstract. Abstracts for the poster presentations will be printed in the program.
 
-<span class="text-error">Deadline for poster abstract submission is Monday, January 7, 2014.</span>
+<p class="text-error">Deadline for poster abstract submission is Monday, January 6, 2014.</p>
 
 <a href="https://redcap.lbrn.lsu.edu/surveys/?s=gFiQIE" class="btn btn-info btn-large">Continue to Poster Presentation Abstract Submission</a>
