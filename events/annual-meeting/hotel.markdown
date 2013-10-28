@@ -3,7 +3,7 @@ layout: annual-meeting
 title: Hotel Registration
 ---
 
-<span class="text-error">Deadline for registration is Monday, January 7, 2013</span>. After this date you will not be able to receive the discounted group rate.
+<span class="text-error">Deadline for registration is Monday, January 7, 2014</span>. After this date you will not be able to receive the discounted group rate.
 
 The hotel for this annual meeting is the Fairfield Inn &amp; Suites Ruston.
 
