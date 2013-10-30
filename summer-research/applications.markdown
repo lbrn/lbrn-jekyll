@@ -88,9 +88,9 @@ If you have participated with us before, please note this year the application p
 You can follow our recruiting visits, etc. by following our program on [Twitter][6] or liking us on [Facebook][7].
 
 
-[1]: http://lbrn.lsu.edu/portal/pdf/2014%20LBRN%20SRP%20Faculty%20Instructions.pdf
+[1]: {{ site.baseurl }}assets/docs/2014%20LBRN%20SRP%20Faculty%20Instructions.pdf
 [2]: http://lbrn.lsu.edu/portal/facultymentorlist.php
-[3]: http://lbrn.lsu.edu/portal/pdf/2014%20LBRN%20SRP%20GS%20Instructions.pdf
+[3]: {{ site.baseurl }}assets/docs/2014%20LBRN%20SRP%20GS%20Instructions.pdf
 [4]: http://lbrn.lsu.edu/portal/gradmentorlist.php
 [5]: http://lbrn.lsu.edu/portal/undermentorlist.php
 [6]: https://twitter.com/lbrn_inbre
