@@ -14,7 +14,7 @@ title: How To Get Selected
 #### **Graduate Students Must:**
  
 
-1. Be enrolled in a graduate program in a University in the state of Louisiana *(excluding LSU Baton Rouge & Tulane University)*.
+1. Be enrolled in a graduate program in a University in the state of Louisiana **(excluding LSU Baton Rouge & Tulane University)**.
 2. Have at least a 3.0 GPA.
 3. Consider pursuing a career in the Biological or Computational Sciences.
  
@@ -22,7 +22,7 @@ title: How To Get Selected
 #### **Undergrads must:**
  
 
-1. Be enrolled in a University in the state of Louisiana *(excluding LSU Baton Rouge and Tulane University)*.
+1. Be enrolled in a University in the state of Louisiana **(excluding LSU Baton Rouge and Tulane University)**.
 2. Be a science major with at least a 3.0 GPA.
 3. Consider pursuing a career in the Biological or Computational Sciences.
 4. Have completed appropriate science introductory courses.
