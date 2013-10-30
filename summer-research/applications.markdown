@@ -25,7 +25,7 @@ Completed Application Form which includes:
   - Budget Justification
   - Research Plan
   - Biosketch (PI and Mentors)
-<br>
+  
 2. Collaboration agreement from prospective Mentors.
 
 All documents will be submitted within the Application Form. A copy of the instructions are available here: [2014 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
@@ -43,7 +43,6 @@ Completed Application Form which includes:
 1. Statement of Interest. Statement should include:
   - How this program will enhance your graduate research
   - What you plan to do with your science future
-
 
 2. Brief 1-2 page outline of your graduate research plan.
 
