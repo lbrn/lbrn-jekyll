@@ -25,7 +25,7 @@ Completed Application Form which includes:
   - Budget Justification
   - Research Plan
   - Biosketch (PI and Mentors)
-
+<br>
 2. Collaboration agreement from prospective Mentors.
 
 All documents will be submitted within the Application Form. A copy of the instructions are available here: [2014 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
@@ -43,6 +43,7 @@ Completed Application Form which includes:
 1. Statement of Interest. Statement should include:
   - How this program will enhance your graduate research
   - What you plan to do with your science future
+
 
 2. Brief 1-2 page outline of your graduate research plan.
 
@@ -66,6 +67,7 @@ Completed Application Form which includes:
   - Why you should be chosen for this program
   - What life experiences you have had that could contribute to a laboratory group
   - What you plan to do with your science future
+
 
 2. Three letters of recommendation from college faculty members, two of whom are in science (on department or college letterhead), which should be submitted via the application form link that will be provided when you begin the application by the faculty members. **Note: you must have completed the pre-application form** for the faculty to be able to submit the letter using this form, otherwise your name will not show up for submission on the form.
 
