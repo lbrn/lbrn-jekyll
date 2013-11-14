@@ -11,9 +11,7 @@
 
 #### Developing
 
-**Important!**
-
-Large files such as images and documents (pdf, word, etc) are not pushed to this repository. Instead, they reside in a special `files` folder that exists on the development and production servers.
+**Important!** Large files such as images and documents (pdf, word, etc) are not pushed to this repository. Instead, they reside in a special `files` folder that exists on the development and production servers.
 
 Before developing, be sure to copy the `files` folder into the `lbrn-jekyll` folder. To get access to the server, consult [John Quebedeaux](mailto:johnq@lsu.edu).
 
