@@ -4,7 +4,7 @@ title: LBRN 2013-14 Competition for INBRE Research Project
 author: LBRN
 ---
 
-<a href="{{ site.baseurl }}assets/docs/INBRE_RFA_2013_2014_research_competition version 3.pdf"><img src="{{ site.baseurl }}assets/images/news/inbre-research-competition-info.png"></a>
+<a href="{{ site.baseurl }}files/docs/INBRE_RFA_2013_2014_research_competition version 3.pdf"><img src="{{ site.baseurl }}files/images/news/inbre-research-competition-info.png"></a>
 
 **Deadlines**
 
