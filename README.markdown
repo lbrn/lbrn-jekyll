@@ -11,19 +11,26 @@
 
 #### Developing
 
-1. Edit the site using whatever editor you like. When you are satisfied with your change, add your changed files..
+**Important!**
+
+Large files such as images and documents (pdf, word, etc) are not pushed to this repository. Instead, they reside in a special "files" folder that exists on the development and production servers.
+
+Before developing, be sure to sync this folder to the `lbrn-jekyll` folder. To get access to the server, consult [John Quebedeaux](mailto:johnq@lsu.edu).
+
+
+- You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to kill the server.
+
+- Edit the site using whatever editor you like. When you are satisfied with your change, add your changed files.
     ```bash
     $ git add .
     ```
 
-2. You can use `$ jekyll serve` to see your changes on [localhost:4000](http://localhost:4000) while you develop. Press `ctrl+c` to kill the server.
-
-3. Commit the changes and add a short message explaining what you changed...
+- Commit the changes and add a short message explaining what you changed...
     ```bash
     $ git commit -m "added a new news post"
     ```
 
-4. And publish your changes to Github:
+- And publish your changes to Github:
     ```bash
     $ git push origin
     ```
