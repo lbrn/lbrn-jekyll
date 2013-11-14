@@ -3,7 +3,7 @@ layout: annual-meeting
 title: Hotel Registration
 ---
 
-<a href="{{ site.baseurl }}assets/images/annual-meeting/hotel.jpg"><img class="pull-right img-polaroid" style="width: 300px" src="{{ site.baseurl }}assets/images/annual-meeting/hotel.jpg"></a>
+<a href="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"><img class="pull-right img-polaroid" style="width: 300px" src="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"></a>
 
 <p class="text-error">Deadline for registration is Monday, January 6, 2014.</p>
 

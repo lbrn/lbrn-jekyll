@@ -4,7 +4,7 @@ title: South Central Chapter of Society of Toxicology 2013 Annual Fall Meeting
 author: LBRN
 ---
 
-<a href="{{ page.url }}"><img src="{{ site.baseurl }}assets/images/news/SCC-SOT_2013_new_announcement.jpg"></a>
+<a href="{{ page.url }}"><img src="{{ site.baseurl }}files/images/news/SCC-SOT_2013_new_announcement.jpg"></a>
 
 The SCC-SOT serves academic, government, and industrial toxicologists throughout the stats of Arkansas, Louisiana, Mississippi, Oklahoma, and western Tennessee.
 
