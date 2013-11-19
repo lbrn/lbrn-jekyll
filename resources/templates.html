@@ -1,0 +1,25 @@
+---
+layout: page
+title: PowerPoint Templates
+---
+
+<ul class="thumbnails">
+{% for i in (1..6) %}
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="{{ site.baseurl }}files/images/powerpoint-templates/{{ i }}.jpg" alt="{{ i }}">
+      <div class="caption">
+        <h3>Template {{ i }}</h3>
+        <p><a href="{{ site.baseurl }}files/docs/powerpoint-templates/Presentation_Template_{{ i }}.ppt" class="btn btn-primary">Download</a></p>
+      </div>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+<p>
+  <strong>LBRN banner available for use in publications/presentations:</strong>
+</p>
+<p>
+  <a href="/files/images/lbrn.jpg"><img src="/files/images/lbrn.jpg" width="300px" height="65px"></a>
+</p>
