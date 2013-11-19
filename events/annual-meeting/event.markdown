@@ -3,7 +3,7 @@ layout: annual-meeting
 title: Event Registration & Hotel Information
 ---
 
-<a href="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"><img class="pull-right img-polaroid" style="width: 300px" src="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"></a>
+<a href="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"><img class="pull-right img-polaroid" style="width: 450px" src="{{ site.baseurl }}files/images/annual-meeting/hotel.jpg"></a>
 
 Confirm your participation in the LBRN 12th Annual Meeting by registering. Registration is required to participate in the program, provide meeting space, materials, food and beverage at all the planned functions. Hotel reservation information and abstract submission forms for the Poster and Oral presentations will be provided after you have registered. We look forward to your participation at the meeting!
 
