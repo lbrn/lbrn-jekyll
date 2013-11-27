@@ -7,7 +7,7 @@ title: Event Registration & Hotel Information
 
 Confirm your participation in the LBRN 12th Annual Meeting by registering. Registration is required to participate in the program, provide meeting space, materials, food and beverage at all the planned functions. Hotel reservation information and abstract submission forms for the Poster and Oral presentations will be provided after you have registered. We look forward to your participation at the meeting!
 
-This year's event is being held at the [Marriot Convention Center in Downtown New Orleans](http://www.marriott.com/hotels/travel/msymc-new-orleans-downtown-marriott-at-the-convention-center/).
+This year's event is being held at the [Marriott Convention Center in Downtown New Orleans](http://www.marriott.com/hotels/travel/msymc-new-orleans-downtown-marriott-at-the-convention-center/).
 
 If for any reason that you need to cancel your registration or if you have any questions, please contact Mrs. Terri Gilbert, [tgilbert@lsu.edu](mailto:tgilbert@lsu.edu).
 
