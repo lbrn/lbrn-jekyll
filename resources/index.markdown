@@ -4,18 +4,23 @@ title: Resources and Collaboration
 ---
 
 <style>
+	h3 { margin-bottom: 20px }
+	ul { list-style: none; margin-bottom: 40px; }
 	p { margin-bottom: 40px }
 </style>
 
-Here, you can find some of LBRN's numerous resources and links to organizations that we collaborate with.
+### Noteworthy Links
 
-#### [BioMMED](http://www1.vetmed.lsu.edu/BioMMED/index.html)
+- [BioMMED](http://www1.vetmed.lsu.edu/BioMMED/index.html)
+- [CEIDR](http://cobre.ceidr.lsu.edu/)
+- [NIH Links]({{ site.baseurl }}resources/nih)
+- [CCT](https://www.cct.lsu.edu/)
 
-BioMMED is a multidisciplinary research, support and development unit that provides centralized access to state-of-the-art equipment and advanced training in molecular and cell biology. 
 
-#### [CEIDR](http://cobre.ceidr.lsu.edu/)
+#### [NIh Acknowledgement]({{ site.baseurl }}resources/nih-ackowledgement)
 
-CEIDR provides an outstanding infrastructure support and training environment for the next generation of infectious disease researchers through 3 core labs GeneLab , Protein Lab and Molecular Immunopathology (MIP) Core . They are particularly interested in training veterinarians in NIH-focused research in pursuit of the “One Medicine” and “Comparative Medicine” research opportunities.
+The details of the NIH acknowledgement required by our grant and our grant participants.
+
 
 #### [Video Repository](https://www.youtube.com/user/LBRNINBRE/videos)
 
