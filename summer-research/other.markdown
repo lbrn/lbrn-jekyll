@@ -3,7 +3,6 @@ layout: summer-research
 title: Other Research Opportunities
 ---
 
-- [Bioinformatics Internships for Undergraduate Students (BIUS) in the Southeast INBRE Region][1]
 - [Howard Hughes Medical Institute (HHMI) Undergraduate Biological Sciences Education Program][2]
 - [Center for Computation and Technology REU Program][3]
 - [Louisiana Alliance for Simulation-Guided Materials Applications (LA-SiGMA) REU Program][4]
@@ -11,7 +10,6 @@ title: Other Research Opportunities
 - [LSUHSC-NO Summer Research Internship Opportunities][6]
 - [TNPRC Veterinary Fellowship Program for Veterinary Student][7]
 
-[1]: http://www.programofdistinction.info/
 [2]: http://lsuhhmi.com/
 [3]: http://reu.cct.lsu.edu/
 [4]: http://www.institute.loni.org/lasigma/reu/apply/index.php
