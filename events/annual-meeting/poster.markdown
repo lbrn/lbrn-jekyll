@@ -11,4 +11,4 @@ The poster abstract cannot exceed 2000 characters. Please avoid using scientific
 
 <p class="text-error">Deadline for poster abstract submission is Wednesday, January 15, 2014.</p>
 
-<p><em>The abstract submission form will be emailed to you after your event registration has been completed. </em></p>
+*The abstract submission form will be emailed to you after your event registration has been completed.*
