@@ -19,3 +19,5 @@ h3 {
 .bio-picture {
 	width: 135px;
 }
+
+p strong a { color: #333 }
