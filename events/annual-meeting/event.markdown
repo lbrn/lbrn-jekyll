@@ -12,7 +12,7 @@ This year's event is being held at the [Marriott Convention Center in Downtown N
 If for any reason that you need to cancel your registration or if you have any questions, please contact Mrs. Terri Gilbert, [tgilbert@lsu.edu](mailto:tgilbert@lsu.edu).
 
 <p class="text-error">
-	Deadline for registration is Wednesday, January 8, 2014.
+	Deadline for registration was Wednesday, January 8, 2014.
 </p>
 
 *Note: after the deadline you will not be able to receive the discounted hotel group rate.*
