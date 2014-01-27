@@ -28,7 +28,7 @@ Completed Application Form which includes:
   
 2. Collaboration agreement from prospective Mentors.
 
-All documents will be submitted within the Application Form. A copy of the instructions are available here: [2014 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
+All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2014 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
 
 [Prospective Faculty mentor list (click to view)][2]
 
@@ -50,7 +50,7 @@ Completed Application Form which includes:
 
 4. An official copy of your current college transcript–to be sent by your college directly to (best to request one after you receive your Fall/Winter semester final grades and that it shows your courses for the Spring semester) **OR** submit an unofficial copy (PDF or JPEG) of your current college transcript.
 
-All documents will be submitted within the Application Form. A copy of the instructions are available here: [2014 LBRN SRP GS Instructions.pdf][3]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
+All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2014 LBRN SRP GS Instructions.pdf][3]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
 
 [Prospective Graduate mentor list (click to view)][4]
 
@@ -72,7 +72,7 @@ Completed Application Form which includes:
 
 3. An official copy of your current college transcript–to be sent by your college directly to (best to request one after you receive your Fall/Winter semester final grades and that it shows your courses for the Spring semester) **OR** submit an unofficial copy (PDF or JPEG) of your current college transcript.
 
-4. All documents will be submitted within the Application Form.
+4. All documents will be submitted within the online Application Form.
 
 [Prospective Undergraduate mentor list (click to view)][5]
 
