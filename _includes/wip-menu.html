@@ -1,0 +1,25 @@
+<ul class="nav nav-pills srp-nav">
+  {% if page.title == "Current Seminars" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/work-in-progress">Current Seminars</a>
+  </li>
+
+  {% if page.title == "Past Seminars" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/work-in-progress/past">Past Seminars</a>
+  </li>
+
+  {% if page.title == "Locations" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/work-in-progress/locations">Locations</a>
+  </li>
+</ul>
