@@ -17,4 +17,4 @@ If for any reason that you need to cancel your registration or if you have any q
 
 *Note: after the deadline you will not be able to receive the discounted hotel group rate.*
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=pFZVMeGjpq" class="btn btn-info btn-large">Continue to Event Registration Form</a>
+<!-- <a href="https://redcap.lbrn.lsu.edu/surveys/?s=pFZVMeGjpq" class="btn btn-info btn-large">Continue to Event Registration Form</a> -->
