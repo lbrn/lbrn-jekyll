@@ -188,7 +188,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Friday, February 12, 2014.
+* The application deadline is Wednesday, February 12, 2014.
  
 
  
