@@ -1,0 +1,33 @@
+<ul class="nav nav-pills srp-nav">
+  {% if page.title == "General Information" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/computational-workshop">General Information</a>
+  </li>
+
+  {% if page.title == "Registration" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/computational-workshop/registration">Registration</a>
+  </li>
+
+  {% if page.title == "Hotel Information" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/computational-workshop/hotel">Hotel Information</a>
+  </li>
+
+  {% if page.title == "Covered Expenses" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/computational-workshop/expenses">Covered Expenses</a>
+  </li>
+</ul>
