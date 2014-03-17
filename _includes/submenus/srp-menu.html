@@ -48,6 +48,14 @@
     <a href="{{ site.baseurl }}summer-research/resources">Resources</a>
   </li>
 
+  {% if page.title == "Calendar" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}summer-research/calendar">Calendar</a>
+  </li>
+
   {% if page.title == "Contact" %}
   <li class="active">
   {% else %}
@@ -55,7 +63,7 @@
   {% endif %}
     <a href="{{ site.baseurl }}summer-research/contact">Contact</a>
   </li>
-  
+
   {% if page.title == "Other Research Opportunities" %}
   <li class="active">
   {% else %}
