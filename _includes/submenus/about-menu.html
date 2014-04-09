@@ -7,6 +7,14 @@
     <a href="{{ site.baseurl }}about">About Us</a>
   </li>
 
+  {% if page.title == "Admin Core" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}about/admin">Admin Core</a>
+  </li>
+
   {% if page.title == "Molecular and Cell Biology Core" %}
   <li class="active">
   {% else %}
