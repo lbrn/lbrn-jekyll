@@ -14,6 +14,10 @@ LBRN hosts many events throughout the year.
 
 Each year the LBRN program has an annual meeting in which program participants, committee members and administrators meet to review individual research accomplishments and to discuss the overall program activity.
 
+#### [Bioinformatics Conference]({{ site.baseurl }}events/bioinformatics-conference)
+
+LBRN/CCT/COBRE hosts a one and a half day bioinformatics conference where we invite researchers, faculty, graduate and undergraduate students to attend.
+
 #### [Computational Workshop]({{ site.baseurl }}events/computational-workshop)
 
 LBRN hosts a one-day workshop where we invite researchers, faculty, graduate and undergraduate students to attend.
