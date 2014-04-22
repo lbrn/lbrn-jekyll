@@ -11,7 +11,7 @@ title: Registration
   <p class="text-error">
     If you require hotel lodging, you must register by May 1st and confirm with Terri Gilbert via email for a room overnight on May 15th.
   </p>
-  <a href="https://redcap.lbrn.lsu.edu/surveys/?s=zCoxVN" class="btn btn-large btn-primary">
+  <a href="https://redcap.lbrn.lsu.edu/surveys/?s=AB42nkrzfY" class="btn btn-large btn-primary">
     Continue to Event Registration
   </a>
 </div>

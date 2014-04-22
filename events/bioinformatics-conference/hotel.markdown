@@ -19,7 +19,7 @@ title: Hotel Information
   <p class="text-error">
     The deadline to get your name on the hotel block list that LBRN has established is May 1st with Terri Gilbert via email.
   </p>
-  <a href="https://redcap.lbrn.lsu.edu/surveys/?s=zCoxVN" class="btn btn-large btn-primary">
+  <a href="https://redcap.lbrn.lsu.edu/surveys/?s=AB42nkrzfY" class="btn btn-large btn-primary">
     Continue to Event Registration
   </a>
 </div>
