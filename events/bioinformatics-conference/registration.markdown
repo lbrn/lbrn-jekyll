@@ -1,6 +1,6 @@
 ---
 layout: bio-conf
-title: Registration
+title: Registration and Posters
 ---
 
 #### Wednesday, May 1, 2014 is the deadline to register.
