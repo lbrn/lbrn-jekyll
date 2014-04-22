@@ -15,3 +15,12 @@ title: Registration
     Continue to Event Registration
   </a>
 </div>
+
+
+### Poster Requirements
+
+Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
+
+*Information for submitting a poster abstract by the deadline will be emailed to you with your event registration.*
+
+**You must register for the event in order to submit a poster.** Due to limited space, poster acceptance will be given on a first-come-first-serve basis.

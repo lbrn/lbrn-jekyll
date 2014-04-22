@@ -8,12 +8,12 @@ title: Hotel Information
 *Guests who require overnight lodging on May 15th, Thursday, should confirm with Terri Gilbert via e-mail (see your email registration for full information).*
 
 
-**_<a href="http://batonrougesouth.place.hyatt.com/en/hotel/home.html">Hyatt Place</a>_**<br>
+**_[Hyatt Place](http://batonrougesouth.place.hyatt.com/en/hotel/home.html)_**<br>
 *6080 Bluebonnet Boulevard*<br>
 *Baton Rouge, Louisiana*<br>
 *70809*
 
-**_<a href="http://batonrougesouth.place.hyatt.com/en/hotel/our-hotel/map-and-directions.html?icamp=propMapDirections">Directions to Hotel</a>_**<br>
+**_[Directions to Hotel](http://batonrougesouth.place.hyatt.com/en/hotel/our-hotel/map-and-directions.html?icamp=propMapDirections)_**<br>
 
 <div class="well">
   <p class="text-error">
