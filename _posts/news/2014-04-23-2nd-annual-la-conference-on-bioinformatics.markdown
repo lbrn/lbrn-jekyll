@@ -10,11 +10,9 @@ The conference includes Plenary speakers and specialized technology-based presen
  
 We invite you to submit abstracts for poster sessions on May 15-16, which will be included in the printed program. Topics include but not limited to: bioinformatics, molecular modeling, next generation sequencing, genomics, proteomics, phylogenetics, protein structure and function, etc. These abstracts can be in the broad areas of research such as cancer biology, infectious diseases, drug discovery, medical diagnostics etc. The last date for submission of abstracts is Monday, May 5th, 2014. The abstract submission form is available to you after you register for the event.
   
-We are very excited about this meeting and look forward tour enthusiastic participation!
- 
-LBRN/CCT/CEIDR
+We are very excited about this meeting and look forward tour enthusiastic participation! We look forward to your participation in this effort to promote and enhance bioinformatics in Louisiana.
 
-We look forward to your participation in this effort to promote and enhance bioinformatics in Louisiana
+[LBRN](http://lbrn.lsu.edu)/[CCT](http://www.cct.lsu.edu)/[CEIDR](http://cobre.ceidr.lsu.edu)
  
 Thomas R Klei    
 Director and PI, LBRN, 
