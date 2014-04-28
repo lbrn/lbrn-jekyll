@@ -3,7 +3,7 @@ layout: post
 title: 2nd Annual LA Conference on Bioinformatics
 author: LBRN
 ---
-<a href="{{ site.baseurl }}events/bioinformatics-conference/"><img src="/files/images/bio-conf/2nd_Bioinformatics_V6_LOGO.png"></a>
+<a href="{{ site.baseurl }}events/bioinformatics-conference/"><img src="/files/images/bio-conf/2nd_Bioinformatics_V6b_LOGO.png"></a>
 
 We are happy to announce that "The 2nd Annual Louisiana Conference on Bioinformatics" will be held on May 15-16, 2014 at the Center for Computation and Technology (CCT), LSU Baton Rouge. The conference is sponsored by the Louisiana Biomedical Research Network (LBRN), CCT and the LSU-Tulane Center for Experimental Infectious Disease Research. The main goal of the conference is to provide a platform for exchange of information and technical knowledge among Louisiana-based scientists involved in different aspects of bioinformatics.
  
