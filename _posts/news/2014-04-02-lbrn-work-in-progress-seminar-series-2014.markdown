@@ -4,7 +4,7 @@ title: LBRN Work In Progress Seminal Series
 author: LBRN
 ---
 
-<a href="{{ site.baseurl }}events/work-in-progress"><img src="/files/images/wipflyer.png"></a>
+<a href="{{ site.baseurl }}events/work-in-progress"><img src="/files/images/wipflyer2014-spr.png"></a>
 
 
 The LBRN Work-in-progress Seminar Series will be held via Access Grid (please check your local access grid for these events) on the following schedule.
