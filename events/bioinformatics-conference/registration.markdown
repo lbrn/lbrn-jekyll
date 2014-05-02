@@ -3,8 +3,7 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Wednesday, May 1, 2014 is the deadline to register.
-
+#### Wednesday, May 1, 2014 is the deadline to register for the conference.
 *As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.*
 
 <div class="well">
@@ -18,9 +17,10 @@ title: Registration and Posters
 
 
 ### Poster Requirements
+#### Poster Abstracts will be due Monday, May 5th, 2014.
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
-*Information for submitting a poster abstract by the deadline will be emailed to you with your event registration.*
+*Information for submitting a poster abstract by the deadline will be emailed to you with your event registration.Your event confirmation has the link.*
 
 **You must register for the event in order to submit a poster.** Due to limited space, poster acceptance will be given on a first-come-first-serve basis.
