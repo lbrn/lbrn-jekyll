@@ -5,7 +5,7 @@ title: Hotel Information
 
 #### Lodging will be at Hyatt Place with reservations to be made by registering for the conference by May 1st, 2014.
 
-*Guests who require overnight lodging on May 15th, Thursday, should confirm with Terri Gilbert via e-mail (see your email registration for full information).*
+*Guests who require overnight lodging on May 15th, Thursday, should have confirm with Terri Gilbert via e-mail (see your email registration for full information).*
 
 
 **_[Hyatt Place](http://batonrougesouth.place.hyatt.com/en/hotel/home.html)_**<br>
