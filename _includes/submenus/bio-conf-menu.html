@@ -30,7 +30,15 @@
   {% endif %}
     <a href="{{ site.baseurl }}events/bioinformatics-conference/expenses">Covered Expenses</a>
   </li>
-
+  
+	{% if page.title == "Committees" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/bioinformatics-conference/location">Location and Parking</a>
+  </li>
+  
   {% if page.title == "Committees" %}
   <li class="active">
   {% else %}
