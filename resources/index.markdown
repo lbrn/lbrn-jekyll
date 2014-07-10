@@ -17,7 +17,7 @@ title: Resources and Collaboration
 - [CCT](https://www.cct.lsu.edu/)
 
 
-#### [NIh Acknowledgement]({{ site.baseurl }}resources/nih-ackowledgement)
+#### [NIh Acknowledgement]({{ site.baseurl }}resources/nih-acknowledgement)
 
 The details of the NIH acknowledgement required by our grant and our grant participants.
 
