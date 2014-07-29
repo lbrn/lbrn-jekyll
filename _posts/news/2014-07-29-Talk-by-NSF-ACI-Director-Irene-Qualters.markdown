@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Talk by NSF-ACI Director Irene Qualters, July 30, 5:15pm LSU Digital Media Center Theater
+title: Talk by NSF-ACI Director Irene Qualters
 author: LBRN
 ---
+
+*July 30, 5:15pm LSU Digital Media Center Theater*
 
 [![IreneQualtersFlyer](/files/images/IreneQualtersFlyer.png)](/files/docs/IreneQualtersFlyer.pdf)
 
