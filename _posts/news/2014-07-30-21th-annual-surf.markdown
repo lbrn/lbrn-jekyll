@@ -12,7 +12,7 @@ The 21st Annual Summer Undergraduate Research Forum (SURF) where undergraduate s
 
 Please come and ask the participants about their summer research!
 
-[SURF Program 2014 (2014.07.30)](/files/docs/surf_2014_program.pdf)
+[SURF Program 2014 (2014.07.30)](/files/docs/Surf_2014_Program.pdf)
 
 For more information and registration info for SURF 2014 please visit SURF ([click here](/events/surf)).
 
