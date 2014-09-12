@@ -37,7 +37,7 @@ The LBRN Work-in-progress Seminar Series will be held via Access Grid / SeeVogh 
 	
 	Elahe Mahdavian, PhD, LSU Shreveport
   
-- **October 29, 9:00-10:30 AM**
+- **October 29, 9:00-11:15 AM**
 
 	Seetharama Satyanarayanajois, PhD, University of Louisiana Monroe
 	
