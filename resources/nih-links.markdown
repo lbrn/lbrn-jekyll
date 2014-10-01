@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resources
 title: NIH Resources
 ---
 

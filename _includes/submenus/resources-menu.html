@@ -1,0 +1,57 @@
+<ul class="nav nav-pills srp-nav">
+  {% if page.title == "General" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources">General Information</a>
+  </li>
+
+  {% if page.title == "NIH Acknowledgement" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/nih-acknowledgement">NIH Acknowledgement</a>
+  </li>
+
+  {% if page.title == "NIH Links" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/nih-links">NIH Links</a>
+  </li>
+
+  {% if page.title == "Poster Boards" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/poster-boards">Poster Boards</a>
+  </li>
+
+  {% if page.title == "REDCap" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/redcap">REDCap</a>
+  </li>
+
+  {% if page.title == "Templates" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/templates">Templates</a>
+  </li>
+
+  {% if page.title == "Videos" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/videos">Videos</a>
+  </li>
+</ul>

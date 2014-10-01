@@ -1,9 +1,9 @@
 ---
-layout: page
-title: NIH Required Acknowledgement
+layout: resources
+title: NIH Acknowledgement
 ---
 
-So that we can most effectively communicate the scope and results of our funding support, we would like to know when you are planning news announcements about IDeA awards or program activities and achievements. 
+So that we can most effectively communicate the scope and results of our funding support, we would like to know when you are planning news announcements about IDeA awards or program activities and achievements.
 
 When you produce such material, please be sure to identify the IDeA program, not just the INBRE, COBRE or sub-program, and to provide context about the program’s goals along the lines of:
 

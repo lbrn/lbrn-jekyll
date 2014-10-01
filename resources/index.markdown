@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Resources and Collaboration
+layout: resources
+title: General
 ---
 
 <style>

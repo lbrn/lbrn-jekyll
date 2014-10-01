@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h2>Cores & Resources</h2>
+
+  {% include submenus/resources-menu.html %}
+
+  <hr style ="margin-top: 0">
+
+  {% if page.title != "General" %}
+    <h3>{{ page.title }}</h3>
+  {% endif %}
+
+  {{ content }}
+</div>
