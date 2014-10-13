@@ -4,7 +4,7 @@ title: Applications
 ---
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Deadline is February 12, 2014</strong></h4>
+  <h4><strong>Deadline is February 11, 2015</strong></h4>
   <br>
   <p>
     Note carefully the Application requirements. If these requirements are not met, the application is considered incomplete.
@@ -80,8 +80,9 @@ Completed Application Form which includes:
 <br>
 <br>
 
+#### *Application link will be here when open* ####
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=DTy65XzXiA" class="btn btn-large btn-primary" style="margin-bottom: 30px">2014 Summer Research Application Form</a>
+[comment]: <> <a href="https://redcap.lbrn.lsu.edu/surveys/?s=DTy65XzXiA" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2015 Summer Research Application Form</a>
 
 
 If you have participated with us before, please note this year the application process form is different and INCLUDES all documentation and submissions from within the form as well as a pre-application form and email responses. Any questions, please send us an email.

@@ -15,13 +15,13 @@ title: Frequently Asked Questions
 * Students who are attending a university or college in the state of Louisiana, except LSU Baton Rouge and Tulane students.
  
 
-* Students who are not graduating between January through August of 2014.
+* Students who are not graduating between January through August of 2015.
  
 
  
  
 
-### *LBRN Summer Research Program dates 2014*
+### *LBRN Summer Research Program dates 2015*
 
 **What are the program dates?**
  
@@ -29,7 +29,7 @@ title: Frequently Asked Questions
  * The program is 10-weeks long.
  
 
-* The 2014 Program will run from May 26 (Memorial Day) – August 1, 2014 (tentative) for Undergraduate and Graduate student participants.
+* The 2015 Program will run from May 25 (Memorial Day) – July 31, 2015 for Undergraduate and Graduate student participants. This is pending funding.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -188,7 +188,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Wednesday, February 12, 2014.
+* The application deadline is Wednesday, February 11, 2015.
  
 
  
@@ -255,7 +255,7 @@ title: Frequently Asked Questions
 **When and how will I be notified of my acceptance into the LBRN program?**
  
 
-* Letters will be emailed by the end of April, 2014.
+* Letters will be emailed by the end of April, 2015.
 
  
 
