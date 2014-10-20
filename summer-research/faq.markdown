@@ -69,7 +69,7 @@ title: Frequently Asked Questions
 **Can I live off campus?**
  
 
-* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments for students working at LSU in Baton Rouge.
+* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at mentor institutes such as: LSUHSC-Shreveport, LSUHSC-New Orleans, Tulane Primate Center, Tulane University, Pennington Biomedical and LSU in Baton Rouge; if you do not live in the city where the research will be conducted.
  
 
 * For students who currently live at home or already have an apartment, please stay there and we cannot reimburse rents.

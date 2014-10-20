@@ -9,7 +9,7 @@ Dr. Thomas Huckaba, Xavier University of Louisiana and Dr. Elahe Mahdavian, Loui
 
 *Topics are:*
 
-**Characterization of SwitchI Mutants in KinesinKif5A that cause Hereditary Spastic Paraplegia**
+**Characterization of SwitchI Mutants in Kinesin Kif5A that cause Hereditary Spastic Paraplegia**
 
 and
 
