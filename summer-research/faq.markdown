@@ -69,7 +69,7 @@ title: Frequently Asked Questions
 **Can I live off campus?**
  
 
-* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at mentor institutes such as: LSUHSC-Shreveport, LSUHSC-New Orleans, Tulane Primate Center, Tulane University, Pennington Biomedical and LSU in Baton Rouge; if you do not live in the city where the research will be conducted.
+* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at one of our approved mentoring instituions per the application.
  
 
 * For students who currently live at home or already have an apartment, please stay there and we cannot reimburse rents.
@@ -199,13 +199,13 @@ title: Frequently Asked Questions
 **Is housing available?**
  
 
-* The LBRN office can arrange for participants to stay at the LSU Campus Apartments if necessary. These are 4 bedroom units and you will live with other students (same gender) from one of our summer research programs. This is subject to change pending LSU Residential Housing arrangements.
+* The LBRN office can arrange for participants to stay at the LSU Campus Apartments if necessary. At these units you will live with other students (same gender) from one of our summer research programs. This is subject to change pending LSU Residential Housing arrangements.
  
 
 * The cost of housing will be covered by the LBRN Summer Undergraduate Research Program.
  
 
-* For students planning to do research outside of LSU campus, such as LSUHSC in New Orleans or Shreveport, Tulane Medical Center and Tulane National Primate Research Center will be responsible for their own housing, for additional information contact the LBRN office by email to LBRN@lsu.edu.
+* For students planning to do research outside of LSU campus, such as LSUHSC in New Orleans or Shreveport, Tulane Medical Center and Tulane National Primate Research Center housing will be arranged as long as you do not already live in the same city as these institutions. For additional information contact the LBRN office by email to LBRN@lsu.edu.
  
 
  
