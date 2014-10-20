@@ -72,7 +72,7 @@ title: Frequently Asked Questions
 * Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at one of our approved mentoring instituions per the application.
  
 
-* For students who currently live at home or already have an apartment, please stay there and we cannot reimburse rents.
+* If you reside in the same city as the mentoring institution; for students who currently live at home or already have an apartment in the mentoring city, please stay there and we cannot reimburse rents.
  
 
  
