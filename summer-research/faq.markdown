@@ -69,7 +69,7 @@ title: Frequently Asked Questions
 **Can I live off campus?**
  
 
-* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at one of our approved mentoring instituions per the application.
+* Yes, you may live anywhere you would like; however, our program can only pay for housing within the proscribed Campus Apartments or Dorms for students working at one of our approved mentoring institutions per the application.
  
 
 * If you reside in the same city as the mentoring institution; for students who currently live at home or already have an apartment in the mentoring city, please stay there and we cannot reimburse rents.
@@ -125,7 +125,7 @@ title: Frequently Asked Questions
 **What type of training will I receive?**
  
 
-* An individual research project will be assigned to you and mentored prospective faculty member.
+* An individual research project will be assigned to you by your mentor (Undergraduates).
  
 
 * Training on and first-hand use of state-of-the-art laboratory instrumentation will be provided.
