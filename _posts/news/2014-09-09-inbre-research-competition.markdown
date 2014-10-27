@@ -8,16 +8,16 @@ author: LBRN
 
 **RFAs** (click on titles to download proposal information)
 
-- **<a href="{{ site.baseurl }}files/docs/LBRN Shared Instrumentation RFA.pdf">Shared Instrumentation Funds Proposal 2015-2016</a> **
-- **<a href="{{ site.baseurl }}files/docs/LBRN Start-up Funds RFA.pdf">Start-up Funds Proposal 2015-2017</a> **
-- **<a href="{{ site.baseurl }}files/docs/LBRN Pilot Proposal RFA.pdf">Pilot Project Proposal 2015-2016</a> **
-- **<a href="{{ site.baseurl }}files/docs/LBRN Full Proposal RFA.pdf">Full Project Proposal 2015-2018</a> **
+- **<a href="{{ site.baseurl }}files/docs/LBRN Shared Instrumentation RFA v2014.10.27.pdf">Shared Instrumentation Funds Proposal 2015-2016</a>  (updated Oct 27, 2014)**
+- **<a href="{{ site.baseurl }}files/docs/LBRN Start-up Funds RFA v2014.10.27.pdf">Start-up Funds Proposal 2015-2017</a>  (updated Oct 27, 2014)**
+- **<a href="{{ site.baseurl }}files/docs/LBRN Pilot Proposal RFA v2014.10.27.pdf">Pilot Project Proposal 2015-2016</a>  (updated Oct 27, 2014)**
+- **<a href="{{ site.baseurl }}files/docs/LBRN Full Proposal RFA v2014.10.27.pdf">Full Project Proposal 2015-2018</a>  (updated Oct 27, 2014)**
 
 **Deadlines**
 
 - Announcement of RFA - **September 9, 2014 **
 - Letter of Intent - **October 1, 2014 **
-- Full proposal due - **November 3, 2014 ** (updated)
+- Full proposal due - **November 3, 2014 ** (updated Oct 27, 2014)
 - Announcement of Award - **December 1, 2014 **
 
 **Objective**
