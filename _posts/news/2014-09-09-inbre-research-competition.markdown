@@ -17,7 +17,7 @@ author: LBRN
 
 - Announcement of RFA - **September 9, 2014 **
 - Letter of Intent - **October 1, 2014 **
-- Full proposal due - **November 1, 2014 **
+- Full proposal due - **November 3, 2014 ** (updated)
 - Announcement of Award - **December 1, 2014 **
 
 **Objective**
