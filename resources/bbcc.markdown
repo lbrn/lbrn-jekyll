@@ -1,6 +1,6 @@
 ---
 layout: resources
-title: BBC Core
+title: BBCC Services
 ---
 
 ## What is the BBC Core?
