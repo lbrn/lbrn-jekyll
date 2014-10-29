@@ -1,6 +1,6 @@
 ---
 layout: resources
-title: General
+title: General Information - Cores
 ---
 
 <style>

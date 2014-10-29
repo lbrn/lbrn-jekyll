@@ -7,6 +7,14 @@
     <a href="{{ site.baseurl }}resources">General Information</a>
   </li>
 
+  {% if page.title == "LBRN Cores" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}resources/cores">LBRN Cores</a>
+  </li>
+
   {% if page.title == "NIH Acknowledgement" %}
   <li class="active">
   {% else %}
