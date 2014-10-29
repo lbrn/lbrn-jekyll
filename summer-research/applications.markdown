@@ -25,10 +25,10 @@ Completed Application Form which includes:
   - Budget Justification
   - Research Plan
   - Biosketch (PI and Mentors)
-  
+
 2. Collaboration agreement from prospective Mentors.
 
-All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2014 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
+All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2015 LBRN SRP Faculty Instructions.pdf][1]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
 
 [Prospective Faculty mentor list (click to view)][2]
 
@@ -50,7 +50,7 @@ Completed Application Form which includes:
 
 4. An official copy of your current college transcript–to be sent by your college directly to (best to request one after you receive your Fall/Winter semester final grades and that it shows your courses for the Spring semester) **OR** submit an unofficial copy (PDF or JPEG) of your current college transcript.
 
-All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2014 LBRN SRP GS Instructions.pdf][3]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
+All documents will be submitted within the online Application Form. A copy of the instructions are available here: [2015 LBRN SRP GS Instructions.pdf][3]. Please note the remaining documents are available within the form. Begin the application process and save your responses to obtain those documents.
 
 [Prospective Graduate mentor list (click to view)][4]
 
@@ -80,19 +80,19 @@ Completed Application Form which includes:
 <br>
 <br>
 
-#### *Application link will be here when open* ####
+#### **Application link** ####
 
-[comment]: <> <a href="https://redcap.lbrn.lsu.edu/surveys/?s=DTy65XzXiA" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2015 Summer Research Application Form</a>
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=aBS9PeSI8i" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2015 Summer Research Application Form</a>
 
 
-If you have participated with us before, please note this year the application process form is different and INCLUDES all documentation and submissions from within the form as well as a pre-application form and email responses. Any questions, please send us an email.
+The application process form INCLUDES all documentation and submissions from within the form as well as a pre-application form and email responses.
 
 You can follow our recruiting visits, etc. by following our program on [Twitter][6] or liking us on [Facebook][7].
 
 
-[1]: {{ site.baseurl }}files/docs/2014%20LBRN%20SRP%20Faculty%20Instructions.pdf
+[1]: {{ site.baseurl }}files/docs/2015%20LBRN%20SRP%20Faculty%20Instructions.pdf
 [2]: http://lbrn.lsu.edu/portal/facultymentorlist.php
-[3]: {{ site.baseurl }}files/docs/2014%20LBRN%20SRP%20GS%20Instructions.pdf
+[3]: {{ site.baseurl }}files/docs/2015%20LBRN%20SRP%20GS%20Instructions.pdf
 [4]: http://lbrn.lsu.edu/portal/gradmentorlist.php
 [5]: http://lbrn.lsu.edu/portal/undermentorlist.php
 [6]: https://twitter.com/lbrn_inbre
