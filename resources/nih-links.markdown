@@ -32,8 +32,7 @@ title: NIH Resources
 - [Office of Extramural Research](http://grants.nih.gov/grants/oer.htm)
 - [Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/index.html)
 - [Grant Policy and Guidance](http://grants.nih.gov/grants/policy/policy.htm)
-- [NIH Academic Research Enhancement Award (AREA) Program (R15)](http://grants.nih.gov/grants/funding/area.htm)
-- [Policy Statement](http://grants.nih.gov/grants/policy/nihgps_2003/index.htm)
+- [Policy Statement](http://grants.nih.gov/grants/policy/nihgps_2013/)
 - [Regional Seminars on Grants Administration](http://grants1.nih.gov/grants/seminars.htm)
 - [Policy and Guidelines on the Inclusion of Children as Participants in Research Involving Human Subjects](http://grants1.nih.gov/grants/guide/notice-files/not98-024.html)
 
@@ -43,11 +42,11 @@ title: NIH Resources
 
 - [Human Subject Education Certification - Requirements](http://grants.nih.gov/grants/policy/hs_educ_faq.htm)
 - [All existing Assurances and Registered IRBs](http://www.hhs.gov/ohrp/assurances/)
-- [Guidance on Written IRB Procedures](http://www.hhs.gov/ohrp/humansubjects/guidance/irb71102.pdf)
+- [Guidance on Written IRB Procedures](http://www.hhs.gov/ohrp/policy/irbgd107.html)
 - [OHRP Federal Wide Assurances (FWA) for HS Research](http://www.hhs.gov/ohrp/assurances/assurances/filasurt.html)
 - [Human Subjects Research (45 CFR 46)](http://www.hhs.gov/ohrp/humansubjects/guidance/)
-- [Definition of Children](http://answers.hhs.gov/ohrp/questions/7192)
-- [Investigator](http://answers.hhs.gov/ohrp/questions/7214)
+- [Definition of Children](http://www.hhs.gov/ohrp/policy/faq/children-research/)
+- [Investigator](http://www.hhs.gov/ohrp/policy/faq/investigator-responsibilities/who-are-investigators.html)
 - [OER Human Subjects Web Site](http://grants.nih.gov/grants/policy/hs/index.htm)
 - [FAQ for the Requirement for Education on the Protection of Human Subjects](http://grants.nih.gov/grants/policy/hs_educ_faq.htm)
 
