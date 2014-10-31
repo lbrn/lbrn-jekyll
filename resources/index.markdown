@@ -14,11 +14,11 @@ title: General Information
 
 Research Cores of the LBRN Program providing services to the Project PI's and others.
 
-#### [NIh Acknowledgement]({{ site.baseurl }}resources/nih-acknowledgement)
+#### [NIH Acknowledgement]({{ site.baseurl }}resources/nih-acknowledgement)
 
 The details of the NIH acknowledgement required by our grant and our grant participants.
 
-#### [NIh Links]({{ site.baseurl }}resources/nih-links)
+#### [NIH Links]({{ site.baseurl }}resources/nih-links)
 
 Links to various NIH sites such as Grants.gov, NIH eRA, and Office for Human Research Protection topics.
 
