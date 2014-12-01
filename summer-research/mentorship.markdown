@@ -20,10 +20,10 @@ title: Mentorship
 <a class="pull-left" href="http://lbrn.lsu.edu/portal/pdf/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
 
 
-[1]: http://lbrn.lsu.edu/portal/staticpages/index.php?page=LBRNMentorApplication
-[2]: http://lbrn.lsu.edu/portal/facultymentorlist.php
-[3]: http://lbrn.lsu.edu/portal/gradmentorlist.php
-[4]: http://lbrn.lsu.edu/portal/undermentorlist.php
+[1]: {{ site.baseurl }}summer-research/unavailable
+[2]: {{ site.baseurl }}summer-research/unavailable
+[3]: {{ site.baseurl }}summer-research/unavailable
+[4]: {{ site.baseurl }}summer-research/unavailable
 
 The Louisiana Biomedical Research Network (LBRN) sponsors a summer research program in support of undergraduate students, graduate students and faculty from any Louisiana institute. We offer qualified participants the opportunity to work in established research laboratories at Louisiana State University, LSU Health Sciences Center in New Orleans, LSU Health Sciences Center in Shreveport, Tulane Medical Center, or Tulane National Primate Research Center. The goal of our program and funding is to support biomedical research through an increase in graduate school admissions in these scientific fields and make Louisiana researchers more competitive in obtaining federal funding for research.
 
@@ -37,8 +37,10 @@ As the mentor of a graduate student in our program, it is expected that you will
 
 As the mentor of a faculty participant in our program it is expected that you will enter in to a collaborative relationship on an agreed upon project. You may expect to receive scientific and professional collaboration from the funded researcher. Equipment ordered for the funded research, unless otherwise specified, will belong to the funded researcher and will be housed at their home institution upon completion of the program funding period. You may also expect to have input in the determination of the requested supplies and equipment, which are part of the application process for faculty in our program. Our faculty summer program culminates in a written progress report of the research project. It is expected that an LBRN funded faculty researcher will receive guidance from their research laboratory and mentor in preparing this work and that the finished product be a professional progress report.
 
+
 <p style="text-align: center">
-	<a class="btn btn-primary btn-large" href="http://lbrn.lsu.edu/portal/staticpages/index.php?page=LBRNMentorApplication">Mentor Application Form</a>
+	<a class="btn btn-primary btn-large" href="{{ site.baseurl }}summer-research/unavailable">Mentor Application Form</a>
 </p>
+
 
 <br>
