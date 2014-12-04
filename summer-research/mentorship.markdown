@@ -21,9 +21,9 @@ title: Mentorship
 
 
 [1]: http://lbrn.lsu.edu/portal/staticpages/index.php?page=LBRNMentorApplication
-[2]: http://lbrn.lsu.edu/portal/facultymentorlist.php
-[3]: http://lbrn.lsu.edu/portal/gradmentorlist.php
-[4]: http://lbrn.lsu.edu/portal/undermentorlist.php
+[2]: http://lbrn.lsu.edu/files/app/facultymentorlist.php
+[3]: http://lbrn.lsu.edu/files/app/gradmentorlist.php
+[4]: http://lbrn.lsu.edu/files/app/undermentorlist.php
 
 The Louisiana Biomedical Research Network (LBRN) sponsors a summer research program in support of undergraduate students, graduate students and faculty from any Louisiana institute. We offer qualified participants the opportunity to work in established research laboratories at Louisiana State University, LSU Health Sciences Center in New Orleans, LSU Health Sciences Center in Shreveport, Tulane Medical Center, or Tulane National Primate Research Center. The goal of our program and funding is to support biomedical research through an increase in graduate school admissions in these scientific fields and make Louisiana researchers more competitive in obtaining federal funding for research.
 
