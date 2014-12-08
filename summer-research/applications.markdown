@@ -91,9 +91,9 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 
 [1]: {{ site.baseurl }}files/docs/2015%20LBRN%20SRP%20Faculty%20Instructions.pdf
-[2]: http://lbrn.lsu.edu/portal/facultymentorlist.php
+[2]: http://lbrn.lsu.edu/files/app/facultymentorlist.php
 [3]: {{ site.baseurl }}files/docs/2015%20LBRN%20SRP%20GS%20Instructions.pdf
-[4]: http://lbrn.lsu.edu/portal/gradmentorlist.php
-[5]: http://lbrn.lsu.edu/portal/undermentorlist.php
+[4]: http://lbrn.lsu.edu/files/app/gradmentorlist.php
+[5]: http://lbrn.lsu.edu/files/app/undermentorlist.php
 [6]: https://twitter.com/lbrn_inbre
 [7]: http://facebook.com/LouisianaBiomedicalResearchNetwork
