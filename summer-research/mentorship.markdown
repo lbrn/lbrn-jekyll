@@ -20,7 +20,6 @@ title: Mentorship
 <a class="pull-left" href="http://lbrn.lsu.edu/portal/pdf/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
 
 
-[1]: http://lbrn.lsu.edu/portal/staticpages/index.php?page=LBRNMentorApplication
 [2]: http://lbrn.lsu.edu/files/app/facultymentorlist.php
 [3]: http://lbrn.lsu.edu/files/app/gradmentorlist.php
 [4]: http://lbrn.lsu.edu/files/app/undermentorlist.php
@@ -38,8 +37,8 @@ As the mentor of a graduate student in our program, it is expected that you will
 As the mentor of a faculty participant in our program it is expected that you will enter in to a collaborative relationship on an agreed upon project. You may expect to receive scientific and professional collaboration from the funded researcher. Equipment ordered for the funded research, unless otherwise specified, will belong to the funded researcher and will be housed at their home institution upon completion of the program funding period. You may also expect to have input in the determination of the requested supplies and equipment, which are part of the application process for faculty in our program. Our faculty summer program culminates in a written progress report of the research project. It is expected that an LBRN funded faculty researcher will receive guidance from their research laboratory and mentor in preparing this work and that the finished product be a professional progress report.
 
 
-<p style="text-align: center">
-	<a class="btn btn-primary btn-large" href="http://lbrn.lsu.edu/portal/staticpages/index.php?page=LBRNMentorApplication">Mentor Application Form</a>
+___
+<p>Mentor Application form is not online at the moment. To update your information or apply as a LBRN Prospective Mentor, please contact our Computer Manager, <a href="mailto:johnq@lsu.edu" target="_top">John I Quebedeaux Jr</a>.
 </p>
 
 
