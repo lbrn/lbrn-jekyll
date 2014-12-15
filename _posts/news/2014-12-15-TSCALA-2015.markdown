@@ -1,0 +1,24 @@
+---
+layout: post
+title: SCALA 2015 Scientific Computing Around Louisiana
+author: LBRN
+---
+
+*Tulane University, New Orleans - March 20-21, 2015*
+
+Tulane University's Center for Computational Science and the LSU Center for Computation and Technology (CCT) will co-sponsor, for the fourth time, a meeting to:
+
+- highlight cutting-edge topics in scientific computing,
+- showcase the research at Louisiana institutions and,
+- promote collaborations across the state of Louisiana.
+
+This meeting is open to any faculty, post-doctoral researcher or student from any college in and around Louisiana. The meeting will start Friday at 1:00 p.m. and run through approximately 5 p.m. Saturday.
+
+INVITED SPEAKERS:
+
+Greg Forest, Mathematics Department, University of North Carolina at Chapel Hill
+Lisette de Pillis, Mathematics Department, Harvey Mudd College
+Michele Benzi, Department of Mathematics and Computer Science, Emory University
+REGISTRATION:  Contributed talks are now being solicited. Registration is FREE, but required.  SUBMISSION *DEADLINE:  January 25, 2015* (early submissions encouraged).
+
+[For More Information: http://tulane.edu/sse/ccs/news/scala-2015.cfm](http://tulane.edu/sse/ccs/news/scala-2015.cfm)
