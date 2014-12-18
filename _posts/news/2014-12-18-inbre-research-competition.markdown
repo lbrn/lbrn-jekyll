@@ -6,12 +6,12 @@ author: LBRN
 
 **RFAs** (click on title to download proposal information)
 
-- **<a href="{{ site.baseurl }}files/docs/LBRN Translational Project RFA v2014.12.18.pdf">LBRN Translational Project RFA</a>  (updated Dec 18, 2014)**
+- **<a href="{{ site.baseurl }}files/docs/LBRN Translational Project RFA v2014.12.18.pdf">LBRN Translational Project RFA</a> (updated Dec 18, 2014)**
 
 
 **Deadlines**
 
-- Announcement of RFA - **December 12, 2014 **
+- Announcement of RFA - **December 18, 2014 **
 - Letter of Intent - **January 30, 2015 **
 - Full proposal due - **March 16, 2015 **
 - Announcement of Award - **March 31, 2015 **
