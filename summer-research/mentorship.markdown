@@ -17,7 +17,7 @@ title: Mentorship
 - [Grad Student Mentor List][3]
 - [Undergrad Mentor List][4]
 
-<a class="pull-left" href="http://lbrn.lsu.edu/portal/pdf/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
+<a class="pull-left" href="{{ site.baseurl }}files/docs/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
 
 
 [2]: http://lbrn.lsu.edu/files/app/facultymentorlist.php
