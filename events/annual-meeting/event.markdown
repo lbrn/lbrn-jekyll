@@ -12,7 +12,7 @@ This year's event is being held at the [Baton Rouge Marriott](http://www.marriot
 If for any reason that you need to cancel your registration or if you have any questions, please contact Mrs. Terri Gilbert, [tgilbert@lsu.edu](mailto:tgilbert@lsu.edu).
 
 <p class="text-error">
-	Deadline for registration is Thursday, January 8, 2015.
+	Deadline for registration was Thursday, January 8, 2015.
 </p>
 
 *Note: after the deadline you will not be able to receive the discounted hotel group rate.*
