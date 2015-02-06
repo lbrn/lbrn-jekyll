@@ -9,4 +9,4 @@ This is a repository of recordings featuring invited research faculty to the LBR
 
 ### [Seminars](https://www.youtube.com/user/LBRNINBRE/search?query=seminar)
 
-### [Training](https://www.youtube.com/user/LBRNINBRE/search?query=traning)
+### [Training](https://www.youtube.com/user/LBRNINBRE/search?query=training)
