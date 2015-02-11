@@ -3,7 +3,7 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Monday, April 6th, 2015 is the deadline to register for the conference.
+#### Monday, March 30th, 2015 is the deadline to register for the conference.
 *As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.*
 
 <div class="well">
@@ -17,7 +17,7 @@ title: Registration and Posters
 
 
 ### Poster Requirements
-#### Poster Abstracts Deadline, April 6th, 2015.
+#### Poster Abstracts Deadline, March 23th, 2015.
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
