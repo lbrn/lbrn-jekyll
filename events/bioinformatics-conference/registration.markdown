@@ -3,21 +3,21 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Wednesday, May 7th, 2014 is the extended deadline to register for the conference.
+#### Monday, April 6th, 2015 is the deadline to register for the conference.
 *As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.*
 
 <div class="well">
   <p class="text-error">
-    If you require hotel lodging on May 15th, you must have registered by May 1st and confirm with Terri Gilbert via email.
+    If you require hotel lodging on April 17, you must have registered by April 1st.
   </p>
-  <a href="https://redcap.lbrn.lsu.edu/surveys/?s=AB42nkrzfY" class="btn btn-large btn-primary">
-    Continue to Event Registration
+  <a href="Registration Link Goes Here" class="btn btn-large btn-primary">
+    Continue to Event Registration (TBD)
   </a>
 </div>
 
 
 ### Poster Requirements
-#### Poster Abstracts Deadline extended to May 7th, 2014.
+#### Poster Abstracts Deadline, April 6th, 2015.
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 

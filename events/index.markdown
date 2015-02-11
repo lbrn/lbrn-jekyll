@@ -24,7 +24,7 @@ LBRN hosts a one-day workshop where we invite researchers, faculty, graduate and
 
 #### [SURF]({{ site.baseurl }}events/surf)
 
-The 20th Annual Summer Undergraduate Research Forum (SURF) showcases the numerous undergraduate students who have engaged in summer research projects this year at institutions throughout the LSU System.
+The Annual Summer Undergraduate Research Forum (SURF) showcases the numerous undergraduate students who have engaged in summer research projects this year at institutions throughout the LSU System.
 
 #### [Work-In-Progress Seminars]({{ site.baseurl }}events/work-in-progress)
 
