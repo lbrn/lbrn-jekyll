@@ -13,7 +13,5 @@ Tentative Hotel Information Here
   <p class="text-error">
     The deadline to get your name on the hotel block list that LBRN has established is March 30th, 2015. Details TBD.
   </p>
-	<a href="https://redcap.lbrn.lsu.edu/surveys/?s=AB42nkrzfY" class="btn btn-large btn-primary">
-    Continue to Event Registration
-  </a>
+	 *** Registration Link will be here soon! ***
 </div>
