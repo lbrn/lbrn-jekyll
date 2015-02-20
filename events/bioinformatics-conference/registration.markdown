@@ -17,7 +17,7 @@ title: Registration and Posters
 
 
 ### Poster Requirements
-#### Poster Abstracts Deadline, March 23th, 2015.
+#### Poster & Oral Abstracts Deadline, March 23th, 2015.
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
