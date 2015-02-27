@@ -8,10 +8,10 @@ title: Registration and Posters
 
 <div class="well">
   <p class="text-error">
-    If you require hotel lodging on April 17, you must have registered by March 30th with the hotel.
+    If you require hotel lodging on April 17, you must have registered by March 30th with the hotel we have a reserved block with. The registration form will have more information.
   </p>
   
- *** Registration Link will be here soon! ***
+ <a href="https://redcap.lbrn.lsu.edu/surveys/?s=E8PDYFTX3P" class="btn btn-info btn-large">Continue to Event Registration Form</a>
   
 </div>
 
@@ -21,6 +21,6 @@ title: Registration and Posters
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
-*Information for submitting a poster abstract by the deadline will be emailed to you with your event registration. Your event confirmation has the link.*
+*Information for submitting an abstract for presentation by the deadline will be emailed to you with your event registration if you chose before the 23rd.*
 
-**You must register for the event in order to submit a poster.** Due to limited space, poster acceptance will be given on a first-come-first-serve basis.
+**You must register for the event in order to submit to present and/or for poster submission.** Due to limited space, the science committee will be deciding on presentations and posters and be sending out acceptance as soon as possible after the deadline on the 23rd.
