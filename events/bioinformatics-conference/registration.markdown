@@ -17,10 +17,10 @@ title: Registration and Posters
 
 
 ### Poster Requirements
-#### Poster & Oral Abstracts Deadline, March 23th, 2015.
+#### Poster & Oral Abstracts Deadline, March 30th, 2015 (extended from 23rd).
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
 *Information for submitting an abstract for presentation by the deadline will be emailed to you with your event registration if you chose before the 23rd.*
 
-**You must register for the event in order to submit to present and/or for poster submission.** Due to limited space, the science committee will be deciding on presentations and posters and be sending out acceptance as soon as possible after the deadline on the 23rd.
+**You must register for the event in order to submit to present and/or for poster submission.** Due to limited space, the science committee will be deciding on presentations and posters and be sending out acceptance as soon as possible after the deadline on the 30th.
