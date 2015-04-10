@@ -3,7 +3,7 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Wednesday, April 1st, 2015 is the extended deadline to register for the conference.
+#### Wednesday, April 1st, 2015 was the extended deadline to register for the conference.
 *As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.*
 
 <div class="well">
