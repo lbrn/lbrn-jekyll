@@ -11,7 +11,7 @@ title: Registration and Posters
     If you require hotel lodging on April 17, you must have registered by March 30th with the hotel we have a reserved block with. The registration form will have more information.
   </p>
   
- <a href="https://redcap.lbrn.lsu.edu/surveys/?s=E8PDYFTX3P" class="btn btn-info btn-large">Continue to Event Registration Form</a>
+ Event Registration is closed.
   
 </div>
 
