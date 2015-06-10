@@ -2,38 +2,41 @@
 layout: default
 ---
 
-<div class="page">
-  <a href="{{ page.pubmed_link }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
-  <h2 class="page-title" style="margin-bottom: 0">{{ page.title }}</h2>
-    {{ page.department }}<br>
-    {{ page.university }}
-  <hr>
-  <div class="pi">
-    <div class="row">
-      <div class="span6">
-        <h4>Project Title</h4>
-        <p class="project-title">{{ page.project_title }}</p>
-        <br>
+{% for pi in site.data.pis %}
+  {% if pi.name == page.person %}
+    <div class="page">
+      <a href="{{ pi.pubmed_link }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
+      <h2 class="page-title" style="margin-bottom: 0">{{ pi.name }}</h2>
+      {{ pi.origin }}
+      <hr>
+      <div class="pi">
+        <div class="row">
+          <div class="span6">
+            <h4>Project Title</h4>
+            <p class="project-title">{{ pi.project_title }}</p>
+            <br>
 
-        <h4>Mentors</h4>
-        {% for mentor in page.mentors %}
-          <p>{{ mentor }}</p>
-        {% endfor %}
-        <br>
+            <h4>Mentors</h4>
+            {% for mentor in pi.mentors %}
+              <p>{{ mentor.name }}<br>{{mentor.origin}}</p>
+            {% endfor %}
+            <br>
 
-        <h4>Funding Period</h4>
-        {% for period in page.funding_periods %}
-          <p>{{ period }}</p>
-        {% endfor %}
-      </div>
-      <div class="span6">
-        <img src="{{ site.baseurl }}files/images/pi-photos/full/{{ page.image }}" class="img-polaroid">
+            <h4>Funding Periods</h4>
+            {% for funding in pi.funding %}
+              <p>{{ funding.name }} ({{funding.period}})</p>
+            {% endfor %}
+          </div>
+          <div class="span6">
+            <img src="{{ site.baseurl }}files/images/pi-photos/full/{{ pi.image }}" class="img-polaroid">
+          </div>
+        </div>
+
+        <h4>Abstract</h4>
+        <p class="long-text">
+          {{ pi.abstract }}
+        </p>
       </div>
     </div>
-
-    <h4>Abstract</h4>
-    <p class="long-text">
-      {{ page.abstract }}
-    </p>
-  </div>
-</div>
+  {% endif %}
+{% endfor %}

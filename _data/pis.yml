@@ -1,0 +1,63 @@
+-
+  name: Cecily B. DeFreece, Ph.D.
+  image: bennet.jpg
+  active: true
+  origin: Xavier University
+  project_title: Identifying Inhibitors of the Mutagenic Retrotransposon LINE 1 Endonuclease
+  abstract: "Insertional mutagenesis caused by the retrotransposition of the mobile element Long INterspersed Element 1 (L1) and an associated non-autonomous mobile element Alu, have been observed in over fifty separate diseases including breast and prostate cancers (Deininger 2003). Expression and retrotransposition of L1 elements has been recently observed in cancer cell lines as well as patient tumor samples (Cho et al. 2007, Iskow et al. 2009, Lee et al., 2012). L1 has also been linked to cancer progression and a poor prognosis for patients (Roman-Gomez et al. 2005). Retrotransposition of L1 elements occurs by a copy and paste mechanism that requires endonuclease (EN) and reverse transcriptase domains. During retrotransposition the EN of L1 creates a nick within genomic DNA at a canonical target sequence. The target sequence is then used as a substrate for reverse transcription to make a new copy of the L1 element that can be inserted into the genome following the formation of a DNA double strand break (DSB). Our understanding of the role of L1 in creating genetic instability was further enhanced with the knowledge that the activity of the L1 EN results in the formation of DSBs that exceed the observed rate of retrotransposition events (Gasior et al. 2006). The increased number of breaks observed may be due to abortion of the insertion process of new L1 elements by cellular DNA repair machinery that recognize the DNA damage caused by L1. The full contribution of L1 EN activity to genetic instability and disease is currently unknown, but the link between L1 expression and cancer progression warrants a more complete understanding of the direct of effects of LINE1 EN activity. The mobile element field is currently limited in the ability to directly determine the effect of the L1 EN on genomic alteration. Methods such as RNAi and/or knockout mouse models cannot be effectively used to study the role of L1 because of the number of L1 elements in the genome (>500,000 copies) (Lander 2001). The most effective technique to completely determine the contribution of the L1 EN to genetic instability and disease is by direct inhibition of the activity of the L1 EN. The identification of an inhibitor of L1 EN by this study will provide us with the tools required to elucidate the full impact of L1 on genetic instability."
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Cecily+DeFreece
+  funding:
+    -
+      name: Pilot Project
+      period: (May 1, 2013 – April 30, 2014)
+
+  mentors:
+    -
+      name: Prescott Deininger
+      origin: Tulane University
+    -
+      name: Hua Lu
+      origin: Tulane University
+
+-
+  name: Rebecca Giorno-McConnell
+  origin: Louisiana Tech University
+  image: giorno.png
+  active: true
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Rebecca+Giorno
+  project_title: Roles of the Spore Coat and Exosporium in Spore Germination and Dormancy
+  abstract: "Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (18). Spores are resistant to many common disinfection processes making them problematic for reinfection as well as infecting new individuals. Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection. We seek to understand the roles of two spore structures in germination and pathogenicity: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (5, 6). Others have shown that Clostridium difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (24). These phenotypes illustrate the role of the spore coat and exosporium in germination and adherence, which are required steps for infections. Because spores can remain dormant for very long periods of time (years to millions of years) and then resume active growth in the right environment, efficient decontamination is a cause for concern. An additional concern is that spores are also resistant to many common decontamination strategies used in clinical settings such as alcohol based hand sanitizers and quaternary ammonium–based cleaning compounds (21). Recently there has been a focus on adding a germination step during decontamination strategies to achieve better disinfection since vegetative cells are much easier to kill than spores (22). One possible limitation with this decontamination approach is that a subset of spores in a population does not germinate under normal conditions and these have been called superdormant spores (4). Given that the lack of specific spore coat or exosporium proteins can either reduce or enhance germination suggests a complex role for the coat and exosporium in germination. We will investigate the hypothesis that the presence, abundance, and location of various spore coat and exosporium proteins affect spore germination and can contribute to pathogenicity."
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2013 – April 30, 2014
+  mentors:
+    -
+      name: David Mills
+      origin: Louisiana Tech University
+    -
+      name: Gregg Pettis
+      origin: Louisiana State University
+
+-
+  name: Thomas Huckaba
+  origin: Xavier University of Louisiana, Department of Biology
+  image: huckaba.jpg
+  active: true
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Huckaba+Thomas
+  project_title: Parsing the Molecular Mechanism of Transport Motors Mutated in Spastic Paraplegia
+  abstract: "Hereditary Spastic Paraplegias (HSPs) are a group of neurodegenerative disorders that result from degeneration of corticospinal tract axons. Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected. This slowly progressive spasticity is occasionally accompanied by mental retardation and optic neuropathy. To date, thirty distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families. Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a neuronal form of the kinesin family of cellular transport motors. Indeed, fifteen individual missense mutations in the catalytic motor domain of Kif5A have been linked to AD-HSP in separate families. Clinical treatment for HSP is presently limited to symptomatic reduction of muscle spasticity. While this can be effective for short periods, progressive axonal degeneration leads to poor longterm prognoses. As a result, there is a need for a more mechanistic understanding of the primary causes of HSPs. This proposal is targeted at understanding how single AD-HSP-causing mutations in the human Kif5A gene change the function of the kinesin motor. Through a series of well-characterized in vitro studies we will measure the mechanical outputs of Kif5A proteins with human AD-HSP-causing mutations and compare these mechanical outputs to the wild-type protein. We will also attempt to solve the crystal structure of Kif5A proteins with AD-HSP causing mutations in an effort to understand the structure-function relationship between the missense mutations and the behavior of the mutant protein. Our long-term goal is a mechanistic understanding of how mutations in the Kif5A gene alter its normal functions so that ultimately therapies can be designed to treat the fundamental cause of AD-HSP, rather than attempting to treat the physiological manifestation of the underlying dysfunction. In addition, the centrality of kinesin-dependent transport in a host of cellular functions gives the opportunity for outcomes of this study to have far-reaching potential in therapies for other human disorders."
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2013 – present
+    -
+      name: Pilot Project
+      period: May 1, 2012 – April 30, 2013
+  mentors:
+    -
+      name: Sunyoung Kim, Ph.D.
+      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+    -
+      name: Edward Wojcik, Ph.D.
+      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
