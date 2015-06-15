@@ -111,7 +111,7 @@
     Reactive oxygen species (ROS) has been implicated as an important underlying cause in cancer. However, the molecular mechanisms that connect ROS to carcinogenesis remain insufficiently understood. We propose the development of novel photonic nanosensors capable of direct and selective detection of ROS. The nanosensors will be used to monitor changes in intracellular ROS concentration and distribution during carcinogenesis. By correlating these changes to the regulation of key cancer biomarkers from parallel bioassays, we hope to elucidate the roles of individual ROS and the molecular mechanisms of such roles. During this reporting period, the reactivity of a fluorescent probe (2-TFMBS-Fluo) toward various ROS was examined. ROS tested include hydrogen peroxide (H2O2), superoxide radical (O2-•), hydroxyl radical (•OH), tert-butyl hydroperoxide (t-BuOOH) and hypochlorite (OCl-). First, the reaction kinetics of 2-TFMBS-Fluo toward different ROS was examined by incubating the reaction mixture at 37ºC in water bath for up to 2 hours. Fluorescence intensity of the solutions was measured at 20, 40, 60 and 120 min, respectively. The reactions between the probe and the ROS were found to be kinetically controlled and not complete within 2 hours. 2-TFMBS-Fluo was found to show specificity to H2O2 over other ROS. Only the probe solutions incubated with H2O2 and O2-• showed an increase in fluorescence intensity (Further test will be conducted to determine whether the increase in fluorescence intensity from O2-• is due to H2O2, a product of the dismutation of O2-•.). Other ROS (•OH, t-BuOOH, and OCl-) either quenched the fluorescence of the probe or showed no significant reactivity toward the probe. We plan to expand the selectivity studies to include other ROS. At the same time, we plan to incorporate 2-TFMBS-Fluo onto modified silica nanoparticles to obtain functional nanosensors for testing in a model cell system. In addition, the reactivity of two other probes, 3-TFMBS-Fluo and 2-CNBS-Fluo, will be characterized to study the effects of the type and the location of the substituent on the reactivity of the probe. The outcome of the selectivity studies will be used to guide the synthesis of additional ROS probes.
 
 -
-  title: Alan Chiu
+  name: Alan Chiu
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
   image: chiu.jpg
@@ -224,3 +224,111 @@
       period: Sept. 14, 2009 – Sept. 13, 2011
   abstract: |
     Significant efforts have been made to elucidate the mechanisms responsible for beta amyloid (Aβ) accumulation in the brain of Alzheimer's disease patients (AD). Possible mechanisms for Aβ pathogenesis include faulty clearance across the blood-brain barrier (BBB). Continuous removal of Aβ from the CNS is important for preventing or delaying Aβ accumulation. Low-density lipoprotein receptor protein-1 (LRP1) and P-glycoprotein (P-gp) are believed to be major Aβ efflux transporters at the BBB, and reduced function of these transporters at the BBB has been observed during normal aging and in AD. A role for LRP1 to Aβ transport across the BBB in AD has been demonstrated, however the specific role and contribution of P-gp to the clearance of Aβ and consequent Aβ toxicity remains largely unknown and poorly defined. Understanding the role of P-gp to Aβ regulation is essential not only for understanding the basis for Aβ fluxes in the brain, but also because it may identify novel roles for P-gp in modulating specific forms or species of Aβ, or potentially serving as a basis for the development of novel therapeutics for regulating the levels of Aβ in the brain. Thus, there is an urgent need to elucidate exact role P-gp plays in the clearance of Aβ. P-gp is an efflux transporter highly expressed at the luminal side of the endothelium at the BBB, reported to play a potential role in regulating Aβ clearance by several groups. The mode of interaction between P-gp and Aβ is undefined, and the mechanism by which P-gp removes Aβ in vivo remains poorly understood, thus further studies in these areas are required to clarify the exact role of P-gp in Aβ regulation in the brain. Our preliminary data confirm a significant role for P-gp in regulating Aβ levels in the brain. Therefore, clarifying such role will be useful to gain valuable clues regarding strategies for treating and/or preventing increased levels of toxic Aβ observed in AD and vascular dementia.
+
+-
+  name: Yong-Yu Liu
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: .NULL
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Liu+Yong-Yu
+  project_title: Epigenetic Effects of Ceramide Glycosylation and Drug-Resistant Cancer Stem Cell
+  mentors:
+    -
+      name: S. Michael Jazwinski, Ph.D.
+      origin: Tulane University School of Medicine, Center for Aging
+  funding:
+    -
+      name: Project R6
+      period: Sept 1, 2006 - April 30, 2012
+  abstract: |
+    Acquired drug resistance with metastasis causes cancer chemotherapy failure. Anticancer drugs kill large populations of cancer cells; however, epigenetic effects of these drugs drive a small fraction of cells to resistance. Resistance to adverse factors is a characteristic of stem cells, but aggravated behaviors in chemo-refractory cancers indicate these incurable cancers are generated from a particular subtype of stem cells, drug resistant cancer stem cell (DR-CSC). It is hypothesized that epigenetic effect of anticancer drugs induces the formation of drug-resistant cancer stem cell; this unrecognized subtype of CSCs generates an aggressive and incurable cancer, and consequently results in treatment failure. Three specific aims will be used to test these hypotheses in cell and animal models of breast cancer. Specific aim 1) is to isolate and identify drug-resistant breast cancer stem cell (DR-BCSC) from cancer cells treated with anticancer drugs; aim 2) is to induce DR-BCSC in mammary tumor in vivo; aim 3) is to examine epigenetic mechanisms underlying the formation of DR-BCSC in cells and animal models. Preliminary studies show that doxorubicin (Dox) exposure promotes the generation of CD44+/MDR1+/SSEA-3+ cells that display aggressive drug resistance; silencing glucosylceramide synthase (GCS) gene, that regulates ceramide glycosylation and glycosphingolipid synthesis, eliminates drug-resistant tumor formation in vivo. To verify these findings, DR-BCSC cells will be isolated from other Dox-resistant cell lines of breast cancer. Stemness of DR-BCSC will be examined using assays of colony formation, tumor formation, angiogenesis, and migration. Inducing DR-BCSC in vivo can provide direct evidence of the significance of DR-BCSC on cancer treatment. Low-dose and long-term treatment with Dox will be used to induce DR-BCSC in mice with spontaneous breast adenocarcinoma (Brca1-/-;p53-/-). Mechanisms of Dox impact on DR-BCSC formation will be examined in cell and mouse models. It will show the regulatory roles of glycosphingolipid-enriched microdomains, rafts, oncogenes (c-ras, c-src), Wtn and Notch on DR-BCSC genesis and progression. Completion of this project will help determine how chemo-refractory tumor prompts cancer death. Silencing of genes that regulates DR-BCSC will investigate a novel therapeutic approach to eliminate incurable breast cancer.
+
+-
+  name: Elahe Mahdavian
+  active: false
+  department: Louisiana State University in Shreveport, Department of Computer Science
+  image: mahdarian.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Mahdavian+Elahe
+  project_title: Development of Novel Anti-Cancer Agents
+  mentors:
+    -
+      name: Christopher Kevil, Ph.D.
+      origin: LSU Health Sciences Center in Shreveport, Department of Molecular and Cellular Physiology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R7
+      period: May 1, 2010 – present
+  abstract: |
+    The primary goal of this research is to develop novel anti-cancer agents based on fusarochromanone (FC101a), a natural mycotoxin with potent anti-angiogenic and direct anti-tumor activity. Like most other bioactive natural compounds, the potency of FC101a is compromised in-vivo, suggesting rapid metabolism and/or poor bioavailability and distribution. Dr. Mahdavian has expertise in the synthesis of flavonoids and the derivatization of chroman compounds, and she is working together with Drs. Clifford and Kevil to evaluate the mechanism of this compound’s biological activity. Subsequent investigations will include synergistic effects of FC101a and alpha-TAM, a mitochondrial-targeted anti-cancer compound (mitocan) in a liposomal formulation. Like FC101a, alpha-TAM demonstrates both anti-angiogenic and direct anti-tumor activity, but through a different biological mechanism.
+
+    The total synthesis of FC101a and several novel analogs is already underway at LSUS. Photoaffinity labeling of the FC101a binding proteins in human cells will be used to identify the parent compound’s biological target(s). We will use the results of the biological assays to refine the lead compounds in the computer lab and then synthesize additional new analogs. The Tripos SYBYL molecular modeling package will be used to build a quantitative structure activity relationship (QSAR) based on the parent compound and its analogs, which will allow us to identify other potential lead compounds with even greater activity and bioavailability. SYBYL’s pharmacophore searching tools also open up access to a searchable database of thousands of compounds in the NCI’s small molecule database, whereby searches can be executed based on the spatial arrangement of important functional groups and other structural parameters. This will provide an effective means of finding new lead compounds and searching for common themes among those targeting a particular class of receptors.
+
+-
+  name: Eduardo Martinez-Ceballos
+  active: false
+  origin: Southern University and A&M College, Department of Pathobiological Science
+  image: martinez.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Martinez-Ceballos+Eduardo
+  project_title: Regulation of Mouse ES Cell Differentiation into Neurons by Hoxa1
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: Louisiana State University, Department of Pathobiological Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R8
+      period: May 1, 2010 – present
+  abstract: |
+    The long-term goal of this project is to elucidate and characterize the molecular mechanism by which the Hoxa1 transcription factor directs the differentiation of embryonic stem cells into neurons. Expression of the Hoxa1 gene in cells and tissues can be activated by retinoic acid (RA), a derivative of vitamin A. Inactivation of both alleles of the Hoxa1 gene in mice results in numerous developmental defects, including hindbrain deficiencies and abnormal skull ossification, and ultimately, in neonatal death. In humans, truncating mutations of the HOXA1 gene have been associated to autism susceptibility. This project will characterize the function of Hoxa1 during the RA-induced differentiation of mouse embryonic stem (ES) cells grown in suspension as embryoid bodies (EBs). We hypothesize that RA can induce the differentiation of mouse ES cells into all three germ layers and that the role of Hoxa1 is to promote neuronal cell differentiation by repressing endodermal and/or mesodermal cell lineages. We will test this hypothesis with the following specific aims: Aim 1 will employ retinoic acid receptor (RAR) agonists to determine the mechanism of RA-induced expression of Hoxa1 in EBs; Aim 2 will characterize the role of Hoxa1 as a repressor of endodermal differentiation and as an inducer of neuronal gene expression; Aim 3 will characterize the role of RA isomers during the differentiation of ES cells into neurons. The results obtained from these studies may result in novel differentiation strategies for the generation in culture of homogeneous neuronal cell populations. Because the results obtained using our murine system can be applied to human cells, the knowledge obtained from this project will have an important vertical impact on the treatment of spinal cord or brain injuries in humans.
+
+-
+  name: Harris McFerrin
+  active: false
+  origin: Xavier University of Louisiana, Department of Biology
+  image: mcferrin.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=McFerrin+Harris
+  project_title: Inhibition of HSV-1 Associated Ocular Neovascularization by Antiangiogenic Agents
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: School of Veterinary Medicine, Louisiana State University, Department of Pathobiological Science
+    -
+      name: Deborah E. Sullivan
+      origin: Tulane University, Microbiology & Immunology
+  funding:
+    -
+      name: Project
+      period: December 1, 2010 – present
+  abstract: |
+    Herpes simplex virus type 1 (HSV-1) infects approximately 90% of humans worldwide. HSV-1 infection and subsequent replication induce inflammation and blood vessel growth in the cornea of the eye leading to corneal blindness. In the United States, HSV infection is the leading cause of infection-induced blindness, and nearly 20,000 new cases are reported yearly.
+
+    Cyclin-dependent kinases are involved in cell cycle control and/or regulation of transcription. In the 1990s, cyclin-dependent kinases were discovered to be required for herpesvirus transcription and replication. More recently, two laboratories reported that cyclin-dependent kinase 9 (Cdk9) and its downstream target, serine 2 phosphorylated RNA polymerase II, are essential in HSV-1 transcription. To date there is little literature on the role of cyclin-dependent kinases in herpesvirus infection of the eye or on the efficacy of CDK inhibitors in preventing HSV-1 associated ocular neovascularization and its consequences.
+
+    The purpose of this proposal is to examine the role of Cdk9 in corneal neovascularization. Dr. James M. Hill, the mentor on this project, is a successful biomedical research scientist with many years of experience investigating HSV-1 ocular infections using in vivo models. This project will examine the molecular mechanisms of HSV-1 corneal neovascularization, an important health issue worldwide.
+
+-
+  name: Teresa Murray
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: murray.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Murray+Teresa
+  project_title: Newly discovered neural receptor's role in Aβ1-42 pathogenesis of Alzheimer's disease
+  mentors:
+    -
+      name: Annadora Bruce-Keller, Ph.D.
+      origin: Pennington Biomedical University
+    -
+      name: Yuri Voziyanov, Ph.D.
+      origin: Louisiana Tech University, Department of Biology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2012 – April 30, 2013
+  abstract: |
+    A recently discovered neurotransmitter receptor, the α7β2 nicotinic acetylcholine receptor (α7β2-nAChR) is expressed in neurons in the septum and hippocampus of the brain. These regions experience a loss of cholinergic neurons in Alzheimer's disease (AD) which adversely affects cognition and memory. This new receptor is similar in functional attributes to the well-recognized α7-nAChR. Notably, α7-nAChR-mediated endocytosis of amyloid-β1-42 (Aβ1-42) peptide results in intracellular deposits of Aβ1-42. Intracellular deposits have been identified as an early step in AD etiopathology. However, the effects of α7β2-nAChR-mediated endocytosis by this newly discovered receptor have not been studied. We will separately express α7β2-nAChR and α7-nAChR in the neuroepithelial SH-EP1 cell line to compare Aβ1-42 internalization and key intracellular effects. Receptor subunits will be differentially labeled with fluorescent proteins incorporated into the intracellular domain to facilitate documentation of their positions via 3D confocal microscopy. Aβ1-42 will be stained for quantification and colocalization analyses. Cells will be incubated with oligomeric Aβ1-42 and the amount and location(s) of the internalized peptide will be quantified as will its colocalization with the intracellular targets in our study.
