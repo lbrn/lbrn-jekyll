@@ -4,7 +4,8 @@
   active: true
   origin: Xavier University
   project_title: Identifying Inhibitors of the Mutagenic Retrotransposon LINE 1 Endonuclease
-  abstract: "Insertional mutagenesis caused by the retrotransposition of the mobile element Long INterspersed Element 1 (L1) and an associated non-autonomous mobile element Alu, have been observed in over fifty separate diseases including breast and prostate cancers (Deininger 2003). Expression and retrotransposition of L1 elements has been recently observed in cancer cell lines as well as patient tumor samples (Cho et al. 2007, Iskow et al. 2009, Lee et al., 2012). L1 has also been linked to cancer progression and a poor prognosis for patients (Roman-Gomez et al. 2005). Retrotransposition of L1 elements occurs by a copy and paste mechanism that requires endonuclease (EN) and reverse transcriptase domains. During retrotransposition the EN of L1 creates a nick within genomic DNA at a canonical target sequence. The target sequence is then used as a substrate for reverse transcription to make a new copy of the L1 element that can be inserted into the genome following the formation of a DNA double strand break (DSB). Our understanding of the role of L1 in creating genetic instability was further enhanced with the knowledge that the activity of the L1 EN results in the formation of DSBs that exceed the observed rate of retrotransposition events (Gasior et al. 2006). The increased number of breaks observed may be due to abortion of the insertion process of new L1 elements by cellular DNA repair machinery that recognize the DNA damage caused by L1. The full contribution of L1 EN activity to genetic instability and disease is currently unknown, but the link between L1 expression and cancer progression warrants a more complete understanding of the direct of effects of LINE1 EN activity. The mobile element field is currently limited in the ability to directly determine the effect of the L1 EN on genomic alteration. Methods such as RNAi and/or knockout mouse models cannot be effectively used to study the role of L1 because of the number of L1 elements in the genome (>500,000 copies) (Lander 2001). The most effective technique to completely determine the contribution of the L1 EN to genetic instability and disease is by direct inhibition of the activity of the L1 EN. The identification of an inhibitor of L1 EN by this study will provide us with the tools required to elucidate the full impact of L1 on genetic instability."
+  abstract: |
+    Insertional mutagenesis caused by the retrotransposition of the mobile element Long INterspersed Element 1 (L1) and an associated non-autonomous mobile element Alu, have been observed in over fifty separate diseases including breast and prostate cancers (Deininger 2003). Expression and retrotransposition of L1 elements has been recently observed in cancer cell lines as well as patient tumor samples (Cho et al. 2007, Iskow et al. 2009, Lee et al., 2012). L1 has also been linked to cancer progression and a poor prognosis for patients (Roman-Gomez et al. 2005). Retrotransposition of L1 elements occurs by a copy and paste mechanism that requires endonuclease (EN) and reverse transcriptase domains. During retrotransposition the EN of L1 creates a nick within genomic DNA at a canonical target sequence. The target sequence is then used as a substrate for reverse transcription to make a new copy of the L1 element that can be inserted into the genome following the formation of a DNA double strand break (DSB). Our understanding of the role of L1 in creating genetic instability was further enhanced with the knowledge that the activity of the L1 EN results in the formation of DSBs that exceed the observed rate of retrotransposition events (Gasior et al. 2006). The increased number of breaks observed may be due to abortion of the insertion process of new L1 elements by cellular DNA repair machinery that recognize the DNA damage caused by L1. The full contribution of L1 EN activity to genetic instability and disease is currently unknown, but the link between L1 expression and cancer progression warrants a more complete understanding of the direct of effects of LINE1 EN activity. The mobile element field is currently limited in the ability to directly determine the effect of the L1 EN on genomic alteration. Methods such as RNAi and/or knockout mouse models cannot be effectively used to study the role of L1 because of the number of L1 elements in the genome (>500,000 copies) (Lander 2001). The most effective technique to completely determine the contribution of the L1 EN to genetic instability and disease is by direct inhibition of the activity of the L1 EN. The identification of an inhibitor of L1 EN by this study will provide us with the tools required to elucidate the full impact of L1 on genetic instability.
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Cecily+DeFreece
   funding:
     -
@@ -46,7 +47,8 @@
   active: true
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Huckaba+Thomas
   project_title: Parsing the Molecular Mechanism of Transport Motors Mutated in Spastic Paraplegia
-  abstract: "Hereditary Spastic Paraplegias (HSPs) are a group of neurodegenerative disorders that result from degeneration of corticospinal tract axons. Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected. This slowly progressive spasticity is occasionally accompanied by mental retardation and optic neuropathy. To date, thirty distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families. Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a neuronal form of the kinesin family of cellular transport motors. Indeed, fifteen individual missense mutations in the catalytic motor domain of Kif5A have been linked to AD-HSP in separate families. Clinical treatment for HSP is presently limited to symptomatic reduction of muscle spasticity. While this can be effective for short periods, progressive axonal degeneration leads to poor longterm prognoses. As a result, there is a need for a more mechanistic understanding of the primary causes of HSPs. This proposal is targeted at understanding how single AD-HSP-causing mutations in the human Kif5A gene change the function of the kinesin motor. Through a series of well-characterized in vitro studies we will measure the mechanical outputs of Kif5A proteins with human AD-HSP-causing mutations and compare these mechanical outputs to the wild-type protein. We will also attempt to solve the crystal structure of Kif5A proteins with AD-HSP causing mutations in an effort to understand the structure-function relationship between the missense mutations and the behavior of the mutant protein. Our long-term goal is a mechanistic understanding of how mutations in the Kif5A gene alter its normal functions so that ultimately therapies can be designed to treat the fundamental cause of AD-HSP, rather than attempting to treat the physiological manifestation of the underlying dysfunction. In addition, the centrality of kinesin-dependent transport in a host of cellular functions gives the opportunity for outcomes of this study to have far-reaching potential in therapies for other human disorders."
+  abstract: |
+    Hereditary Spastic Paraplegias (HSPs) are a group of neurodegenerative disorders that result from degeneration of corticospinal tract axons. Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected. This slowly progressive spasticity is occasionally accompanied by mental retardation and optic neuropathy. To date, thirty distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families. Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a neuronal form of the kinesin family of cellular transport motors. Indeed, fifteen individual missense mutations in the catalytic motor domain of Kif5A have been linked to AD-HSP in separate families. Clinical treatment for HSP is presently limited to symptomatic reduction of muscle spasticity. While this can be effective for short periods, progressive axonal degeneration leads to poor longterm prognoses. As a result, there is a need for a more mechanistic understanding of the primary causes of HSPs. This proposal is targeted at understanding how single AD-HSP-causing mutations in the human Kif5A gene change the function of the kinesin motor. Through a series of well-characterized in vitro studies we will measure the mechanical outputs of Kif5A proteins with human AD-HSP-causing mutations and compare these mechanical outputs to the wild-type protein. We will also attempt to solve the crystal structure of Kif5A proteins with AD-HSP causing mutations in an effort to understand the structure-function relationship between the missense mutations and the behavior of the mutant protein. Our long-term goal is a mechanistic understanding of how mutations in the Kif5A gene alter its normal functions so that ultimately therapies can be designed to treat the fundamental cause of AD-HSP, rather than attempting to treat the physiological manifestation of the underlying dysfunction. In addition, the centrality of kinesin-dependent transport in a host of cellular functions gives the opportunity for outcomes of this study to have far-reaching potential in therapies for other human disorders.
   funding:
     -
       name: Full Project
@@ -61,3 +63,164 @@
     -
       name: Edward Wojcik, Ph.D.
       origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+
+-
+  name: Shuju Bai
+  active: false
+  origin: Southern University and A&amp;M College, Department of Computer Science
+  image: bai.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Bai+Shuju
+  project_title: Modeling Protein-Substrate Interactions in the Lipoxygenase Family Using Computational Approaches
+  mentors:
+    -
+      name: Marcia E. Newcomer, Ph.D.
+      origin: Louisiana State University, Department of Biological Sciences
+    -
+      name: Seung-Jong Park
+      origin: Louisiana State University, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R1
+      period: May 1, 2010 – present
+  abstract: |
+    Human lipoxygenases (LOX) play pivotal roles in the biosynthesis of leukotrienes and other biologically active eicosanoids. Specific inhibitors that can modulate the physiological and pathological effects of these potent signaling compounds are of high interest. Currently, there are no animal LOX structures that provide a model for how the substrate binds in the LOX active site, a model critical for the development of specific inhibitors. The overall goal of the proposed investigations is to develop substrate-LOX models that can be used for the development of specific anti-LOX inhibitors. The specific aims of the application are: 1) Model protein-substrate interactions in 8R-lipoxygenase. There is no crystal structure of a lipoxygenase in complex with its substrate arachidonic acid (AA) to reveal the structural basis for product specificity in this family of enzymes. Our recent 1.85 Å resolution structure of 8R-LOX provides a strong foundation for model enzyme-substrate interactions. We will utilize computational approaches (molecular dynamics simulation) to derive a model for the 8R-lipoxygenase-arachidonic acid binary complex. 2) "Test" the generally applicability of this model to lipoxygenases of different product specificity. The features of the 8R-LOX:AA model binding site must be able to account for the regio- and stereo-specificity of the enzyme, yet exhibit the potential flexibility to explain the range of specificities found within the LOX enzyme superfamily. Thus, we will use a data mining/homology modeling approach and molecular dynamics simulation to determine whether the 8R-LOX:AA model derived above is consistent with sequence differences in lipoxygenases of different product specificity. The results of our research will help understand the mechanism of substrate recognition in lipoxygenases and facilitate drug design to target lipoxygenases.
+
+-
+  name: Kui Chen
+  active: false
+  origin: Louisiana State University in Shreveport, Department of Chemistry &amp; Physics
+  image: chen.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Chen+Kui
+  project_title: Nanosensors for Reactive Oxygen Species and their Roles in Carcinogenesis
+  mentors:
+    -
+      name: Marcia E. Newcomer, Ph.D.
+      origin: LSU Health Science Center in Shreveport, Department of Molecular and Cellular Physiology
+
+    -
+      name: W. Todd Monroe, Ph.D.
+      origin: Louisiana State University, Department of Biological &amp; Agricultural Engineering
+  funding:
+    -
+      name: ARRA Pilot Project
+      period: Sept 14, 2009 – April 13, 2011
+  abstract: |
+    Reactive oxygen species (ROS) has been implicated as an important underlying cause in cancer. However, the molecular mechanisms that connect ROS to carcinogenesis remain insufficiently understood. We propose the development of novel photonic nanosensors capable of direct and selective detection of ROS. The nanosensors will be used to monitor changes in intracellular ROS concentration and distribution during carcinogenesis. By correlating these changes to the regulation of key cancer biomarkers from parallel bioassays, we hope to elucidate the roles of individual ROS and the molecular mechanisms of such roles. During this reporting period, the reactivity of a fluorescent probe (2-TFMBS-Fluo) toward various ROS was examined. ROS tested include hydrogen peroxide (H2O2), superoxide radical (O2-•), hydroxyl radical (•OH), tert-butyl hydroperoxide (t-BuOOH) and hypochlorite (OCl-). First, the reaction kinetics of 2-TFMBS-Fluo toward different ROS was examined by incubating the reaction mixture at 37ºC in water bath for up to 2 hours. Fluorescence intensity of the solutions was measured at 20, 40, 60 and 120 min, respectively. The reactions between the probe and the ROS were found to be kinetically controlled and not complete within 2 hours. 2-TFMBS-Fluo was found to show specificity to H2O2 over other ROS. Only the probe solutions incubated with H2O2 and O2-• showed an increase in fluorescence intensity (Further test will be conducted to determine whether the increase in fluorescence intensity from O2-• is due to H2O2, a product of the dismutation of O2-•.). Other ROS (•OH, t-BuOOH, and OCl-) either quenched the fluorescence of the probe or showed no significant reactivity toward the probe. We plan to expand the selectivity studies to include other ROS. At the same time, we plan to incorporate 2-TFMBS-Fluo onto modified silica nanoparticles to obtain functional nanosensors for testing in a model cell system. In addition, the reactivity of two other probes, 3-TFMBS-Fluo and 2-CNBS-Fluo, will be characterized to study the effects of the type and the location of the substituent on the reactivity of the probe. The outcome of the selectivity studies will be used to guide the synthesis of additional ROS probes.
+
+-
+  title: Alan Chiu
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: chiu.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Chiu+Alan
+  project_title: Adaptive Coupled Neural System Model for Hippocampal Function Restoration
+  mentors:
+    -
+      name: Jeffrey Tasker, Ph.D.
+      origin: Tulane University, Department of Cell and Molecular Biology
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University, Department of Biological Engineering
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R2
+      period: May 1, 2010 - April 30, 2012
+  abstract: |
+    The nervous system is comprised of billions of complex neurons. These neurons are connected in an intricate and organized manner with excitatory and inhibitory pathways that control the overall system dynamics. Recent developments in kernel estimation research [1, 2] offer a potential therapy for cognitive and memory loss accompanying Alzheimer's disease and other forms of dementia. The proposed project addresses its deficiencies in adaptivity for long term implementation. Here, coupled oscillators are used to model the different regions of the brain because it reflects the intrinsic oscillatory behavior in some subfields of the hippocampus. Furthermore, the existing strategy is static in that it is not able to account for possible changes in neuronal communication characteristics for long term application. The proposed work has great potential for the development of future brain function restoration strategy in which biomimetic silicon neurons are permanently implanted into the damaged region to restore the functions of damaged neurons in central regions of the brain. The replacement silicon neurons need to have functional properties specific to those of the damaged neurons, and capable of receiving inputs and sending electrical outputs to regions of the brain with which the damaged region previously communicated. Special emphasis of this project is to enhance the brain rhythms related to memory consolidation through appropriate feedback stimulation, which requires a better understanding on the electrical and chemical interactions that govern the network behavior of the neurons. The short term objectives of the project are: (a) to develop and validate the computer model for the hippocampus brain region; (b) to incorporate the ability to adapt model parameters for long term application; (c) to investigate the effects of stimuli on network activities related to learning and other higher cognitive functions; and (d) to analyze the brain response to the electrical stimulation generated by the computer model.
+
+-
+  name: June Feng
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: feng.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Feng+June
+  project_title: Understanding the Molecular Mechanism of Alzheimer's Disease - Quantitative Proteomics of Oxidatively Modified Proteins using iTRAQ Analysis and a Novel Proteomic Reactor
+  mentors:
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University, Department of Biomedical Engineering
+    -
+      name: Steve Soper, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+    -
+      name: Kermit Murray, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R3
+      period: May 1, 2010 - April 30, 2012
+  abstract: |
+    Alzheimer's Disease (AD), the most common form of dementia in the elderly, may manifest as neuropathological changes and cognitive decline long before it is diagnosed. Oxidative stress induced by Reactive Oxygen Species (ROS) has been implicated as a contributing factor to Alzheimer's disease. ROS attack on proteins can lead to protein-bound carbonyl by oxidation of the amino acid side group. Protein carbonyl formation is increased in severely affected regions of the AD brain and may be an early event in the neurodegenerative process. This is considered a marker of oxidative stress in Alzheimer's disease. Although carbonylated proteins have been strongly implicated in the aging brain and pathogenesis of AD, the identities of specific protein targets of oxidative damage remain largely unknown.
+
+    The overall goal of the research proposed in this application is to identify the major carbonylated proteins in the aging brain that contribute to the pathogenesis of Alzheimer's disease (AD). It is also a goal of the study to determine which neurological pathways and brain functions are affected by the presence of these carbonylated proteins. To achieve this goal, we will develop a "micro-fluidic device" to enrich and process a minute amount of oxidatively damaged (e.g. carbonylated) proteins prior to mass spectrometry and bioinformatics analysis. The development of this microfluidic device will simplify the processing of complex proteomic samples by combining multiple proteomic steps and allow for the identification of carbonylated proteins from small samples such as brain tissue slices taken from various brain regions of transgenic mouse models with mild cognitive impairment, and Alzheimer's disease (AD). This will help to understand the longitudinal change in the identities and relative ratios of specific protein targets of oxidative damage. Furthermore, advanced bioinformatic analysis of the proteomic data will be performed using the (ingenuity pathway analysis) IPA tool. Ingenuity pathway analysis will provide a unique look at cellular pathways and functions potentially affected by carbonylation in the different developmental stages of AD. By combining the micro-fluidic device, IPA and isobaric tags for relative and absolute quantification (iTRAQ)-based proteomic techniques, a deeper understanding of the complex proteome, signaling pathways and functional group changes that occur in a mouse model of AD should emerge, which could potentially illuminate novel therapeutic avenues for the treatment of AD and other neurodegenerative disorders.
+
+-
+  name: Chris R. Gissendanner
+  active: false
+  department: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
+  image: gissendanner.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Gissendanner+Chris
+  project_title: NR4A Regulation of Organ Morphogenesis
+  mentors:
+    -
+      name: Brian G. Rowan, Ph.D.
+      origin: Tulane University School of Medicine, Department of Structural and Cellular Biology
+  funding:
+    -
+      name: Project R4
+      origin: Sept 1, 2006 - April 30, 2012
+  abstract: |
+    The broad, long-term goals of this project are to elucidate and characterize NR4A nuclear receptor pathways regulating organ morphogenesis in the model organism Caenorhabditis elegans. The NR4A nuclear receptors are a conserved, functionally diverse group of transcription factors that regulate cell proliferation, cell differentiation, and apoptosis in a variety of developmental and physiological contexts. NR4A nuclear receptors are rapidly emerging as important factors in several human diseases including neurodegeneration, vascular disease, and cancer. However, much remains to be learned regarding the cellular mechanisms of NR4A function. In C. elegans, the NR4A ortholog, NHR-6, is required for proper morphogenesis of the spermatheca, a reproductive organ involved in ovulation and oocyte fertilization. Recent studies have demonstrated that NHR-6 is an important regulator of cell proliferation and cell differentiation during formation of this organ. Thus, NHR-6 appears to function as a critical, dualistic transcriptional regulator of organogenesis in C. elegans. NR4A is an atypical nuclear receptor and its activity in a variety of cellular processes is likely mediated through complex interactions with other signaling proteins. Recent genetic interaction studies indicate that NHR-6 functions with an Eph receptor tyrosine kinase signaling pathway during organogenesis of the spermatheca. Given the importance of NR4A in normal development and disease, the primary objective of this study is to uncover cellular mechanisms of NR4A function during cell proliferation and cell differentiation in an organismal and developmental context. This research project tests the hypothesis that NHR-6 functions to promote lineage-specific transcriptional programs regulating cell cycle progression and terminal differentiation. These specific hypotheses will be tested by the following specific aims: Aim 1 will utilize genetic analysis to place NHR-6 in a cell cycle regulatory pathway; Aim 2 will determine if NHR-6 functions in an Eph receptor signaling pathway regulating organ morphogenesis, and Aim 3 will utilize a tissue-specific microarray approach to identify genes that function downstream of NHR-6 and to identify potential NHR-6 signaling pathways. These studies will provide an opportunity to assemble a biologically relevant model of the gene regulatory activities of this important and poorly understood group of orphan nuclear receptor transcription factors.
+
+-
+  name: Kinesha Harris
+  active: false
+  origin: ULM College of Pharmacy
+  image: harris.png
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Harris+Kinesha
+  project_title: Identification and Characterization of Kola Acuminate (Bizzy nut)-Specific Biomarkers for Prostate Cancer Prevention
+  mentors:
+    -
+      name: Wesley Gray
+      origin: Southern University and A&amp;M College, Department of Chemistry
+    -
+      name: Kermit Murray, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+  funding:
+    -
+      name: ARRA Pilot Project
+      period: Sept 14, 2009 - Sept 13, 2011
+  abstract: |
+    Kola acuminate, also known as bizzy nut, is a “cure-all” herbal medicine that has been reported to affect a variety of biological processes. Given the hormonal dependency of some of these biological activities, it is possible that non-steroidal androgen present in the bizzy nut is responsible for the medicinal value attributed to it. Several herbal formulations have been developed to treat and/or manage both hormone-responsive and hormone-refractive prostate cancer.  Although these herbal remedies have provided some useful effects, they are usually discontinued because of unwanted side effects. We have identified a potentially powerful bioactive compound in the ether extract of Bizzy nut (Biz-2). Components in this bioactive extract possess the ability to modulate prostate cell function, suggesting that it may be useful in the treatment or prevention of prostate cell malfunction. To this end, two specific aims were developed: Aim 1 - Chemical and biological profiling and characterization of the bioactive compounds in Biz-2 and Aim 2 - Identification and characterization of prostate specific biomarkers for bizzy nut exposure in LNCaP cells.  We have resolved the crude extract into five fractions using RP-HPLC and tested each fraction using several bioassays in comparison to the crude extract.  The crude extract has a cytotoxic effect on LNCaP cells.  Three of the fractions also have cytotoxic effects on the cells; however, one fraction has stimulatory effects relative to the control sample (untreated).  The remaining fraction has little effect on the cells under the studied conditions.  We are continuing to analyze the fractions using bioassays to confirm our results and we have begun to run chemical analyses in order to identify the compounds present in the crude extract and resulting fractions.
+
+-
+  name: Amal Khalil Kaddoumi
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: kaddoumi.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Kaddoumi+Amal
+  project_title: Targeting Beta Amyloid Clearance as Therapeutic Approach for Alzheimer's Disease
+  mentors:
+    - name: Jeffrey Keller, PhD.
+      origin: Pennington Biomedical Research Center and School of Human Ecology
+  funding:
+    -
+      name: Funded Project
+      period: May 1, 2012 – Present
+    -
+      name: Pilot Project
+      period: Sept. 14, 2011 – April 30, 2012
+    -
+      name: ARRA Pilot Project
+      period: Sept. 14, 2009 – Sept. 13, 2011
+  abstract: |
+    Significant efforts have been made to elucidate the mechanisms responsible for beta amyloid (Aβ) accumulation in the brain of Alzheimer's disease patients (AD). Possible mechanisms for Aβ pathogenesis include faulty clearance across the blood-brain barrier (BBB). Continuous removal of Aβ from the CNS is important for preventing or delaying Aβ accumulation. Low-density lipoprotein receptor protein-1 (LRP1) and P-glycoprotein (P-gp) are believed to be major Aβ efflux transporters at the BBB, and reduced function of these transporters at the BBB has been observed during normal aging and in AD. A role for LRP1 to Aβ transport across the BBB in AD has been demonstrated, however the specific role and contribution of P-gp to the clearance of Aβ and consequent Aβ toxicity remains largely unknown and poorly defined. Understanding the role of P-gp to Aβ regulation is essential not only for understanding the basis for Aβ fluxes in the brain, but also because it may identify novel roles for P-gp in modulating specific forms or species of Aβ, or potentially serving as a basis for the development of novel therapeutics for regulating the levels of Aβ in the brain. Thus, there is an urgent need to elucidate exact role P-gp plays in the clearance of Aβ. P-gp is an efflux transporter highly expressed at the luminal side of the endothelium at the BBB, reported to play a potential role in regulating Aβ clearance by several groups. The mode of interaction between P-gp and Aβ is undefined, and the mechanism by which P-gp removes Aβ in vivo remains poorly understood, thus further studies in these areas are required to clarify the exact role of P-gp in Aβ regulation in the brain. Our preliminary data confirm a significant role for P-gp in regulating Aβ levels in the brain. Therefore, clarifying such role will be useful to gain valuable clues regarding strategies for treating and/or preventing increased levels of toxic Aβ observed in AD and vascular dementia.
