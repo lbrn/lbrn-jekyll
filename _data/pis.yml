@@ -332,3 +332,179 @@
       period: May 1, 2012 – April 30, 2013
   abstract: |
     A recently discovered neurotransmitter receptor, the α7β2 nicotinic acetylcholine receptor (α7β2-nAChR) is expressed in neurons in the septum and hippocampus of the brain. These regions experience a loss of cholinergic neurons in Alzheimer's disease (AD) which adversely affects cognition and memory. This new receptor is similar in functional attributes to the well-recognized α7-nAChR. Notably, α7-nAChR-mediated endocytosis of amyloid-β1-42 (Aβ1-42) peptide results in intracellular deposits of Aβ1-42. Intracellular deposits have been identified as an early step in AD etiopathology. However, the effects of α7β2-nAChR-mediated endocytosis by this newly discovered receptor have not been studied. We will separately express α7β2-nAChR and α7-nAChR in the neuroepithelial SH-EP1 cell line to compare Aβ1-42 internalization and key intracellular effects. Receptor subunits will be differentially labeled with fluorescent proteins incorporated into the intracellular domain to facilitate documentation of their positions via 3D confocal microscopy. Aβ1-42 will be stained for quantification and colocalization analyses. Cells will be incubated with oligomeric Aβ1-42 and the amount and location(s) of the internalized peptide will be quantified as will its colocalization with the intracellular targets in our study.
+
+-
+  name: Adarsh Radadia
+  active: false
+  origin: Louisiana Tech University
+  image: radadia.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Adarsh+Radadia
+  project_title: Point-of-Care Microelectronic Diagnostics for Early Phase Rickettsial Infections
+  mentors:
+    -
+      name: Kevin Macaluso, Ph.D.
+      origin: Pathobiological Sciences, Louisiana State University
+    -
+      name: Long Que, Ph.D.
+      origin: Electrical Engineering, Louisiana Tech University
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2013 – April 30, 3014
+  abstract: |
+    Rickettsial diseases (RD) are widely distributed in the world and continue to cause seasonal outbreaks and epidemics1. The greatest challenge to clinicians is diagnosing RD at early phases when antibiotic therapy is most effective. This burgeoning problem is further compounded by the unavailability of rapid point-of-care (POC) diagnostics for RD. PCR and culture-based methods are the most sensitive techniques, however they are labor and time intensive, and so are not directly amenable to POC diagnostics. Immunofluorescence antibody (IFA) testing, the current gold standard for RD diagnostics depends on detecting host immune response, which may be too late of a stage for effective antibiotic treatments. To improve patient survival rates, novel POC diagnostics for pathogen detection are needed, which may not be as sensitive and differentiating as PCR but sensitive enough to detect pathogens in blood or blood products prior to host immune response. We  propose  using  dielectrophoresis  enhanced  microfluidic  impedance  biosensor  (DEP-e-MIB)  to detect rickettsial organisms at ultra low concentrations  in human serum samples. Impedance sensor (IB) applies a small sinusoidal excitation potential between two electrodes and detects impedance changes caused by the binding  of  target  molecules  to  immobilized  receptors  (antibodies,  DNA/RNA,  proteins, and  aptamers). Detection  limits down  to 10 bacterial  cells/ml 3 ,  0.02 fg protein (interferon-γ)/ml ml coupling of microfluidics and  DEP  preconcentration  with  IB  has  been  shown  to  improve  detection limits.  During  our  past  LBRN summer research project we developed a novel assay to overcome our inability to directly concentrate Rickettsia parkeri using DEP. We found that labeling of bacteria with beads allows trapping bacteria at low DEP bias not been combined with IB for real-time pathogen detection. 4,  and 1 nM ssDNA 2,  10 5 have been demonstrated  with IB. Additionally, 3 EID50  (avian  influenza  virus H5N1)/ 6.  This technique has been previously reported 7, however it has not been combined with IB for real-time pathogen detection. The  power of this technique over PCR and IFA lies in its ability to (1) detect target molecules at extremely low concentrations from small sample volumes (essential in early detection due to the low rickettsial cell count in serum), (2) screen for an array of etiological agents (important in developing symptomspecific diagnostics), (3)   provide  portable  rapid  diagnostics  at  extremely  low  cost  (small  working volumes  associated  with microfluidics   and   all-electronic   detection),   and   (4)  eliminate   cumbersome, expensive   PCR   and   DNA sequencing steps. DEP-e-MIB assays therefore, could potentially play an important role in early detection of rickettsial infections, and disease monitoring during antibiotic therapy. In working towards our goal of developing early phase rickettsial diagnostics,  the specific aim of this project is  to reduce the nonspecific binding of immunolatex beads in DEP-e-MIB Assays. We hypothesize that the use of suitable bioconjugation  chemistry with co-immobilization  of PEG on sensor surface will eliminate nonspecific binding of beads, and improve efficiency and specificity of pathogen isolation step in DEP-e-MIB assays. Aim 1 will be accomplished via two specific tasks. (1) Assess reduction in nonspecific binding via co- immobilization of polyethylene glycol (PEG) on sensor electrodes. (2) Investigate effects of immunoconjugation chemistry on pathogen isolation. We will utilize R. parkeri as the pathogen and deidentified human serum will be used as the spiking matrix. Depending on outcomes of this project, these results will enable extension of this technique to detection of other rickettsial species and testing with clinical and pre-clinical animal models of rickettsial infections.
+
+-
+  name: Seetharama D Satyanarayanajois
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: satyanarayanajois.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Satyanarayanajois+Seetharama
+  project_title: Role of Extracellular Domain IV of HER2 Protein in Cell Signaling
+  mentors:
+    -
+      name: Marcia Newcomer, Ph.D.
+      origin: Department of Biological Sciences, Louisiana State University
+    -
+      name: Maria da Graça H.Vicente, Ph.D.
+      origin: Department of Chemistry, Louisiana State University
+  funding:
+    -
+      name: Pilot Project
+      period: Jan 2, 2008 – April 30, 2011
+    -
+      name: Project R11
+      period: May 1, 2011 - present
+  abstract: |
+    The long-term objective of this research project is to understand the role of extracellular domains of proteins in protein-protein interactions for cell signaling. The short-term objective of this project is to understand the role of domain IV of human epidermal growth factor receptor 2 (HER2) extracellular domain in protein-protein interaction with other epidermal growth factor receptors (EGFRs) in signaling for cell growth. Our hypothesis is that protein-protein interaction surfaces have small core regions which are hydrophobic in nature and protein-protein interactions can be modulated by small molecules that interact with core regions to modulate the signaling for cell growth. As a model system we will investigate protein-protein interactions on EGFR extracellular domains. In particular, we will investigate the interaction of HER2 protein with other EGFRs (EGFR/HER1, HER3). Protein-protein interactions are critical for many biological processes. The interfaces of these protein-protein interactions may have cavities or flat surfaces that are dominated by non-covalent interactions. Analyses of the structures and sequences using bioinformatics approaches have revealed that, although the interacting surfaces are large (700 to 3,000), there are core regions in the surface that facilitate high-affinity interactions. These core regions are dominated by amino acids such as tyrosine, phenylalanine. Thus, small molecules that are targeted to these core regions can be used to modulate protein-protein interactions and may have clinical significance. The protein HER2 is known to interact with other EGFRs to form dimers/heteromers. HER2-mediated heterodimerization leads to signals for cell growth. Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. HER2 interaction with HER3 and EGFR is known to be dominant in HER2-overexpressing tumors. Blockade of the interaction of HER2 with other receptors ultimately leads to control of cell growth. The extracellular domain of EGFRs consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Crystal structures of the extracellular domains of EGFR and HER2-4 are available. The homodimer of the crystal structure of EGFR extracellular domain has been elucidated. However, it lacks domain IV and, thus, the importance of domain IV in dimerization is not understood. Hence, these proteins will serve as good models to understand protein-protein interaction for cell signaling. Furthermore, blocking of domain IV of HER2 protein has clinical significance and, hence, the results from the proposed research can be applicable as â€œtranslational research. The studies presented here can be extended to other protein-protein interactions of biological importance. In the preliminary studies we have carried out, we have shown that a small hydrophobic molecule binds to domain IV of HER2 protein and also inhibits HER2-HER3 interaction in surface plasmon resonance experiments. In the proposed research project, our goal is to understand the importance of domain IV of HER2 in protein-protein interactions and the core region that is critical for dimerization and its modulation for cell signaling.
+
+-
+  name: Prerna Sethi Dua
+  active: false
+  department: Department of Health Information Management
+  university: Louisiana Tech University
+  image: sethi.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Sethi+Prerna
+  project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
+  mentors:
+    -
+      name: Walter J. Lukiw, Ph.D.
+      origin: LSU Health Science Center in New Orleans, Neuroscience Center of Excellence
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University
+  funding:
+    -
+      name: Pilot Project
+      period: Sept 1, 2008 – April 30, 2010
+    -
+      name: Project R9
+      period: May 1, 2010 – present
+  abstract: |
+    Microarray gene expression analysis, an important component in the design of in-silico molecular medicine methods, has made possible to monitor the expression level of thousands of genes under different samples (conditions) at the same time. The analysis can yield novel information regarding cellular mechanisms, regulatory functions of genes, functions of genes and proteins, gene network structure, and pathways, and can relate the risk of being affected by diseases to gene expression profiles which are characteristics for phenomenon such as Alzheimer’s Disease (AD). Particularly in AD where the effective diagnosis includes annotation, early detection, distinction, and prediction, data mining and statistical approaches offer the promise for precise, accurate, and functionally robust analysis of gene and protein expression data. In this proposal we will investigate into the miRNA expressions of AD patients and age-matched controls by designing and developing algorithms to discover correlated and co-regulated sets of miRNA patterns that have a biologically significant role in the progression of Alzheimer’s. Our approach lies in the design and development of computationally efficient algorithms for dimensionality and noise reduction followed by supervised classification of gene expression data using the theory of association rules and clustering with the biological characterization of sets of genes discovered. We hypothesize that rank-based associations for unsupervised clustering can provide biologically significant correlations among co-regulated miRNA profiles with a higher specificity and sensitivity. The proposed approach will have the following algorithmic components as specific aims: a) Design algorithms for dimensionality reduction of gene expression data using the statistical indicators of “housekeeping” genes as the underlying factor of control, b) Design and develop algorithms for finding correlations in subspaces of high dimensional gene, protein expression data using theory of association rules, c) Design and develop metrics for clustering to synopsize the high dimensional gene correlations for better biological interpretation, d)Perform validation for evaluation for the discovered sets of genes for their biological significance, and e) Develop an open-source tool-kit, by incorporating the developed algorithms.
+
+    We will objectively achieve the aims of the Computational and Structural Biology core of LA-INBRE by fostering new collaborations across the State and extensively leveraging the computational resources made available through the Data Mining laboratory in the College and LONI for the design and development of algorithms.
+
+-
+  title: Maureen Shuh
+  active: false
+  origin: Xavier University, College of Pharmacy
+  image: shuh.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Shuh+Maureen
+  project_title: The Molecular Mechanisms of Adult T cell Leukemia Induction by HTLV-I Tax
+  mentors:
+    -
+      name: Vicki Traina-Dorge, Ph.D.
+      origin: Tulane National Primate Research Center, Department of Microbiology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2010 - April 30, 2011
+  abstract: |
+    Human T cell leukemia virus type 1 (HTLV-1) is one of four human retroviruses which include HTLV-II, human immunodeficiency virus-1 (HIV-1), and HIV-2.  HTLV-I causes two human diseases, adult T cell leukemia (ATL) and tropical spastic paraparesis/HTLV-I-associated myelopathy (TSP/HAM).  The virus infects and integrates its proviral DNA in human CD4+ T cells.  TSP/HAM is a neurological disease and is the result of the infiltration of clonal CD4+ T cells into the central nervous system.  ATL is a debilitating and aggressive cancer with no known cure and a poor prognosis.  Approximately 11-20 million people are infected (HTLV-I+) in the world with pockets of infection occurring in the Caribbean, central Africa, Japan, and Italy.   In the United States, HTLV-I+ patients are found mainly in the coastal large cities, including New York City, San Francisco, Los Angeles, and the Gulf Coast (Miami and New Orleans are hotspots).  United States blood donations are routinely assayed for the presence of HTLV-I, and about 0.025% of the blood supply is positive for the virus.  There is no vaccine for the virus.
+
+-
+  title: Jayalakshmi Sridhar
+  active: false
+  origin: Xavier University of Louisiana, Department of Chemistry
+  image: sridhar.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Jayalakshmi+Sridhar
+  project_title: Development of Casein Kinase 1 Inhibitors as Therapeutics for Alzheimer's Disease
+  mentors:
+    -
+      name: Frank Jones, Ph.D.
+      origin: Tulane University, Cancer Center, Cell & Molecular Biology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2014 – present
+  abstract: |
+    Alzheimer's disease (AD) is a progressive neurodegenerative disorder associated with the accumulation of the neurotoxic peptide amyloid β (Αβ). Casein kinase 1 family comprises of eight isozymes, two of which CK1δ and CK1ε are predominantly expressed in the brain. CK1δ plays a critical role in AD through phosphorylation of tau, a protein associated with microtubules, which precedes neuritic lesion formation. Thus, CK1δ is implicated in the tau fibrillization reaction pathway. CK1δ is reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and parkinsonism dementia complex of Guam. Inhibition of CK1δ by pan CK1 inhibitors has been shown to reduce fibrillar lesions and to inhibit Aβ production. These studies show the potential for CK1δ specific inhibitors as therapeutic agents for neurodegenerative disorders. The reports on development of CK1δ small molecule inhibitors are therapeutic agents for neurodegenerative disorders have been far and few. None of the recently reported CK1δ inhibitors been tested for their efficacy in pre-clinical trials. Our recent work investigating quinones as kinase inhibitors revealed a quinone compound that inhibited CK1δ and Pim1 kinase preferentially over CK1γ2 and 98 other human protein kinases. Similarity search and preliminary in vitro CK1δ kinase inhibition assay have yielded a few compounds with good potency. This proposal aims to further refine the structure of the quinones through molecular modeling studies, design of new derivatives, and synthesis of the designed molecules followed by CK1δ inhibition assays to obtain highly selective and potent inhibitors of CK1δ kinase.
+
+-
+  name: Tara Williams-Hart
+  active: false
+  origin:  Louisiana State University in Shreveport, Department of Biological Sciences
+  image: williams.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Williams-Hart+Tara
+  project_title: Assessment of the Molecular Target of Fusarochromanone and its Analogues
+  mentors:
+    -
+      name: Robert Rhoads, Ph.D.
+      origin: LSU Health Sciences Center in Shreveport, Department of Biochemistry and Molecular Biology
+    -
+      name: Urska Cvek, Ph.D.
+      origin: Louisiana State University in Shreveport, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R10
+      period: May 1, 2010 – present
+  abstract: |
+    The long-term goal of this project is to elucidate the molecular mechanisms of drug targets for cancer using molecular genetics and bioinformatics in baker's yeast. Cancers represent an increasing health problem as people live longer. Identifying novel drugs and therapeutic treatments to combat the myriad of cancers requires decades of investigation. The objective of this research project is to use Saccharomyces cerevisiae ( budding yeast) as a screening tool to identify the molecular target(s) of putative, novel anti-cancer drugs, fusarochromanone (FC-101a) and its analogues. Initial identification in yeast greatly reduces the time required to test the efficacy of these drugs in animal models. FC-101a is a small natural flavonoid compound and mycotoxin produced by Fusarium equiseti, a fungus present in decaying cereal plants. Studies by Dreau et al., 2007, indicate that fusarochromanone increases apoptosis of melanomas and reduces tumor growth in vivo. Yet is it is not known whether the cytotoxic effects of FC-101a can be used for clinical treatment of human tumors. To date, the molecular mechanisms by which this drug acts to elicit its anti-tumor effects are unknown. The proposed investigation will serve as an initial in vivo study to identify the molecular targets of FC-101a and its analogues to simplify the experimental design of future animal model studies. The first Specific Aim is to (1) perform drug sensitivity assays with yeast exposed to FC-101a and its analogues, (2) screen yeast deletion and hypomorphic collections for strains that confer drug resistance, and (3) isolate dosage suppressors of this resistance to the drug to identify proteins that interact with the putative molecular target(s). We hypothesize the existence of genes that, when deleted or mutated, cause drug resistance to cells, and genes that, when overexpressed, suppress this drug resistance. These genes represent specific, putative molecular targets within the same signal transduction pathway(s) utilized by FC-101a. The second Specific Aim is to identify genes that are differentially expressed in yeast exposed to sub-lethal concentrations of FC-101a. We will measure global transcriptional changes that occur in strains exposed to sub-lethal levels of FC-101a and its analogues using microarray analysis and real time PCR. We will make crosses between strains of putative molecular targets to identify genetic interactions. To identify protein-protein and protein-drug interactions between FC-101a and other molecules, we will perform co-immunoprecipitation, western blotting, and mass spectrometry. Molecular targets for FC-101a thus identified in yeast will be candidates for validation in future animal model studies.
+
+-
+  name: Shizhong Yang
+  active: false
+  origin: Southern University and A&amp;M College, Department of Computer Science
+  image: yang.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Yang+Shizhong
+  project_title: Molecular dynamics simulation on the interaction between domain I of gK and extracellular domain IV of UL20
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: Louisiana State University, School of Veterinary Medicine, Department of Pathobiological Science
+    -
+      name: Ebrahim Khosravi, Ph.D.
+      origin: Southern University and A&amp;M College, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: October 1, 2011 – April 30, 2012
+  abstract: |
+    In this project, we will utilize computational tools to simulate a biomedical research question: how does the domain I of herpes simplex virus type 1(HSV-1) glycoprotein K (gK) and the extracellular domain IV of UL20 interact. We aim to obtain a stable structure of the domain I and first segment membrane part of HSV-1 gK and the extracellular domain IV of UL20 using computational approaches, which are currently available as stand-alone software and our groupâ€™s specific analysis tools. We will optimize and derive the best combination of currently available algorithms that can arrive at an optimum stable structure faster. We will then analyze the final stable structure that would be helpful in explain the experimental data and even predict the possible properties that is hard to perform with current experiment equipments. We would expect that an efficient and accurate potential database established after the implementation of this proposed project. The research is expected to facilitate a better understanding of the interaction of gK and UL20p and thereafter drug design to combat herpes virus infections.
+
+    This research has two specific aims: specific aim 1 will focus on model setup and HPC simulation of the domain I of herpes simplex virus type 1 gK and the extracellular domain IV of UL20 through computational methods. Specific aim 2 will focus on analyzing the domain I gK homologs, delineate conserved and divergent structural features, and the gK/membraneinteraction properties. A graduate student will be involved in this research.
+
+-
+  name: Kun Zhang
+  active: false
+  origin: Xavier University, Department of Computer Science
+  image: zhang.jpg
+  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Zhang+Kun
+  project_title: Enhancement of microRNA Research through Bioinformatics Tool Development
+  mentors:
+    -
+      name: Prescott Deininger, Ph.D.
+      origin: Tulane University, Cancer Center
+    -
+      name: Erik Flemington, Ph.D.
+      origin: Tulane University, Department of Pathology and Laboratory Medicine
+  funding_periods:
+    -
+      name: Pilot Project
+      period: May 1, 2010 – April 30, 2012
+  abstract: |
+    MicroRNAs (miRNAs) are very small (approx. 20-22 nt) noncoding RNA molecules that regulate mRNA translation through binding to 7-8 base sequences of the respective 3’ UTRs.  miRNAs have only recently been found to exist in higher eukaryotes.  In the short time since this discovery, the profound significance that miRNAs have in pathway regulation, cell fate, differentiation, development and disease states such as cancer have already been well established. To date, most of the bioinformatics approaches in miRNA research are developed to tackle two major tasks, miRNA detection and miRNA target prediction. Compared to miRNA detection, computational miRNA target prediction are far more challenging due to the lack of strict sequence complementarity between miRNAs and their targets, as well as the scarcity of experimentally validated gene targets to guide algorithm design.
