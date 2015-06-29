@@ -3,9 +3,17 @@
   image: bennet.jpg
   active: true
   origin: Xavier University
-  project_title: Identifying Inhibitors of the Mutagenic Retrotransposon LINE 1 Endonuclease
+  project_title: Characterizing inhibitors of the mutagenic retrotransposon LINE1 endonuclease
   abstract: |
-    Insertional mutagenesis caused by the retrotransposition of the mobile element Long INterspersed Element 1 (L1) and an associated non-autonomous mobile element Alu, have been observed in over fifty separate diseases including breast and prostate cancers (Deininger 2003). Expression and retrotransposition of L1 elements has been recently observed in cancer cell lines as well as patient tumor samples (Cho et al. 2007, Iskow et al. 2009, Lee et al., 2012). L1 has also been linked to cancer progression and a poor prognosis for patients (Roman-Gomez et al. 2005). Retrotransposition of L1 elements occurs by a copy and paste mechanism that requires endonuclease (EN) and reverse transcriptase domains. During retrotransposition the EN of L1 creates a nick within genomic DNA at a canonical target sequence. The target sequence is then used as a substrate for reverse transcription to make a new copy of the L1 element that can be inserted into the genome following the formation of a DNA double strand break (DSB). Our understanding of the role of L1 in creating genetic instability was further enhanced with the knowledge that the activity of the L1 EN results in the formation of DSBs that exceed the observed rate of retrotransposition events (Gasior et al. 2006). The increased number of breaks observed may be due to abortion of the insertion process of new L1 elements by cellular DNA repair machinery that recognize the DNA damage caused by L1. The full contribution of L1 EN activity to genetic instability and disease is currently unknown, but the link between L1 expression and cancer progression warrants a more complete understanding of the direct of effects of LINE1 EN activity. The mobile element field is currently limited in the ability to directly determine the effect of the L1 EN on genomic alteration. Methods such as RNAi and/or knockout mouse models cannot be effectively used to study the role of L1 because of the number of L1 elements in the genome (>500,000 copies) (Lander 2001). The most effective technique to completely determine the contribution of the L1 EN to genetic instability and disease is by direct inhibition of the activity of the L1 EN. The identification of an inhibitor of L1 EN by this study will provide us with the tools required to elucidate the full impact of L1 on genetic instability.
+    There is compelling evidence that the endonuclease (EN) encoded by the retrotransposon Long interspersed element 1 (LINE1) is a powerful causative agent of genetic instability. Expression of the LINE1 EN has been demonstrated to induce DNA double strand breaks (DSBs), damage that is known to be mutagenic and induce diseases such as cancer. In addition, the increased mobilization and expression of LINE1 elements has been observed in germ line, and in some somatic and tumor tissues. However, no studies have shown direct evidence that LINE1-induced DNA DSBs contribute to the induction or progression of diseases because there is currently no tool to specifically limit LINE1 EN activity in cells. Traditional techniques such as RNA knockdown are not feasible due to the large number of LINE1 elements and the location of some of the elements near or in coding regions of the genome. The best tool for deciphering the role of LINE1 EN in genetic instability and disease would be a potent and specific inhibitor of its activity, but no such inhibitor has been discovered yet. In our laboratory, we have been working on screening small molecules from a NIH library. Structural analogs of a promising molecule were made, and we have thus far identified three candidates that inhibit the activity of the lINE1 EN in vitro, have limited cellular toxicity and are able to reduce LINE1 mobilization in HeLa cells. However, further characterization in different types of cells needs to be done before the general use of these inhibitors in the study of LINE1 induced disease in animals.
+
+    Our long-term goal is to determine the impact of the LINE1 element on human disease. The objective for this application, the next step in achieving our long-term goal, is to further characterize small molecule inhibitors of the LINE1 EN in multiple cell lines and to test the inhibitors in a tumor- environment. Our rationale for this research project is to design a good tool that allows us to study L1 EN caused damage in cells and the role in the initiation and progression of diseases in a mouse model. We intend to accomplish the objective of this application by pursuing the following two specific aims:
+
+      1. To determine the effectiveness of the small molecules at preventing LINE1 EN caused damage in cells. The objective of this aim is to study the effectiveness of the molecules at preventing LINE1 EN DNA DSBs, LINE1 retrotransposition and toxicity associated with LINE1 EN activity in several cell lines. Upon completion of these studies we expect to have identified potent and specific small molecule inhibitors of the LINE1 EN that is effective in several cellular backgrounds.
+
+      2. To determine the effect of the small molecule inhibitor(s) on tumors over-expressing LINE1 elements using a tumor xenograft model. The objective of this aim is to characterize the ability of the small molecules to prevent LINE1 EN activity in a tumor microenvironment. We will transplant cells overexpressing LINE1 elements into mice and examine tumor growth rate, LINE1 expression and retrotransposition, and aggressiveness of the tumors. We anticipate that we will have identified a small molecule that can be further studied for toxicity and metabolism in mice.
+
+    The expected outcomes for this proposal are that we will identify a small molecule(s) that specifically inhibits the activity of the LINE1 EN in a cellular and tumor microenvironment. These results will have a positive impact on the understanding of LINE1 induced damage, by providing us with the ability to directly modify LINE1 EN activity. This proposal is innovative because we are seeking a novel and more direct approach to understand LINE1 EN activity, which will allow us to forecast the impact of LINE1 activity on the genome instability and disease. These results are significant because we will have identified a tool that can be used to determine if LINE1 caused damage has a direct role in the initiation or progression of disease. Furthermore, any LINE1 EN inhibitors that are identified may be modified for future use in the treatment of diseases associated with LINE1 EN activity
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Cecily+DeFreece
   funding:
     -
@@ -26,9 +34,13 @@
   image: giorno.png
   active: true
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Rebecca+Giorno
-  project_title: Roles of the Spore Coat and Exosporium in Spore Germination and Dormancy
-  abstract: "Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (18). Spores are resistant to many common disinfection processes making them problematic for reinfection as well as infecting new individuals. Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection. We seek to understand the roles of two spore structures in germination and pathogenicity: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (5, 6). Others have shown that Clostridium difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (24). These phenotypes illustrate the role of the spore coat and exosporium in germination and adherence, which are required steps for infections. Because spores can remain dormant for very long periods of time (years to millions of years) and then resume active growth in the right environment, efficient decontamination is a cause for concern. An additional concern is that spores are also resistant to many common decontamination strategies used in clinical settings such as alcohol based hand sanitizers and quaternary ammonium–based cleaning compounds (21). Recently there has been a focus on adding a germination step during decontamination strategies to achieve better disinfection since vegetative cells are much easier to kill than spores (22). One possible limitation with this decontamination approach is that a subset of spores in a population does not germinate under normal conditions and these have been called superdormant spores (4). Given that the lack of specific spore coat or exosporium proteins can either reduce or enhance germination suggests a complex role for the coat and exosporium in germination. We will investigate the hypothesis that the presence, abundance, and location of various spore coat and exosporium proteins affect spore germination and can contribute to pathogenicity."
+  project_title: Spore outer structures: Contribution to germination heterogeneity
+  abstract: |
+    Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (34).  Spores are resistant to many common disinfection processes making them problematic for re-infection as well as infecting new individuals.  Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection.  One possible complication for inhalational anthrax infections is that dormant spores can be isolated from animals’ lungs weeks after exposure (20, 31).  For Clostridium difficile infections, dormant spores in the colon can germinate and cause disease after antibiotic treatment to a patient. We seek to understand the roles of two spore structures in germination: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (17, 18). Others have shown that the exosporium influences spore adherence to lung epithelial cells as well as persistence in mouse lungs (7, 25).  In addition, C. difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (44).  These phenotypes illustrate the role of the spore coat and exosporium in germination, persistence and adherence which are required steps for infections.
   funding:
+    -
+      name: Full Project
+      period: ??? - ???
     -
       name: Pilot Project
       period: May 1, 2013 – April 30, 2014
@@ -52,7 +64,10 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2013 – present
+      period: ??? - ???
+    -
+      name: Full Project
+      period: May 1, 2013 - April 30, 2015
     -
       name: Pilot Project
       period: May 1, 2012 – April 30, 2013
@@ -84,7 +99,7 @@
       period: May 1, 2009 – April 30, 2010
     -
       name: Project R1
-      period: May 1, 2010 – present
+      period: May 1, 2010 - April 30, 2015
   abstract: |
     Human lipoxygenases (LOX) play pivotal roles in the biosynthesis of leukotrienes and other biologically active eicosanoids. Specific inhibitors that can modulate the physiological and pathological effects of these potent signaling compounds are of high interest. Currently, there are no animal LOX structures that provide a model for how the substrate binds in the LOX active site, a model critical for the development of specific inhibitors. The overall goal of the proposed investigations is to develop substrate-LOX models that can be used for the development of specific anti-LOX inhibitors. The specific aims of the application are: 1) Model protein-substrate interactions in 8R-lipoxygenase. There is no crystal structure of a lipoxygenase in complex with its substrate arachidonic acid (AA) to reveal the structural basis for product specificity in this family of enzymes. Our recent 1.85 Å resolution structure of 8R-LOX provides a strong foundation for model enzyme-substrate interactions. We will utilize computational approaches (molecular dynamics simulation) to derive a model for the 8R-lipoxygenase-arachidonic acid binary complex. 2) "Test" the generally applicability of this model to lipoxygenases of different product specificity. The features of the 8R-LOX:AA model binding site must be able to account for the regio- and stereo-specificity of the enzyme, yet exhibit the potential flexibility to explain the range of specificities found within the LOX enzyme superfamily. Thus, we will use a data mining/homology modeling approach and molecular dynamics simulation to determine whether the 8R-LOX:AA model derived above is consistent with sequence differences in lipoxygenases of different product specificity. The results of our research will help understand the mechanism of substrate recognition in lipoxygenases and facilitate drug design to target lipoxygenases.
 
@@ -215,7 +230,7 @@
   funding:
     -
       name: Funded Project
-      period: May 1, 2012 – Present
+      period: May 1, 2012 - April 30, 2015
     -
       name: Pilot Project
       period: Sept. 14, 2011 – April 30, 2012
@@ -260,7 +275,7 @@
       period: May 1, 2009 – April 30, 2010
     -
       name: Project R7
-      period: May 1, 2010 – present
+      period: May 1, 2010 - April 30, 2015
   abstract: |
     The primary goal of this research is to develop novel anti-cancer agents based on fusarochromanone (FC101a), a natural mycotoxin with potent anti-angiogenic and direct anti-tumor activity. Like most other bioactive natural compounds, the potency of FC101a is compromised in-vivo, suggesting rapid metabolism and/or poor bioavailability and distribution. Dr. Mahdavian has expertise in the synthesis of flavonoids and the derivatization of chroman compounds, and she is working together with Drs. Clifford and Kevil to evaluate the mechanism of this compound’s biological activity. Subsequent investigations will include synergistic effects of FC101a and alpha-TAM, a mitochondrial-targeted anti-cancer compound (mitocan) in a liposomal formulation. Like FC101a, alpha-TAM demonstrates both anti-angiogenic and direct anti-tumor activity, but through a different biological mechanism.
 
@@ -283,13 +298,13 @@
       period: May 1, 2009 – April 30, 2010
     -
       name: Project R8
-      period: May 1, 2010 – present
+      period: May 1, 2010 - April 30, 2015
   abstract: |
     The long-term goal of this project is to elucidate and characterize the molecular mechanism by which the Hoxa1 transcription factor directs the differentiation of embryonic stem cells into neurons. Expression of the Hoxa1 gene in cells and tissues can be activated by retinoic acid (RA), a derivative of vitamin A. Inactivation of both alleles of the Hoxa1 gene in mice results in numerous developmental defects, including hindbrain deficiencies and abnormal skull ossification, and ultimately, in neonatal death. In humans, truncating mutations of the HOXA1 gene have been associated to autism susceptibility. This project will characterize the function of Hoxa1 during the RA-induced differentiation of mouse embryonic stem (ES) cells grown in suspension as embryoid bodies (EBs). We hypothesize that RA can induce the differentiation of mouse ES cells into all three germ layers and that the role of Hoxa1 is to promote neuronal cell differentiation by repressing endodermal and/or mesodermal cell lineages. We will test this hypothesis with the following specific aims: Aim 1 will employ retinoic acid receptor (RAR) agonists to determine the mechanism of RA-induced expression of Hoxa1 in EBs; Aim 2 will characterize the role of Hoxa1 as a repressor of endodermal differentiation and as an inducer of neuronal gene expression; Aim 3 will characterize the role of RA isomers during the differentiation of ES cells into neurons. The results obtained from these studies may result in novel differentiation strategies for the generation in culture of homogeneous neuronal cell populations. Because the results obtained using our murine system can be applied to human cells, the knowledge obtained from this project will have an important vertical impact on the treatment of spinal cord or brain injuries in humans.
 
 -
   name: Harris McFerrin
-  active: false
+  active: true
   origin: Xavier University of Louisiana, Department of Biology
   image: mcferrin.jpg
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=McFerrin+Harris
@@ -297,14 +312,14 @@
   mentors:
     -
       name: Konstantin G. Kousoulas, Ph.D.
-      origin: School of Veterinary Medicine, Louisiana State University, Department of Pathobiological Science
+      origin: Louisiana State University, Department of Pathobiological Science
     -
       name: Deborah E. Sullivan
       origin: Tulane University, Microbiology & Immunology
   funding:
     -
       name: Project
-      period: December 1, 2010 – present
+      period: December 1, 2010 - April 30, 2015
   abstract: |
     Herpes simplex virus type 1 (HSV-1) infects approximately 90% of humans worldwide. HSV-1 infection and subsequent replication induce inflammation and blood vessel growth in the cornea of the eye leading to corneal blindness. In the United States, HSV infection is the leading cause of infection-induced blindness, and nearly 20,000 new cases are reported yearly.
 
@@ -374,7 +389,7 @@
       period: Jan 2, 2008 – April 30, 2011
     -
       name: Project R11
-      period: May 1, 2011 - present
+      period: May 1, 2011 - April 30, 2015
   abstract: |
     The long-term objective of this research project is to understand the role of extracellular domains of proteins in protein-protein interactions for cell signaling. The short-term objective of this project is to understand the role of domain IV of human epidermal growth factor receptor 2 (HER2) extracellular domain in protein-protein interaction with other epidermal growth factor receptors (EGFRs) in signaling for cell growth. Our hypothesis is that protein-protein interaction surfaces have small core regions which are hydrophobic in nature and protein-protein interactions can be modulated by small molecules that interact with core regions to modulate the signaling for cell growth. As a model system we will investigate protein-protein interactions on EGFR extracellular domains. In particular, we will investigate the interaction of HER2 protein with other EGFRs (EGFR/HER1, HER3). Protein-protein interactions are critical for many biological processes. The interfaces of these protein-protein interactions may have cavities or flat surfaces that are dominated by non-covalent interactions. Analyses of the structures and sequences using bioinformatics approaches have revealed that, although the interacting surfaces are large (700 to 3,000), there are core regions in the surface that facilitate high-affinity interactions. These core regions are dominated by amino acids such as tyrosine, phenylalanine. Thus, small molecules that are targeted to these core regions can be used to modulate protein-protein interactions and may have clinical significance. The protein HER2 is known to interact with other EGFRs to form dimers/heteromers. HER2-mediated heterodimerization leads to signals for cell growth. Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. HER2 interaction with HER3 and EGFR is known to be dominant in HER2-overexpressing tumors. Blockade of the interaction of HER2 with other receptors ultimately leads to control of cell growth. The extracellular domain of EGFRs consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Crystal structures of the extracellular domains of EGFR and HER2-4 are available. The homodimer of the crystal structure of EGFR extracellular domain has been elucidated. However, it lacks domain IV and, thus, the importance of domain IV in dimerization is not understood. Hence, these proteins will serve as good models to understand protein-protein interaction for cell signaling. Furthermore, blocking of domain IV of HER2 protein has clinical significance and, hence, the results from the proposed research can be applicable as â€œtranslational research. The studies presented here can be extended to other protein-protein interactions of biological importance. In the preliminary studies we have carried out, we have shown that a small hydrophobic molecule binds to domain IV of HER2 protein and also inhibits HER2-HER3 interaction in surface plasmon resonance experiments. In the proposed research project, our goal is to understand the importance of domain IV of HER2 in protein-protein interactions and the core region that is critical for dimerization and its modulation for cell signaling.
 
@@ -399,7 +414,7 @@
       period: Sept 1, 2008 – April 30, 2010
     -
       name: Project R9
-      period: May 1, 2010 – present
+      period: May 1, 2010 - April 30, 2015
   abstract: |
     Microarray gene expression analysis, an important component in the design of in-silico molecular medicine methods, has made possible to monitor the expression level of thousands of genes under different samples (conditions) at the same time. The analysis can yield novel information regarding cellular mechanisms, regulatory functions of genes, functions of genes and proteins, gene network structure, and pathways, and can relate the risk of being affected by diseases to gene expression profiles which are characteristics for phenomenon such as Alzheimer’s Disease (AD). Particularly in AD where the effective diagnosis includes annotation, early detection, distinction, and prediction, data mining and statistical approaches offer the promise for precise, accurate, and functionally robust analysis of gene and protein expression data. In this proposal we will investigate into the miRNA expressions of AD patients and age-matched controls by designing and developing algorithms to discover correlated and co-regulated sets of miRNA patterns that have a biologically significant role in the progression of Alzheimer’s. Our approach lies in the design and development of computationally efficient algorithms for dimensionality and noise reduction followed by supervised classification of gene expression data using the theory of association rules and clustering with the biological characterization of sets of genes discovered. We hypothesize that rank-based associations for unsupervised clustering can provide biologically significant correlations among co-regulated miRNA profiles with a higher specificity and sensitivity. The proposed approach will have the following algorithmic components as specific aims: a) Design algorithms for dimensionality reduction of gene expression data using the statistical indicators of “housekeeping” genes as the underlying factor of control, b) Design and develop algorithms for finding correlations in subspaces of high dimensional gene, protein expression data using theory of association rules, c) Design and develop metrics for clustering to synopsize the high dimensional gene correlations for better biological interpretation, d)Perform validation for evaluation for the discovered sets of genes for their biological significance, and e) Develop an open-source tool-kit, by incorporating the developed algorithms.
 
@@ -425,7 +440,7 @@
 
 -
   title: Jayalakshmi Sridhar
-  active: false
+  active: true
   origin: Xavier University of Louisiana, Department of Chemistry
   image: sridhar.jpg
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Jayalakshmi+Sridhar
@@ -437,7 +452,10 @@
   funding:
     -
       name: Pilot Project
-      period: May 1, 2014 – present
+      period: May 1, 2014 – ???
+    -
+      name: Project R10
+      period: ??? - ???
   abstract: |
     Alzheimer's disease (AD) is a progressive neurodegenerative disorder associated with the accumulation of the neurotoxic peptide amyloid β (Αβ). Casein kinase 1 family comprises of eight isozymes, two of which CK1δ and CK1ε are predominantly expressed in the brain. CK1δ plays a critical role in AD through phosphorylation of tau, a protein associated with microtubules, which precedes neuritic lesion formation. Thus, CK1δ is implicated in the tau fibrillization reaction pathway. CK1δ is reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and parkinsonism dementia complex of Guam. Inhibition of CK1δ by pan CK1 inhibitors has been shown to reduce fibrillar lesions and to inhibit Aβ production. These studies show the potential for CK1δ specific inhibitors as therapeutic agents for neurodegenerative disorders. The reports on development of CK1δ small molecule inhibitors are therapeutic agents for neurodegenerative disorders have been far and few. None of the recently reported CK1δ inhibitors been tested for their efficacy in pre-clinical trials. Our recent work investigating quinones as kinase inhibitors revealed a quinone compound that inhibited CK1δ and Pim1 kinase preferentially over CK1γ2 and 98 other human protein kinases. Similarity search and preliminary in vitro CK1δ kinase inhibition assay have yielded a few compounds with good potency. This proposal aims to further refine the structure of the quinones through molecular modeling studies, design of new derivatives, and synthesis of the designed molecules followed by CK1δ inhibition assays to obtain highly selective and potent inhibitors of CK1δ kinase.
 
@@ -461,7 +479,7 @@
       period: May 1, 2009 – April 30, 2010
     -
       name: Project R10
-      period: May 1, 2010 – present
+      period: May 1, 2010 - April 30, 2015
   abstract: |
     The long-term goal of this project is to elucidate the molecular mechanisms of drug targets for cancer using molecular genetics and bioinformatics in baker's yeast. Cancers represent an increasing health problem as people live longer. Identifying novel drugs and therapeutic treatments to combat the myriad of cancers requires decades of investigation. The objective of this research project is to use Saccharomyces cerevisiae ( budding yeast) as a screening tool to identify the molecular target(s) of putative, novel anti-cancer drugs, fusarochromanone (FC-101a) and its analogues. Initial identification in yeast greatly reduces the time required to test the efficacy of these drugs in animal models. FC-101a is a small natural flavonoid compound and mycotoxin produced by Fusarium equiseti, a fungus present in decaying cereal plants. Studies by Dreau et al., 2007, indicate that fusarochromanone increases apoptosis of melanomas and reduces tumor growth in vivo. Yet is it is not known whether the cytotoxic effects of FC-101a can be used for clinical treatment of human tumors. To date, the molecular mechanisms by which this drug acts to elicit its anti-tumor effects are unknown. The proposed investigation will serve as an initial in vivo study to identify the molecular targets of FC-101a and its analogues to simplify the experimental design of future animal model studies. The first Specific Aim is to (1) perform drug sensitivity assays with yeast exposed to FC-101a and its analogues, (2) screen yeast deletion and hypomorphic collections for strains that confer drug resistance, and (3) isolate dosage suppressors of this resistance to the drug to identify proteins that interact with the putative molecular target(s). We hypothesize the existence of genes that, when deleted or mutated, cause drug resistance to cells, and genes that, when overexpressed, suppress this drug resistance. These genes represent specific, putative molecular targets within the same signal transduction pathway(s) utilized by FC-101a. The second Specific Aim is to identify genes that are differentially expressed in yeast exposed to sub-lethal concentrations of FC-101a. We will measure global transcriptional changes that occur in strains exposed to sub-lethal levels of FC-101a and its analogues using microarray analysis and real time PCR. We will make crosses between strains of putative molecular targets to identify genetic interactions. To identify protein-protein and protein-drug interactions between FC-101a and other molecules, we will perform co-immunoprecipitation, western blotting, and mass spectrometry. Molecular targets for FC-101a thus identified in yeast will be candidates for validation in future animal model studies.
 
@@ -502,9 +520,66 @@
     -
       name: Erik Flemington, Ph.D.
       origin: Tulane University, Department of Pathology and Laboratory Medicine
-  funding_periods:
+  funding:
     -
       name: Pilot Project
       period: May 1, 2010 – April 30, 2012
   abstract: |
     MicroRNAs (miRNAs) are very small (approx. 20-22 nt) noncoding RNA molecules that regulate mRNA translation through binding to 7-8 base sequences of the respective 3’ UTRs.  miRNAs have only recently been found to exist in higher eukaryotes.  In the short time since this discovery, the profound significance that miRNAs have in pathway regulation, cell fate, differentiation, development and disease states such as cancer have already been well established. To date, most of the bioinformatics approaches in miRNA research are developed to tackle two major tasks, miRNA detection and miRNA target prediction. Compared to miRNA detection, computational miRNA target prediction are far more challenging due to the lack of strict sequence complementarity between miRNAs and their targets, as well as the scarcity of experimentally validated gene targets to guide algorithm design.
+
+-
+  name: Jamie Newman
+  active: true
+  origin: LA Tech
+  image: NULL.
+  project_title: The role of mediator in maintaining and differentiating human mesenchymal stem cells
+  abstract: |
+    The maintenance of healthy cell state is required to prevent a number of human diseases, including developmental defects, autoimmune disease, and cancer.  Small changes in the ability of a cell to properly regulate transcription and gene expression can result in large phenotypic changes.  As medicine looks to novel therapies  to  treat  human  disease,  adult  stem  cells  and  their  therapeutic  potential  are  being  heavily investigated.  The interest in stem cells is in their inherent cellular properties of self-renewal and their ability to be directed toward a number of terminally differentiated cell fates.  To optimize the use of these cells in the clinic, it is first important that we gain a better understanding of what maintains their cell state as a healthy, multipotent cell, and what is necessary for them to properly differentiate down a specific lineage.
+    Regulation of gene expression relies on a coordinated interaction of environmental stimuli, internal signaling cascades, transcription factors, chromatin modifiers, microRNAs (miRNAs), and the transcriptional machinery.   Here we propose exploring the role of a large multisubunit protein complex in maintaining the unique properties of mesenchymal stem cells (MSCs), a population of adult stem cells found in human bone marrow, adipose tissue, and umbilical cord blood, recently identified to have tremendous therapeutic potential. Earlier work in this field demonstrated a critical role for Mediator in maintaining embryonic stem cell state by facilitating long-range cell-type specific interactions that promoted gene expression profiles necessary to maintain the pluripotency of embryonic stem cells (Kagey et al. 2010). The goal of the project proposed here is to determine the role that specific Mediator subunits have in adult mesenchymal stem cell state.  Specifically we are interested in identifying the genes regulated by Mediator, how expression of those genes is altered following the loss of specific Mediator subunits, how these changes in gene expression affect cell fate commitments, and finally how we can use this information to better understand the use of MSCs in clinical settings.  The growing interest in adult stem cells and their use in the clinic demands more in-depth study of the mechanisms that control their distinct cell properties.
+  mentors:
+    -
+      name: Bruce Bunnel
+      origin: Tulane
+  funding:
+    -
+      name: Pilot Project
+      period: ??? - ???
+
+-
+  name: Subramanyam Murthy
+  active: true
+  origin: SUBR
+  image: NULL.
+  project_title:
+  abstract: |
+    Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
+  mentors:
+    -
+      name: Thomas Gettys
+      origin: Pennington
+  funding:
+    -
+      name: Pilot Project
+      period: ??? - ???
+-
+  name: Brian Salvatore
+  active: true
+  origin: LSUS
+  mentors:
+    -
+      name: Shile Huang
+      origin: LSUHSC-NO
+    -
+      name: Christopher Kevil
+      origin: LSUHSC-NO
+  project_title: Design and synthesis of novel polyphenol cancer therapeutics
+  abstract: |
+    The primary goal of this research is to develop novel drugs based on the hydroxycinammic polyphenol scaffold.  There is tremendous potential in this area of drug development as many natural molecules in this class (e.g., caffeic acid) exhibit potent and favorable direct effects on cancer cell signaling in vitro.  However, almost invariably, the natural products themselves are reported to have poor ADMET drug properties in vivo, particularly poor absorption and metabolic profiles.  This is often due to sub-optimal structural characteristics. We seek to address these problems through the design and synthesis of novel molecules possessing more desirable pharmacokinetic properties than the natural compounds.  A series of fourteen new compounds is proposed, incorporating several unique bioisosteric characteristics, aimed at improving problematic ADMET characteristics, while maintaining favorable anti-cancer signaling.  Cell proliferation assays to evaluate the effects of the synthetic compounds on the UM-UC14 (malignant bladder), and PC3 (malignant prostate) cancer cells will be employed, along with transepithelial cell monolayer model assays to assess the bioavailability of the synthetic compounds in vitro.
+    This proposed research plays an important part toward establishing a new core group of cancer researchers and facilities at LSUS.  This proposal highlights contributions toward the medicinal chemistry component of that research.  This is important in fostering collaboration with several major medical centers in Shreveport.  Health care is an important part of our local economy, University Health, along with Willis- Knighton and the Feist-Weiller Cancer Centers are all placing a strong emphasis on translating therapies from the benchtop to the bedside.  This project also supports another key component of LBRN’s mission by tackling an important interdisciplinary research problem in the prevention and treatment of cancer.
+  funding:
+    -
+      name: Pilot Project
+      period: ??? - ???
+
+-
+  name:
