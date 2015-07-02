@@ -17,8 +17,8 @@
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Cecily+DeFreece
   funding:
     -
-      name: Pilot Project
-      period: (May 1, 2013 – April 30, 2014)
+      name: Full Project
+      period: May 1, 2013 – Present
 
   mentors:
     -
@@ -40,7 +40,7 @@
   funding:
     -
       name: Full Project
-      period: ??? - ???
+      period: May 1, 2015 - Present
     -
       name: Pilot Project
       period: May 1, 2013 – April 30, 2014
@@ -64,7 +64,7 @@
   funding:
     -
       name: Full Project
-      period: ??? - ???
+      period: May 1, 2015 - Present
     -
       name: Full Project
       period: May 1, 2013 - April 30, 2015
@@ -452,10 +452,10 @@
   funding:
     -
       name: Pilot Project
-      period: May 1, 2014 – ???
+      period: May 1, 2014 – April 20, 2015
     -
-      name: Project R10
-      period: ??? - ???
+      name: Full Project
+      period: May 1, 2015 - Present
   abstract: |
     Alzheimer's disease (AD) is a progressive neurodegenerative disorder associated with the accumulation of the neurotoxic peptide amyloid β (Αβ). Casein kinase 1 family comprises of eight isozymes, two of which CK1δ and CK1ε are predominantly expressed in the brain. CK1δ plays a critical role in AD through phosphorylation of tau, a protein associated with microtubules, which precedes neuritic lesion formation. Thus, CK1δ is implicated in the tau fibrillization reaction pathway. CK1δ is reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and parkinsonism dementia complex of Guam. Inhibition of CK1δ by pan CK1 inhibitors has been shown to reduce fibrillar lesions and to inhibit Aβ production. These studies show the potential for CK1δ specific inhibitors as therapeutic agents for neurodegenerative disorders. The reports on development of CK1δ small molecule inhibitors are therapeutic agents for neurodegenerative disorders have been far and few. None of the recently reported CK1δ inhibitors been tested for their efficacy in pre-clinical trials. Our recent work investigating quinones as kinase inhibitors revealed a quinone compound that inhibited CK1δ and Pim1 kinase preferentially over CK1γ2 and 98 other human protein kinases. Similarity search and preliminary in vitro CK1δ kinase inhibition assay have yielded a few compounds with good potency. This proposal aims to further refine the structure of the quinones through molecular modeling studies, design of new derivatives, and synthesis of the designed molecules followed by CK1δ inhibition assays to obtain highly selective and potent inhibitors of CK1δ kinase.
 
@@ -542,12 +542,13 @@
       origin: Tulane
   funding:
     -
-      name: Pilot Project
-      period: ??? - ???
+      name: Full Project
+      period: May 1, 2015 - Present
 
 -
   name: Subramanyam Murthy
   active: true
+  image: NULL.
   origin: SUBR
   image: NULL.
   project_title:
@@ -559,11 +560,12 @@
       origin: Pennington
   funding:
     -
-      name: Pilot Project
-      period: ??? - ???
+      name: Full Project
+      period: May 1, 2015 - Present
 -
   name: Brian Salvatore
   active: true
+  image: NULL.
   origin: LSUS
   mentors:
     -
@@ -578,8 +580,91 @@
     This proposed research plays an important part toward establishing a new core group of cancer researchers and facilities at LSUS.  This proposal highlights contributions toward the medicinal chemistry component of that research.  This is important in fostering collaboration with several major medical centers in Shreveport.  Health care is an important part of our local economy, University Health, along with Willis- Knighton and the Feist-Weiller Cancer Centers are all placing a strong emphasis on translating therapies from the benchtop to the bedside.  This project also supports another key component of LBRN’s mission by tackling an important interdisciplinary research problem in the prevention and treatment of cancer.
   funding:
     -
-      name: Pilot Project
-      period: ??? - ???
+      name: Full Project
+      period: May 1, 2015 - Present
 
 -
-  name:
+  name: Hye-Young	Kim
+  active: true
+  image: NULL.
+  origin: SELU
+  mentors:
+    -
+      name: Dorel Moldovan
+      origin: LSU
+  project_title: Large-scale atomistic simulation for novel self-assembled drug delivery vehicles
+  abstract: |
+    The main goal of the proposed research project is for the Principal Investigator to acquire the expertise that would enable her to become a federally funded independent researcher in the area of computational biophysics, emphasizing the fundamental and applied aspects of the development of novel self-assembled drug delivery vehicles. This goal will be achieved by leveraging and enhancing the following two sets of objectives: (1) professional development objectives that will enable the PI to quickly acquire the professional reputation and new expertise in the field of computational biomedicine to match her outstanding research ability and background, and (2) research objectives, which will enable the PI to contribute to an important area of research in biomedicine using large-scale atomistic and coarse-grained computer
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+
+-
+  name: Matthew	Talbert
+  active: true
+  image: NULL.
+  origin: ULM
+  mentors:
+    -
+      name: Jacqueline Stephens
+      origin: Pennington
+  project_title: Investigation of the role of Drosophila SOCS36E in energy homeostatis and obesity
+  abstract: |
+    Our overall objective is the discovery of the molecular mechanisms by which obesity induces disease. Diet- induced obesity in humans and animal models does not guarantee comorbidities, but it does substantially heighten the risk of diabetes, cardiovascular disease, and neurological decline. The ability of obesity to cause disease has been intensely studied in mammals, revealing mechanisms that include chronic inflammation and aberrant   cell   signaling.  An   extreme   state   resembling   mammalian  obesity  results   when   Drosophila melanogaster are allowed to feed upon solid medium that is high in sugar (HSD). Exposed flies have increased triglyceride levels, increased circulating glucose, reduced insulin response despite increased expression, cardiac abnormalities, a severely reduced lifespan, and are impeded in climbing ability. As one of the newer models of obesity, and yet among the most genetically accessible to researchers, Drosophila melanogaster is useful in the dissection of specific connections between obesity and its comorbidities. In mammals, leptin is released from adipose tissue in direct proportion to their metabolite content. When leptin reaches the hypothalamus, it conveys the energy state of the organism, inhibiting appetite centrally and promoting signaling components  of  the  insulin  response  peripherally.  Following  activation  of  the  leptin  receptor,  JAK-Stat3 signaling results in the transcription of a range of genes, the suppressor of cytokine signaling 3 (SOCS3) among them. SOCS3 acts as a classical negative feedback inhibitor of the leptin receptor and a range of other cytokines. Among these cytokines are components of the insulin response. Interestingly, SOCS3 is also produced in response to inflammatory agents, such as IL-6 or TNF-α, which provides a direct mechanism by which the chronic inflammation of obesity can promote leptin and insulin resistance. In Drosophila melanogaster, unpaired 2 (Upd2) is released from the fat body in proportion to nutrient content, binds to the receptor Domeless upon GABAergic neurons that precede the median neurosecretory cells, and promotes drosophila insulin-like peptide 2 (Dilp2) release through Hop-Stat92e signaling. Drosophila also possess SOCS proteins, among them the classical negative feedback inhibitor SOCS36E, which also seems to be induced during immune and/or stress responses. In this study, we reduce the adult expression of SOCS36E in both the whole fly and exclusively in neurons. We hypothesize that either of these interventions will result in increased Upd2 effectiveness and thus Dilp2 responsiveness, conveying a greater tolerance to HSD as evinced by increased  lifespan,  improved  mobility,  increased  fat  stores,  altered  starvation  resistance,  and  reduced circulating metabolites. Herein we also conduct RNA-Sequencing of whole flies to obtain genomic profiles that compare the transcriptome of normal vs HSD, as well as the transcriptome response to knockout of SOCS36E in each dietary context. Regardless of the nature of the results, our study stands to advance the understanding of the pathophysiology of diet-induced obesity and will enhance our awareness of the conserved physiology between human and fly.
+  funding:
+    -
+      name: Pilot Project
+      preiod: May 1, 2015 - Present
+
+-
+  name: Sami Nazzal
+  active: true
+  image: NULL.
+  origin: ULM
+  mentors:
+    -
+      name: James Cardelli
+      origin: LSUHSC-S
+  project_title: Cytotoxicity of tocotrienol nanoemulsions loaded with paclitaxel/gemcitabine PUFA
+  abstract: |
+    The highly significant work of this proposal addresses the urgent need to enhance the activity of gemcitabine and to overcome pancreatic tumor resistance to chemotherapy. Cancer is the second leading cause of death in the US (www.cdc.gov). Of all major types of cancer, pancreatic cancer has the highest mortality rate. It ranks as the fourth leading cause of cancer death in the US (www.cancer.gov) and is predicted to become the second leading cause of cancer-related death by 2020 (http://www.pancan.org/). Pancreatic cancer has poor prognosis, even when diagnosed early. It is one of the few cancers for which survival has not improved substantially over nearly 40 years. (http://www.pancreatic.org/). For all stages of pancreatic cancer, the 1- and 5-year relative survival rates are 27% and 6%, respectively (Cancer Facts & Figures 2014). Furthermore, treatment options for pancreatic cancer are limited. Surgery, radiation therapy, and chemotherapy may extend survival but they seldom produce a cure. The tumor response rates of gemcitabine (Gemzar®), the first-line treatment for patients with locally advanced or metastatic (stage IV) adenocarcinoma of the pancreas is approximately 10%. Recently a combination therapy with nab-paclitaxel (Abraxane®) and gemcitabine was approved for the first-line treatment of patients with metastatic adenocarcinoma of the pancreas. While promising, substantial toxic effects and modest benefits were observed with this combination. Therefore, there is a need for newer treatments with fewer side effects and marked enhancement in activity over existing therapies. Our long-term goal is to develop an efficacious approach to improve cancer chemotherapy and to overcome cancer chemoresistance. Our overall objective in the present application is to develop a novel strategy to enhance the efficacy of gemcitabine against pancreatic tumors cells by augmenting the TOCOSOLR paclitaxel  nanoemulsion  with  the  tocotrienol  isomers  of  vitamin  E  and  by  conjugating  gemcitabine  and paclitaxel to polyunsaturated fatty acids (PUFA). Our central hypothesis is that nanoemulsions made with tocotrienols  as  the  lipid  core  and  loaded  with  PUFA  conjugated  paclitaxel  and  gemcitabine  will  have significantly higher anticancer activity than the free paclitaxel + free gemcitabine combination therapy.
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2015 - Present
+
+-
+  name: Keith	Jackson
+  active: true
+  image: NULL.
+  origin: ULM
+  mentors:
+    -
+      name: Joseph Francis
+      origin: LSU Vet School
+  project_title: Role of heme oxygenase in the renal control of hypertension
+  abstract: |
+    The proposed studies in this LBRN pilot proposal will investigate the renal functional significance of the heme- heme oxygenase (HO)-carbon monoxide (CO) system during recurrent insulin-induced hypoglycemia (RIIH). HO catalyzes the conversion of heme to iron, biliverdin and CO. Biliverdin is rapidly reduced to bilirubin, which is a major antioxidant in mammalian systems. CO inhibits vascular smooth muscle cell growth and apoptosis, relaxes vascular smooth muscle, and promotes diuresis. Two major HO isozymes have been identified: HO-1 is an inducible heat shock protein (HSP32), while HO-2 is constitutive.
+    AngII levels have been reported to be elevated in type I diabetic patients promoting hyperfiltration and hypertension in these patients with eventual renal injury. Increased AngII levels are associated with oxidative stress, which is a well-established stimulus for HO-1 induction. Recent reports have indicated that HO-1 expression is increased during AngII induced hypertension, and potentially plays a role in renal protection. Therefore, AngII induced hypertension in type I diabetic patients may increase HO-1 levels to promote CO production, and this increase in CO may help to buffer AngII and superoxide mediated hypertension.
+    Hyperglycemia has been reported to alter circulating AngII levels in diabetes potentially promoting renal disease. However, the source of glycemic induction of AngII remains to be elucidated. Type I or insulin- dependent diabetics are known to have fluctuating blood glucose levels in that hyperglycemia is treated with insulin promoting various bouts of hypoglycemia. Thus, determining the mechanism of AngII induction, and the underlining mediators of AngII induced hypertension could provide a novel treatment to protect against the onset of renal failure. The proposed studies will test the hypothesis that chronic insulin injections and hypoglycemia promote hypertension and renal damage via an increase in renal angiotensin II.
+  funding:
+    -
+      name: Pilot Projects
+      period: May 1, 2015 - Present
+
+-
+  name: Paul Kim
+  active: true
+  image: NULL.
+  origin: Grambling
+  mentors:
+    -
+      name: Jacqueline Stephens
+      origin: Pennington
+  project_title: TBD
+  abstract: TBD
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2015 - Present
