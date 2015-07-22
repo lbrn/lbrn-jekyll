@@ -44,4 +44,4 @@ Baton Rouge, LA 70803
 
 [1]: mailto:ewischu@lsu.edu
 [2]: mailto:tgilbert@lsu.edu
-[3]: mailto: johnq@lsu.edu
+[3]: mailto:johnq@lsu.edu
