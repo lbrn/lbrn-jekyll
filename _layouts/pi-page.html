@@ -5,7 +5,7 @@ layout: default
 {% for pi in site.data.pis %}
   {% if pi.name == page.person %}
     <div class="page">
-      <a href="{{ pi.pubmed_link }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
+      <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ pi.name | replace:' ', '+' }}" class="pubmed-link btn btn-primary">Link to Pubmed Publications</a>
       <h2 class="page-title" style="margin-bottom: 0">{{ pi.name }}</h2>
       {{ pi.origin }}
       <hr>

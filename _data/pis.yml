@@ -33,8 +33,8 @@
   origin: Louisiana Tech University
   image: giorno.png
   active: true
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Rebecca+Giorno
-  project_title: Spore outer structures: Contribution to germination heterogeneity
+  pubmed_link: "http://www.ncbi.nlm.nih.gov/pubmed/?term=Rebecca+Giorno"
+  project_title: "Spore outer structures: Contribution to germination heterogeneity"
   abstract: |
     Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (34).  Spores are resistant to many common disinfection processes making them problematic for re-infection as well as infecting new individuals.  Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection.  One possible complication for inhalational anthrax infections is that dormant spores can be isolated from animals’ lungs weeks after exposure (20, 31).  For Clostridium difficile infections, dormant spores in the colon can germinate and cause disease after antibiotic treatment to a patient. We seek to understand the roles of two spore structures in germination: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (17, 18). Others have shown that the exosporium influences spore adherence to lung epithelial cells as well as persistence in mouse lungs (7, 25).  In addition, C. difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (44).  These phenotypes illustrate the role of the spore coat and exosporium in germination, persistence and adherence which are required steps for infections.
   funding:
@@ -244,7 +244,7 @@
   name: Yong-Yu Liu
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
-  image: .NULL
+  image: liu.jpg
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Liu+Yong-Yu
   project_title: Epigenetic Effects of Ceramide Glycosylation and Drug-Resistant Cancer Stem Cell
   mentors:
@@ -262,7 +262,7 @@
   name: Elahe Mahdavian
   active: false
   department: Louisiana State University in Shreveport, Department of Computer Science
-  image: mahdarian.jpg
+  image: mahdavian.jpg
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Mahdavian+Elahe
   project_title: Development of Novel Anti-Cancer Agents
   mentors:
@@ -373,7 +373,7 @@
   name: Seetharama D Satyanarayanajois
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
-  image: satyanarayanajois.jpg
+  image: satyanarayanajois.png
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Satyanarayanajois+Seetharama
   project_title: Role of Extracellular Domain IV of HER2 Protein in Cell Signaling
   mentors:
@@ -398,7 +398,7 @@
   active: false
   department: Department of Health Information Management
   university: Louisiana Tech University
-  image: sethi.jpg
+  image: dua.jpg
   pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Sethi+Prerna
   project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
   mentors:
@@ -455,7 +455,7 @@
       period: May 1, 2014 – April 20, 2015
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: Mchy 1, 2015 - Present
   abstract: |
     Alzheimer's disease (AD) is a progressive neurodegenerative disorder associated with the accumulation of the neurotoxic peptide amyloid β (Αβ). Casein kinase 1 family comprises of eight isozymes, two of which CK1δ and CK1ε are predominantly expressed in the brain. CK1δ plays a critical role in AD through phosphorylation of tau, a protein associated with microtubules, which precedes neuritic lesion formation. Thus, CK1δ is implicated in the tau fibrillization reaction pathway. CK1δ is reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and parkinsonism dementia complex of Guam. Inhibition of CK1δ by pan CK1 inhibitors has been shown to reduce fibrillar lesions and to inhibit Aβ production. These studies show the potential for CK1δ specific inhibitors as therapeutic agents for neurodegenerative disorders. The reports on development of CK1δ small molecule inhibitors are therapeutic agents for neurodegenerative disorders have been far and few. None of the recently reported CK1δ inhibitors been tested for their efficacy in pre-clinical trials. Our recent work investigating quinones as kinase inhibitors revealed a quinone compound that inhibited CK1δ and Pim1 kinase preferentially over CK1γ2 and 98 other human protein kinases. Similarity search and preliminary in vitro CK1δ kinase inhibition assay have yielded a few compounds with good potency. This proposal aims to further refine the structure of the quinones through molecular modeling studies, design of new derivatives, and synthesis of the designed molecules followed by CK1δ inhibition assays to obtain highly selective and potent inhibitors of CK1δ kinase.
 
@@ -531,7 +531,7 @@
   name: Jamie Newman
   active: true
   origin: LA Tech
-  image: NULL.
+  image: newman.jpg
   project_title: The role of mediator in maintaining and differentiating human mesenchymal stem cells
   abstract: |
     The maintenance of healthy cell state is required to prevent a number of human diseases, including developmental defects, autoimmune disease, and cancer.  Small changes in the ability of a cell to properly regulate transcription and gene expression can result in large phenotypic changes.  As medicine looks to novel therapies  to  treat  human  disease,  adult  stem  cells  and  their  therapeutic  potential  are  being  heavily investigated.  The interest in stem cells is in their inherent cellular properties of self-renewal and their ability to be directed toward a number of terminally differentiated cell fates.  To optimize the use of these cells in the clinic, it is first important that we gain a better understanding of what maintains their cell state as a healthy, multipotent cell, and what is necessary for them to properly differentiate down a specific lineage.
@@ -548,7 +548,7 @@
 -
   name: Subramanyam Murthy
   active: true
-  image: NULL.
+  image: murthy.jpg
   origin: SUBR
   image: NULL.
   project_title:
@@ -562,10 +562,11 @@
     -
       name: Full Project
       period: May 1, 2015 - Present
+
 -
   name: Brian Salvatore
   active: true
-  image: NULL.
+  image: salvatore.jpg
   origin: LSUS
   mentors:
     -
@@ -586,7 +587,7 @@
 -
   name: Hye-Young	Kim
   active: true
-  image: NULL.
+  image: kim.jpg
   origin: SELU
   mentors:
     -
@@ -603,7 +604,7 @@
 -
   name: Matthew	Talbert
   active: true
-  image: NULL.
+  image: talbert.jpg
   origin: ULM
   mentors:
     -
@@ -620,7 +621,7 @@
 -
   name: Sami Nazzal
   active: true
-  image: NULL.
+  image: nazzal.jpg
   origin: ULM
   mentors:
     -
@@ -635,9 +636,9 @@
       period: May 1, 2015 - Present
 
 -
-  name: Keith	Jackson
+  name: Keith Jackson
   active: true
-  image: NULL.
+  image: jackson.jpg
   origin: ULM
   mentors:
     -
@@ -656,7 +657,7 @@
 -
   name: Paul Kim
   active: true
-  image: NULL.
+  image: pkim.jpg
   origin: Grambling
   mentors:
     -
