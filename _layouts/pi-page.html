@@ -16,13 +16,23 @@ layout: default
             <p class="project-title">{{ pi.project_title }}</p>
             <br>
 
-            <h4>Mentors</h4>
+            {% if pi.mentors.size > 1 %}
+              <h4>Mentors</h4>
+            {% else %}
+              <h4>Mentor</h4>
+            {% endif %}
+
             {% for mentor in pi.mentors %}
               <p>{{ mentor.name }}<br>{{mentor.origin}}</p>
             {% endfor %}
             <br>
 
-            <h4>Funding Periods</h4>
+            {% if pi.funding.size > 1 %}
+              <h4>Funding Periods</h4>
+            {% else %}
+              <h4>Funding Period</h4>
+            {% endif %}
+
             {% for funding in pi.funding %}
               <p>{{ funding.name }} ({{funding.period}})</p>
             {% endfor %}
