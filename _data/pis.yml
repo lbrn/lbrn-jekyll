@@ -211,7 +211,7 @@
   name: Amal Khalil Kaddoumi
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
-  image: kaddoumi.jpg
+  image: kaddoumi.png
   project_title: Targeting Beta Amyloid Clearance as Therapeutic Approach for Alzheimer's Disease
   mentors:
     - name: Jeffrey Keller, PhD.
@@ -506,7 +506,7 @@
 -
   name: Jamie Newman
   active: true
-  origin: LA Tech
+  origin: Louisiana Tech University
   image: newman.jpg
   project_title: The role of mediator in maintaining and differentiating human mesenchymal stem cells
   abstract: |
@@ -515,7 +515,7 @@
   mentors:
     -
       name: Bruce Bunnel
-      origin: Tulane
+      origin: Tulane University
   funding:
     -
       name: Full Project
@@ -525,15 +525,15 @@
   name: Subramanyam Murthy
   active: true
   image: murthy.jpg
-  origin: SUBR
+  origin: Southern University and A&M College
   image: murthy.jpg
-  project_title:
+  project_title: Project Title TBD
   abstract: |
     Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
   mentors:
     -
       name: Thomas Gettys
-      origin: Pennington
+      origin: Pennington Research Center
   funding:
     -
       name: Full Project
@@ -542,14 +542,14 @@
   name: Brian Salvatore
   active: true
   image: salvatore.jpg
-  origin: LSUS
+  origin: Louisiana State University, Shreveport
   mentors:
     -
       name: Shile Huang
-      origin: LSUHSC-NO
+      origin: LSU Health Sciences Center New Orleans
     -
       name: Christopher Kevil
-      origin: LSUHSC-NO
+      origin: LSU Health Sciences Center New Orleans
   project_title: Design and synthesis of novel polyphenol cancer therapeutics
   abstract: |
     The primary goal of this research is to develop novel drugs based on the hydroxycinammic polyphenol scaffold.  There is tremendous potential in this area of drug development as many natural molecules in this class (e.g., caffeic acid) exhibit potent and favorable direct effects on cancer cell signaling in vitro.  However, almost invariably, the natural products themselves are reported to have poor ADMET drug properties in vivo, particularly poor absorption and metabolic profiles.  This is often due to sub-optimal structural characteristics. We seek to address these problems through the design and synthesis of novel molecules possessing more desirable pharmacokinetic properties than the natural compounds.  A series of fourteen new compounds is proposed, incorporating several unique bioisosteric characteristics, aimed at improving problematic ADMET characteristics, while maintaining favorable anti-cancer signaling.  Cell proliferation assays to evaluate the effects of the synthetic compounds on the UM-UC14 (malignant bladder), and PC3 (malignant prostate) cancer cells will be employed, along with transepithelial cell monolayer model assays to assess the bioavailability of the synthetic compounds in vitro.
@@ -560,14 +560,14 @@
       period: May 1, 2015 - Present
 
 -
-  name: Hye-Young	Kim
+  name: Hye-Young Kim
   active: true
   image: kim.jpg
-  origin: SELU
+  origin: Southeastern Louisiana University
   mentors:
     -
       name: Dorel Moldovan
-      origin: LSU
+      origin: Louisiana State University
   project_title: Large-scale atomistic simulation for novel self-assembled drug delivery vehicles
   abstract: |
     The main goal of the proposed research project is for the Principal Investigator to acquire the expertise that would enable her to become a federally funded independent researcher in the area of computational biophysics, emphasizing the fundamental and applied aspects of the development of novel self-assembled drug delivery vehicles. This goal will be achieved by leveraging and enhancing the following two sets of objectives: (1) professional development objectives that will enable the PI to quickly acquire the professional reputation and new expertise in the field of computational biomedicine to match her outstanding research ability and background, and (2) research objectives, which will enable the PI to contribute to an important area of research in biomedicine using large-scale atomistic and coarse-grained computer
@@ -577,14 +577,14 @@
       period: May 1, 2015 - Present
 
 -
-  name: Matthew	Talbert
+  name: Matthew Talbert
   active: true
   image: talbert.jpg
-  origin: ULM
+  origin: University of Louisiana at Monroe
   mentors:
     -
       name: Jacqueline Stephens
-      origin: Pennington
+      origin: Pennington Research Center
   project_title: Investigation of the role of Drosophila SOCS36E in energy homeostatis and obesity
   abstract: |
     Our overall objective is the discovery of the molecular mechanisms by which obesity induces disease. Diet- induced obesity in humans and animal models does not guarantee comorbidities, but it does substantially heighten the risk of diabetes, cardiovascular disease, and neurological decline. The ability of obesity to cause disease has been intensely studied in mammals, revealing mechanisms that include chronic inflammation and aberrant   cell   signaling.  An   extreme   state   resembling   mammalian  obesity  results   when   Drosophila melanogaster are allowed to feed upon solid medium that is high in sugar (HSD). Exposed flies have increased triglyceride levels, increased circulating glucose, reduced insulin response despite increased expression, cardiac abnormalities, a severely reduced lifespan, and are impeded in climbing ability. As one of the newer models of obesity, and yet among the most genetically accessible to researchers, Drosophila melanogaster is useful in the dissection of specific connections between obesity and its comorbidities. In mammals, leptin is released from adipose tissue in direct proportion to their metabolite content. When leptin reaches the hypothalamus, it conveys the energy state of the organism, inhibiting appetite centrally and promoting signaling components  of  the  insulin  response  peripherally.  Following  activation  of  the  leptin  receptor,  JAK-Stat3 signaling results in the transcription of a range of genes, the suppressor of cytokine signaling 3 (SOCS3) among them. SOCS3 acts as a classical negative feedback inhibitor of the leptin receptor and a range of other cytokines. Among these cytokines are components of the insulin response. Interestingly, SOCS3 is also produced in response to inflammatory agents, such as IL-6 or TNF-α, which provides a direct mechanism by which the chronic inflammation of obesity can promote leptin and insulin resistance. In Drosophila melanogaster, unpaired 2 (Upd2) is released from the fat body in proportion to nutrient content, binds to the receptor Domeless upon GABAergic neurons that precede the median neurosecretory cells, and promotes drosophila insulin-like peptide 2 (Dilp2) release through Hop-Stat92e signaling. Drosophila also possess SOCS proteins, among them the classical negative feedback inhibitor SOCS36E, which also seems to be induced during immune and/or stress responses. In this study, we reduce the adult expression of SOCS36E in both the whole fly and exclusively in neurons. We hypothesize that either of these interventions will result in increased Upd2 effectiveness and thus Dilp2 responsiveness, conveying a greater tolerance to HSD as evinced by increased  lifespan,  improved  mobility,  increased  fat  stores,  altered  starvation  resistance,  and  reduced circulating metabolites. Herein we also conduct RNA-Sequencing of whole flies to obtain genomic profiles that compare the transcriptome of normal vs HSD, as well as the transcriptome response to knockout of SOCS36E in each dietary context. Regardless of the nature of the results, our study stands to advance the understanding of the pathophysiology of diet-induced obesity and will enhance our awareness of the conserved physiology between human and fly.
@@ -597,11 +597,11 @@
   name: Sami Nazzal
   active: true
   image: nazzal.jpg
-  origin: ULM
+  origin: University of Louisiana at Monroe
   mentors:
     -
       name: James Cardelli
-      origin: LSUHSC-S
+      origin: Louisiana State University Health Science Center, Shreveport
   project_title: Cytotoxicity of tocotrienol nanoemulsions loaded with paclitaxel/gemcitabine PUFA
   abstract: |
     The highly significant work of this proposal addresses the urgent need to enhance the activity of gemcitabine and to overcome pancreatic tumor resistance to chemotherapy. Cancer is the second leading cause of death in the US (www.cdc.gov). Of all major types of cancer, pancreatic cancer has the highest mortality rate. It ranks as the fourth leading cause of cancer death in the US (www.cancer.gov) and is predicted to become the second leading cause of cancer-related death by 2020 (http://www.pancan.org/). Pancreatic cancer has poor prognosis, even when diagnosed early. It is one of the few cancers for which survival has not improved substantially over nearly 40 years. (http://www.pancreatic.org/). For all stages of pancreatic cancer, the 1- and 5-year relative survival rates are 27% and 6%, respectively (Cancer Facts & Figures 2014). Furthermore, treatment options for pancreatic cancer are limited. Surgery, radiation therapy, and chemotherapy may extend survival but they seldom produce a cure. The tumor response rates of gemcitabine (Gemzar®), the first-line treatment for patients with locally advanced or metastatic (stage IV) adenocarcinoma of the pancreas is approximately 10%. Recently a combination therapy with nab-paclitaxel (Abraxane®) and gemcitabine was approved for the first-line treatment of patients with metastatic adenocarcinoma of the pancreas. While promising, substantial toxic effects and modest benefits were observed with this combination. Therefore, there is a need for newer treatments with fewer side effects and marked enhancement in activity over existing therapies. Our long-term goal is to develop an efficacious approach to improve cancer chemotherapy and to overcome cancer chemoresistance. Our overall objective in the present application is to develop a novel strategy to enhance the efficacy of gemcitabine against pancreatic tumors cells by augmenting the TOCOSOLR paclitaxel  nanoemulsion  with  the  tocotrienol  isomers  of  vitamin  E  and  by  conjugating  gemcitabine  and paclitaxel to polyunsaturated fatty acids (PUFA). Our central hypothesis is that nanoemulsions made with tocotrienols  as  the  lipid  core  and  loaded  with  PUFA  conjugated  paclitaxel  and  gemcitabine  will  have significantly higher anticancer activity than the free paclitaxel + free gemcitabine combination therapy.
@@ -611,10 +611,10 @@
       period: May 1, 2015 - Present
 
 -
-  name: Keith	Jackson
+  name: Keith Jackson
   active: true
   image: jackson.jpg
-  origin: ULM
+  origin: University of Louisiana at Monroe
   mentors:
     -
       name: Joseph Francis
@@ -633,11 +633,11 @@
   name: Paul Kim
   active: true
   image: pkim.jpg
-  origin: Grambling
+  origin: Grambling State University
   mentors:
     -
       name: Jacqueline Stephens
-      origin: Pennington
+      origin: Pennington Research Center
   project_title: TBD
   abstract: TBD
   funding:
