@@ -1,6 +1,6 @@
 -
   name: Cecily B. DeFreece, Ph.D.
-  image: bennet.jpg
+  image: defreece.jpg
   active: true
   origin: Xavier University
   project_title: Characterizing inhibitors of the mutagenic retrotransposon LINE1 endonuclease
@@ -14,12 +14,10 @@
       2. To determine the effect of the small molecule inhibitor(s) on tumors over-expressing LINE1 elements using a tumor xenograft model. The objective of this aim is to characterize the ability of the small molecules to prevent LINE1 EN activity in a tumor microenvironment. We will transplant cells overexpressing LINE1 elements into mice and examine tumor growth rate, LINE1 expression and retrotransposition, and aggressiveness of the tumors. We anticipate that we will have identified a small molecule that can be further studied for toxicity and metabolism in mice.
 
     The expected outcomes for this proposal are that we will identify a small molecule(s) that specifically inhibits the activity of the LINE1 EN in a cellular and tumor microenvironment. These results will have a positive impact on the understanding of LINE1 induced damage, by providing us with the ability to directly modify LINE1 EN activity. This proposal is innovative because we are seeking a novel and more direct approach to understand LINE1 EN activity, which will allow us to forecast the impact of LINE1 activity on the genome instability and disease. These results are significant because we will have identified a tool that can be used to determine if LINE1 caused damage has a direct role in the initiation or progression of disease. Furthermore, any LINE1 EN inhibitors that are identified may be modified for future use in the treatment of diseases associated with LINE1 EN activity
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Cecily+DeFreece
   funding:
     -
       name: Full Project
       period: May 1, 2013 – Present
-
   mentors:
     -
       name: Prescott Deininger
@@ -33,7 +31,6 @@
   origin: Louisiana Tech University
   image: giorno.png
   active: true
-  pubmed_link: "http://www.ncbi.nlm.nih.gov/pubmed/?term=Rebecca+Giorno"
   project_title: "Spore outer structures: Contribution to germination heterogeneity"
   abstract: |
     Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (34).  Spores are resistant to many common disinfection processes making them problematic for re-infection as well as infecting new individuals.  Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection.  One possible complication for inhalational anthrax infections is that dormant spores can be isolated from animals’ lungs weeks after exposure (20, 31).  For Clostridium difficile infections, dormant spores in the colon can germinate and cause disease after antibiotic treatment to a patient. We seek to understand the roles of two spore structures in germination: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (17, 18). Others have shown that the exosporium influences spore adherence to lung epithelial cells as well as persistence in mouse lungs (7, 25).  In addition, C. difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (44).  These phenotypes illustrate the role of the spore coat and exosporium in germination, persistence and adherence which are required steps for infections.
@@ -57,7 +54,6 @@
   origin: Xavier University of Louisiana, Department of Biology
   image: huckaba.jpg
   active: true
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Huckaba+Thomas
   project_title: Parsing the Molecular Mechanism of Transport Motors Mutated in Spastic Paraplegia
   abstract: |
     Hereditary Spastic Paraplegias (HSPs) are a group of neurodegenerative disorders that result from degeneration of corticospinal tract axons. Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected. This slowly progressive spasticity is occasionally accompanied by mental retardation and optic neuropathy. To date, thirty distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families. Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a neuronal form of the kinesin family of cellular transport motors. Indeed, fifteen individual missense mutations in the catalytic motor domain of Kif5A have been linked to AD-HSP in separate families. Clinical treatment for HSP is presently limited to symptomatic reduction of muscle spasticity. While this can be effective for short periods, progressive axonal degeneration leads to poor longterm prognoses. As a result, there is a need for a more mechanistic understanding of the primary causes of HSPs. This proposal is targeted at understanding how single AD-HSP-causing mutations in the human Kif5A gene change the function of the kinesin motor. Through a series of well-characterized in vitro studies we will measure the mechanical outputs of Kif5A proteins with human AD-HSP-causing mutations and compare these mechanical outputs to the wild-type protein. We will also attempt to solve the crystal structure of Kif5A proteins with AD-HSP causing mutations in an effort to understand the structure-function relationship between the missense mutations and the behavior of the mutant protein. Our long-term goal is a mechanistic understanding of how mutations in the Kif5A gene alter its normal functions so that ultimately therapies can be designed to treat the fundamental cause of AD-HSP, rather than attempting to treat the physiological manifestation of the underlying dysfunction. In addition, the centrality of kinesin-dependent transport in a host of cellular functions gives the opportunity for outcomes of this study to have far-reaching potential in therapies for other human disorders.
@@ -84,7 +80,6 @@
   active: false
   origin: Southern University and A&amp;M College, Department of Computer Science
   image: bai.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Bai+Shuju
   project_title: Modeling Protein-Substrate Interactions in the Lipoxygenase Family Using Computational Approaches
   mentors:
     -
@@ -108,7 +103,6 @@
   active: false
   origin: Louisiana State University in Shreveport, Department of Chemistry &amp; Physics
   image: chen.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Chen+Kui
   project_title: Nanosensors for Reactive Oxygen Species and their Roles in Carcinogenesis
   mentors:
     -
@@ -130,7 +124,6 @@
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
   image: chiu.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Chiu+Alan
   project_title: Adaptive Coupled Neural System Model for Hippocampal Function Restoration
   mentors:
     -
@@ -154,7 +147,6 @@
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
   image: feng.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Feng+June
   project_title: Understanding the Molecular Mechanism of Alzheimer's Disease - Quantitative Proteomics of Oxidatively Modified Proteins using iTRAQ Analysis and a Novel Proteomic Reactor
   mentors:
     -
@@ -183,7 +175,6 @@
   active: false
   department: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
   image: gissendanner.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Gissendanner+Chris
   project_title: NR4A Regulation of Organ Morphogenesis
   mentors:
     -
@@ -201,7 +192,6 @@
   active: false
   origin: ULM College of Pharmacy
   image: harris.png
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Harris+Kinesha
   project_title: Identification and Characterization of Kola Acuminate (Bizzy nut)-Specific Biomarkers for Prostate Cancer Prevention
   mentors:
     -
@@ -222,7 +212,6 @@
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
   image: kaddoumi.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Kaddoumi+Amal
   project_title: Targeting Beta Amyloid Clearance as Therapeutic Approach for Alzheimer's Disease
   mentors:
     - name: Jeffrey Keller, PhD.
@@ -245,7 +234,6 @@
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
   image: liu.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Liu+Yong-Yu
   project_title: Epigenetic Effects of Ceramide Glycosylation and Drug-Resistant Cancer Stem Cell
   mentors:
     -
@@ -263,7 +251,6 @@
   active: false
   department: Louisiana State University in Shreveport, Department of Computer Science
   image: mahdavian.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Mahdavian+Elahe
   project_title: Development of Novel Anti-Cancer Agents
   mentors:
     -
@@ -286,7 +273,6 @@
   active: false
   origin: Southern University and A&M College, Department of Pathobiological Science
   image: martinez.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Martinez-Ceballos+Eduardo
   project_title: Regulation of Mouse ES Cell Differentiation into Neurons by Hoxa1
   mentors:
     -
@@ -307,7 +293,6 @@
   active: true
   origin: Xavier University of Louisiana, Department of Biology
   image: mcferrin.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=McFerrin+Harris
   project_title: Inhibition of HSV-1 Associated Ocular Neovascularization by Antiangiogenic Agents
   mentors:
     -
@@ -332,7 +317,6 @@
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
   image: murray.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Murray+Teresa
   project_title: Newly discovered neural receptor's role in Aβ1-42 pathogenesis of Alzheimer's disease
   mentors:
     -
@@ -353,7 +337,6 @@
   active: false
   origin: Louisiana Tech University
   image: radadia.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Adarsh+Radadia
   project_title: Point-of-Care Microelectronic Diagnostics for Early Phase Rickettsial Infections
   mentors:
     -
@@ -374,7 +357,6 @@
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
   image: satyanarayanajois.png
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Satyanarayanajois+Seetharama
   project_title: Role of Extracellular Domain IV of HER2 Protein in Cell Signaling
   mentors:
     -
@@ -398,8 +380,7 @@
   active: false
   department: Department of Health Information Management
   university: Louisiana Tech University
-  image: dua.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Sethi+Prerna
+  image: sethi.jpg
   project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
   mentors:
     -
@@ -425,7 +406,6 @@
   active: false
   origin: Xavier University, College of Pharmacy
   image: shuh.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Shuh+Maureen
   project_title: The Molecular Mechanisms of Adult T cell Leukemia Induction by HTLV-I Tax
   mentors:
     -
@@ -443,7 +423,6 @@
   active: true
   origin: Xavier University of Louisiana, Department of Chemistry
   image: sridhar.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Jayalakshmi+Sridhar
   project_title: Development of Casein Kinase 1 Inhibitors as Therapeutics for Alzheimer's Disease
   mentors:
     -
@@ -455,7 +434,7 @@
       period: May 1, 2014 – April 20, 2015
     -
       name: Full Project
-      period: Mchy 1, 2015 - Present
+      period: My 1, 2015 - Present
   abstract: |
     Alzheimer's disease (AD) is a progressive neurodegenerative disorder associated with the accumulation of the neurotoxic peptide amyloid β (Αβ). Casein kinase 1 family comprises of eight isozymes, two of which CK1δ and CK1ε are predominantly expressed in the brain. CK1δ plays a critical role in AD through phosphorylation of tau, a protein associated with microtubules, which precedes neuritic lesion formation. Thus, CK1δ is implicated in the tau fibrillization reaction pathway. CK1δ is reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and parkinsonism dementia complex of Guam. Inhibition of CK1δ by pan CK1 inhibitors has been shown to reduce fibrillar lesions and to inhibit Aβ production. These studies show the potential for CK1δ specific inhibitors as therapeutic agents for neurodegenerative disorders. The reports on development of CK1δ small molecule inhibitors are therapeutic agents for neurodegenerative disorders have been far and few. None of the recently reported CK1δ inhibitors been tested for their efficacy in pre-clinical trials. Our recent work investigating quinones as kinase inhibitors revealed a quinone compound that inhibited CK1δ and Pim1 kinase preferentially over CK1γ2 and 98 other human protein kinases. Similarity search and preliminary in vitro CK1δ kinase inhibition assay have yielded a few compounds with good potency. This proposal aims to further refine the structure of the quinones through molecular modeling studies, design of new derivatives, and synthesis of the designed molecules followed by CK1δ inhibition assays to obtain highly selective and potent inhibitors of CK1δ kinase.
 
@@ -464,7 +443,6 @@
   active: false
   origin:  Louisiana State University in Shreveport, Department of Biological Sciences
   image: williams.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Williams-Hart+Tara
   project_title: Assessment of the Molecular Target of Fusarochromanone and its Analogues
   mentors:
     -
@@ -488,7 +466,6 @@
   active: false
   origin: Southern University and A&amp;M College, Department of Computer Science
   image: yang.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Yang+Shizhong
   project_title: Molecular dynamics simulation on the interaction between domain I of gK and extracellular domain IV of UL20
   mentors:
     -
@@ -511,7 +488,6 @@
   active: false
   origin: Xavier University, Department of Computer Science
   image: zhang.jpg
-  pubmed_link: http://www.ncbi.nlm.nih.gov/pubmed/?term=Zhang+Kun
   project_title: Enhancement of microRNA Research through Bioinformatics Tool Development
   mentors:
     -
@@ -550,7 +526,7 @@
   active: true
   image: murthy.jpg
   origin: SUBR
-  image: NULL.
+  image: murthy.jpg
   project_title:
   abstract: |
     Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
@@ -562,7 +538,6 @@
     -
       name: Full Project
       period: May 1, 2015 - Present
-
 -
   name: Brian Salvatore
   active: true
@@ -636,7 +611,7 @@
       period: May 1, 2015 - Present
 
 -
-  name: Keith Jackson
+  name: Keith	Jackson
   active: true
   image: jackson.jpg
   origin: ULM
