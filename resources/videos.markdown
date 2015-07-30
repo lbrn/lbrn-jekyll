@@ -10,3 +10,5 @@ This is a repository of recordings featuring invited research faculty to the LBR
 ### [Seminars](https://www.youtube.com/user/LBRNINBRE/search?query=seminar)
 
 ### [Training](https://www.youtube.com/user/LBRNINBRE/search?query=training)
+
+### [Summer Research Program Seminars](https://www.youtube.com/playlist?list=PLV8dyTG7O7VaAdUsW791_yOxE51aFHCmY)
