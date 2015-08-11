@@ -75,21 +75,6 @@
   },
   {
     "Title": "Dr.",
-    "PosterID": "0",
-    "DateCount": "0",
-    "Name": "James Cavalcoli",
-    "Time": "4:00 pm - 5:00 pm",
-    "SubmissionCoAuthInst": "",
-    "PositionTitle": "Assistant Professor",
-    "Institution": "University of Michigan",
-    "SubmissionCoAuth": "",
-    "PresentationType": "Keynote",
-    "SubmissionTitle": "Bioinformatics Research Challenges: Producing high-quality, high-confidence & understandable results",
-    "SubmissionAbstract": "There is a rapid increase in the volume of sequence data is being generated at a reduced cost per base while at the same time, the bioinformatics analysis is getting more complex and the number of methods and effort needed are increasing.  New methods and algorithms require testing and validation with gold-standard datasets to insure accurate, reproducible, high-confidence results in any lab or core facility.  Testing different algorithms to identify the best method for the type of data produced is also a challenge.  How do we get the highest quality results (e.g. sensitivity, specificity and lowest FP/FN rates). Lower sequencing costs results in an increase in the number of samples, and consequently an increase in the need to integrate larger datasets within and across experiments and.  These larger collections of results and data require methods for visualizing and summarizing so that the results are understandable and interpretable by the researchers.    Finally, experimental data needs to be annotated and linked to existing knowledge (e.g. TCGA, dbSNP, 1KGenomes, Literature) in order for scientists to be able to put their results into meaningful context.  This talk will present some of the solutions we’ve developed to address these challenges. ",
-    "Email": "cavalcol@umich.edu"
-  },
-  {
-    "Title": "Dr.",
     "DateCount": "0",
     "PosterID": "0",
     "Name": "Hye-Young Kim",
