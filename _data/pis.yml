@@ -290,7 +290,9 @@
       name: Jacqueline Stephens
       origin: Pennington Research Center
   project_title: Understanding the role of proteostasis in non-alcoholic fatty liver disease
-  abstract: TBD
+  abstract: |
+    Non-alcoholic fatty liver disease is quietly becoming a global epidemic in both adults and children. Its increasing incidence rate closely parallels the rising obesity rate but the exact cause is still unknown. Rodent models using high-fat diets to induce fatty liver suggest that saturated fats promote disease development and progression in part by disrupting endoplasmic reticulum homeostasis, termed ER stress. This project seeks to understand the link between obesity and non-alcoholic fatty liver disease by examining the role of protein homeostasis or proteostasis in mediating ER stress in response to excess saturated fats.
+
   funding:
     -
       name: Pilot Project
