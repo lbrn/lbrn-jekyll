@@ -1,0 +1,669 @@
+-
+  name: Shuju Bai
+  active: false
+  origin: Southern University and A&amp;M College, Department of Computer Science
+  image: bai.jpg
+  project_title: Modeling Protein-Substrate Interactions in the Lipoxygenase Family Using Computational Approaches
+  mentors:
+    -
+      name: Marcia E. Newcomer, Ph.D.
+      origin: Louisiana State University, Department of Biological Sciences
+    -
+      name: Seung-Jong Park
+      origin: Louisiana State University, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R1
+      period: May 1, 2010 - April 30, 2015
+  abstract: |
+    Human lipoxygenases (LOX) play pivotal roles in the biosynthesis of leukotrienes and other biologically active eicosanoids. Specific inhibitors that can modulate the physiological and pathological effects of these potent signaling compounds are of high interest. Currently, there are no animal LOX structures that provide a model for how the substrate binds in the LOX active site, a model critical for the development of specific inhibitors. The overall goal of the proposed investigations is to develop substrate-LOX models that can be used for the development of specific anti-LOX inhibitors. The specific aims of the application are: 1) Model protein-substrate interactions in 8R-lipoxygenase. There is no crystal structure of a lipoxygenase in complex with its substrate arachidonic acid (AA) to reveal the structural basis for product specificity in this family of enzymes. Our recent 1.85 Å resolution structure of 8R-LOX provides a strong foundation for model enzyme-substrate interactions. We will utilize computational approaches (molecular dynamics simulation) to derive a model for the 8R-lipoxygenase-arachidonic acid binary complex. 2) "Test" the generally applicability of this model to lipoxygenases of different product specificity. The features of the 8R-LOX:AA model binding site must be able to account for the regio- and stereo-specificity of the enzyme, yet exhibit the potential flexibility to explain the range of specificities found within the LOX enzyme superfamily. Thus, we will use a data mining/homology modeling approach and molecular dynamics simulation to determine whether the 8R-LOX:AA model derived above is consistent with sequence differences in lipoxygenases of different product specificity. The results of our research will help understand the mechanism of substrate recognition in lipoxygenases and facilitate drug design to target lipoxygenases.
+
+-
+  name: Kui Chen
+  active: false
+  origin: Louisiana State University in Shreveport, Department of Chemistry &amp; Physics
+  image: chen.jpg
+  project_title: Nanosensors for Reactive Oxygen Species and their Roles in Carcinogenesis
+  mentors:
+    -
+      name: Marcia E. Newcomer, Ph.D.
+      origin: LSU Health Science Center in Shreveport, Department of Molecular and Cellular Physiology
+
+    -
+      name: W. Todd Monroe, Ph.D.
+      origin: Louisiana State University, Department of Biological &amp; Agricultural Engineering
+  funding:
+    -
+      name: ARRA Pilot Project
+      period: Sept 14, 2009 – April 13, 2011
+  abstract: |
+    Reactive oxygen species (ROS) has been implicated as an important underlying cause in cancer. However, the molecular mechanisms that connect ROS to carcinogenesis remain insufficiently understood. We propose the development of novel photonic nanosensors capable of direct and selective detection of ROS. The nanosensors will be used to monitor changes in intracellular ROS concentration and distribution during carcinogenesis. By correlating these changes to the regulation of key cancer biomarkers from parallel bioassays, we hope to elucidate the roles of individual ROS and the molecular mechanisms of such roles. During this reporting period, the reactivity of a fluorescent probe (2-TFMBS-Fluo) toward various ROS was examined. ROS tested include hydrogen peroxide (H2O2), superoxide radical (O2-•), hydroxyl radical (•OH), tert-butyl hydroperoxide (t-BuOOH) and hypochlorite (OCl-). First, the reaction kinetics of 2-TFMBS-Fluo toward different ROS was examined by incubating the reaction mixture at 37ºC in water bath for up to 2 hours. Fluorescence intensity of the solutions was measured at 20, 40, 60 and 120 min, respectively. The reactions between the probe and the ROS were found to be kinetically controlled and not complete within 2 hours. 2-TFMBS-Fluo was found to show specificity to H2O2 over other ROS. Only the probe solutions incubated with H2O2 and O2-• showed an increase in fluorescence intensity (Further test will be conducted to determine whether the increase in fluorescence intensity from O2-• is due to H2O2, a product of the dismutation of O2-•.). Other ROS (•OH, t-BuOOH, and OCl-) either quenched the fluorescence of the probe or showed no significant reactivity toward the probe. We plan to expand the selectivity studies to include other ROS. At the same time, we plan to incorporate 2-TFMBS-Fluo onto modified silica nanoparticles to obtain functional nanosensors for testing in a model cell system. In addition, the reactivity of two other probes, 3-TFMBS-Fluo and 2-CNBS-Fluo, will be characterized to study the effects of the type and the location of the substituent on the reactivity of the probe. The outcome of the selectivity studies will be used to guide the synthesis of additional ROS probes.
+
+-
+  name: Alan Chiu
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: chiu.jpg
+  project_title: Adaptive Coupled Neural System Model for Hippocampal Function Restoration
+  mentors:
+    -
+      name: Jeffrey Tasker, Ph.D.
+      origin: Tulane University, Department of Cell and Molecular Biology
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University, Department of Biological Engineering
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R2
+      period: May 1, 2010 - April 30, 2012
+  abstract: |
+    The nervous system is comprised of billions of complex neurons. These neurons are connected in an intricate and organized manner with excitatory and inhibitory pathways that control the overall system dynamics. Recent developments in kernel estimation research [1, 2] offer a potential therapy for cognitive and memory loss accompanying Alzheimer's disease and other forms of dementia. The proposed project addresses its deficiencies in adaptivity for long term implementation. Here, coupled oscillators are used to model the different regions of the brain because it reflects the intrinsic oscillatory behavior in some subfields of the hippocampus. Furthermore, the existing strategy is static in that it is not able to account for possible changes in neuronal communication characteristics for long term application. The proposed work has great potential for the development of future brain function restoration strategy in which biomimetic silicon neurons are permanently implanted into the damaged region to restore the functions of damaged neurons in central regions of the brain. The replacement silicon neurons need to have functional properties specific to those of the damaged neurons, and capable of receiving inputs and sending electrical outputs to regions of the brain with which the damaged region previously communicated. Special emphasis of this project is to enhance the brain rhythms related to memory consolidation through appropriate feedback stimulation, which requires a better understanding on the electrical and chemical interactions that govern the network behavior of the neurons. The short term objectives of the project are: (a) to develop and validate the computer model for the hippocampus brain region; (b) to incorporate the ability to adapt model parameters for long term application; (c) to investigate the effects of stimuli on network activities related to learning and other higher cognitive functions; and (d) to analyze the brain response to the electrical stimulation generated by the computer model.
+    
+-
+  name: Cecily B. DeFreece, Ph.D.
+  image: defreece.jpg
+  active: true
+  origin: Xavier University
+  project_title: Characterizing inhibitors of the mutagenic retrotransposon LINE1 endonuclease
+  abstract: |
+    There is compelling evidence that the endonuclease (EN) encoded by the retrotransposon Long interspersed element 1 (LINE1) is a powerful causative agent of genetic instability. Expression of the LINE1 EN has been demonstrated to induce DNA double strand breaks (DSBs), damage that is known to be mutagenic and induce diseases such as cancer. In addition, the increased mobilization and expression of LINE1 elements has been observed in germ line, and in some somatic and tumor tissues. However, no studies have shown direct evidence that LINE1-induced DNA DSBs contribute to the induction or progression of diseases because there is currently no tool to specifically limit LINE1 EN activity in cells. Traditional techniques such as RNA knockdown are not feasible due to the large number of LINE1 elements and the location of some of the elements near or in coding regions of the genome. The best tool for deciphering the role of LINE1 EN in genetic instability and disease would be a potent and specific inhibitor of its activity, but no such inhibitor has been discovered yet. In our laboratory, we have been working on screening small molecules from a NIH library. Structural analogs of a promising molecule were made, and we have thus far identified three candidates that inhibit the activity of the lINE1 EN in vitro, have limited cellular toxicity and are able to reduce LINE1 mobilization in HeLa cells. However, further characterization in different types of cells needs to be done before the general use of these inhibitors in the study of LINE1 induced disease in animals.
+
+    Our long-term goal is to determine the impact of the LINE1 element on human disease. The objective for this application, the next step in achieving our long-term goal, is to further characterize small molecule inhibitors of the LINE1 EN in multiple cell lines and to test the inhibitors in a tumor- environment. Our rationale for this research project is to design a good tool that allows us to study L1 EN caused damage in cells and the role in the initiation and progression of diseases in a mouse model.
+
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2013 – Present
+  mentors:
+    -
+      name: Prescott Deininger
+      origin: Tulane University
+    -
+      name: Hua Lu
+      origin: Tulane University
+
+-
+  name: June Feng
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: feng.jpg
+  project_title: Understanding the Molecular Mechanism of Alzheimer's Disease - Quantitative Proteomics of Oxidatively Modified Proteins using iTRAQ Analysis and a Novel Proteomic Reactor
+  mentors:
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University, Department of Biomedical Engineering
+    -
+      name: Steve Soper, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+    -
+      name: Kermit Murray, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R3
+      period: May 1, 2010 - April 30, 2012
+  abstract: |
+    Alzheimer's Disease (AD), the most common form of dementia in the elderly, may manifest as neuropathological changes and cognitive decline long before it is diagnosed. Oxidative stress induced by Reactive Oxygen Species (ROS) has been implicated as a contributing factor to Alzheimer's disease. ROS attack on proteins can lead to protein-bound carbonyl by oxidation of the amino acid side group. Protein carbonyl formation is increased in severely affected regions of the AD brain and may be an early event in the neurodegenerative process. This is considered a marker of oxidative stress in Alzheimer's disease. Although carbonylated proteins have been strongly implicated in the aging brain and pathogenesis of AD, the identities of specific protein targets of oxidative damage remain largely unknown.
+
+    The overall goal of the research proposed in this application is to identify the major carbonylated proteins in the aging brain that contribute to the pathogenesis of Alzheimer's disease (AD). It is also a goal of the study to determine which neurological pathways and brain functions are affected by the presence of these carbonylated proteins. To achieve this goal, we will develop a "micro-fluidic device" to enrich and process a minute amount of oxidatively damaged (e.g. carbonylated) proteins prior to mass spectrometry and bioinformatics analysis. The development of this microfluidic device will simplify the processing of complex proteomic samples by combining multiple proteomic steps and allow for the identification of carbonylated proteins from small samples such as brain tissue slices taken from various brain regions of transgenic mouse models with mild cognitive impairment, and Alzheimer's disease (AD). This will help to understand the longitudinal change in the identities and relative ratios of specific protein targets of oxidative damage. Furthermore, advanced bioinformatic analysis of the proteomic data will be performed using the (ingenuity pathway analysis) IPA tool. Ingenuity pathway analysis will provide a unique look at cellular pathways and functions potentially affected by carbonylation in the different developmental stages of AD. By combining the micro-fluidic device, IPA and isobaric tags for relative and absolute quantification (iTRAQ)-based proteomic techniques, a deeper understanding of the complex proteome, signaling pathways and functional group changes that occur in a mouse model of AD should emerge, which could potentially illuminate novel therapeutic avenues for the treatment of AD and other neurodegenerative disorders.
+
+-
+  name: Rebecca Giorno-McConnell
+  origin: Louisiana Tech University
+  image: giorno.png
+  active: true
+  project_title: "Spore outer structures: Contribution to germination heterogeneity"
+  abstract: |
+    Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (34).  Spores are resistant to many common disinfection processes making them problematic for re-infection as well as infecting new individuals.  Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection.  One possible complication for inhalational anthrax infections is that dormant spores can be isolated from animals’ lungs weeks after exposure (20, 31).  For Clostridium difficile infections, dormant spores in the colon can germinate and cause disease after antibiotic treatment to a patient. We seek to understand the roles of two spore structures in germination: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (17, 18). Others have shown that the exosporium influences spore adherence to lung epithelial cells as well as persistence in mouse lungs (7, 25).  In addition, C. difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (44).  These phenotypes illustrate the role of the spore coat and exosporium in germination, persistence and adherence which are required steps for infections.
+    
+    Because spores in the environment can remain dormant for very long periods of time (as much as decades) and then resume active growth in the right environment, efficient decontamination is a cause for concern.  An additional concern is that spores are also resistant to many common decontamination strategies used in clinical settings such as alcohol based hand sanitizers and quaternary ammonium–based cleaning compounds (38).  Recently there has been a focus on adding a germination step during decontamination strategies to achieve better disinfection since vegetative cells are much easier to kill than spores (39, 40, 43). One possible limitation with this decontamination approach is that a subset of spores in a population does not germinate under normal conditions or are very slow to germinate and these have been called superdormant spores (10, 15, 16, 27, 52, 54).
+    
+    Given that the lack of specific spore coat or exosporium proteins can either reduce or enhance germination suggests a complex role for the coat and exosporium in germination and superdormancy (17,18,30,53). Variations in spore coat thickness have also been observed suggesting the abundance of spore coat proteins fluctuate (4).  Taken together, we theorize that the heterogeneity observed in spore germination is related in some part to the variation in the abundance of coat and/or exosporium proteins. 
+
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+    -
+      name: Pilot Project
+      period: May 1, 2013 – April 30, 2014
+  mentors:
+    -
+      name: Yuri Lvov
+      origin: Louisiana Tech University
+    -
+      name: Gregg Pettis
+      origin: Louisiana State University
+
+-
+  name: Chris R. Gissendanner
+  active: false
+  department: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
+  image: gissendanner.jpg
+  project_title: NR4A Regulation of Organ Morphogenesis
+  mentors:
+    -
+      name: Brian G. Rowan, Ph.D.
+      origin: Tulane University School of Medicine, Department of Structural and Cellular Biology
+  funding:
+    -
+      name: Project R4
+      origin: Sept 1, 2006 - April 30, 2012
+  abstract: |
+    The broad, long-term goals of this project are to elucidate and characterize NR4A nuclear receptor pathways regulating organ morphogenesis in the model organism Caenorhabditis elegans. The NR4A nuclear receptors are a conserved, functionally diverse group of transcription factors that regulate cell proliferation, cell differentiation, and apoptosis in a variety of developmental and physiological contexts. NR4A nuclear receptors are rapidly emerging as important factors in several human diseases including neurodegeneration, vascular disease, and cancer. However, much remains to be learned regarding the cellular mechanisms of NR4A function. In C. elegans, the NR4A ortholog, NHR-6, is required for proper morphogenesis of the spermatheca, a reproductive organ involved in ovulation and oocyte fertilization. Recent studies have demonstrated that NHR-6 is an important regulator of cell proliferation and cell differentiation during formation of this organ. Thus, NHR-6 appears to function as a critical, dualistic transcriptional regulator of organogenesis in C. elegans. NR4A is an atypical nuclear receptor and its activity in a variety of cellular processes is likely mediated through complex interactions with other signaling proteins. Recent genetic interaction studies indicate that NHR-6 functions with an Eph receptor tyrosine kinase signaling pathway during organogenesis of the spermatheca. Given the importance of NR4A in normal development and disease, the primary objective of this study is to uncover cellular mechanisms of NR4A function during cell proliferation and cell differentiation in an organismal and developmental context. This research project tests the hypothesis that NHR-6 functions to promote lineage-specific transcriptional programs regulating cell cycle progression and terminal differentiation. These specific hypotheses will be tested by the following specific aims: Aim 1 will utilize genetic analysis to place NHR-6 in a cell cycle regulatory pathway; Aim 2 will determine if NHR-6 functions in an Eph receptor signaling pathway regulating organ morphogenesis, and Aim 3 will utilize a tissue-specific microarray approach to identify genes that function downstream of NHR-6 and to identify potential NHR-6 signaling pathways. These studies will provide an opportunity to assemble a biologically relevant model of the gene regulatory activities of this important and poorly understood group of orphan nuclear receptor transcription factors.
+
+-
+  name: Kinesha Harris
+  active: false
+  origin: ULM College of Pharmacy
+  image: harris.png
+  project_title: Identification and Characterization of Kola Acuminate (Bizzy nut)-Specific Biomarkers for Prostate Cancer Prevention
+  mentors:
+    -
+      name: Wesley Gray
+      origin: Southern University and A&amp;M College, Department of Chemistry
+    -
+      name: Kermit Murray, Ph.D.
+      origin: Louisiana State University, Department of Chemistry
+  funding:
+    -
+      name: ARRA Pilot Project
+      period: Sept 14, 2009 - Sept 13, 2011
+  abstract: |
+    Kola acuminate, also known as bizzy nut, is a “cure-all” herbal medicine that has been reported to affect a variety of biological processes. Given the hormonal dependency of some of these biological activities, it is possible that non-steroidal androgen present in the bizzy nut is responsible for the medicinal value attributed to it. Several herbal formulations have been developed to treat and/or manage both hormone-responsive and hormone-refractive prostate cancer.  Although these herbal remedies have provided some useful effects, they are usually discontinued because of unwanted side effects. We have identified a potentially powerful bioactive compound in the ether extract of Bizzy nut (Biz-2). Components in this bioactive extract possess the ability to modulate prostate cell function, suggesting that it may be useful in the treatment or prevention of prostate cell malfunction. To this end, two specific aims were developed: Aim 1 - Chemical and biological profiling and characterization of the bioactive compounds in Biz-2 and Aim 2 - Identification and characterization of prostate specific biomarkers for bizzy nut exposure in LNCaP cells.  We have resolved the crude extract into five fractions using RP-HPLC and tested each fraction using several bioassays in comparison to the crude extract.  The crude extract has a cytotoxic effect on LNCaP cells.  Three of the fractions also have cytotoxic effects on the cells; however, one fraction has stimulatory effects relative to the control sample (untreated).  The remaining fraction has little effect on the cells under the studied conditions.  We are continuing to analyze the fractions using bioassays to confirm our results and we have begun to run chemical analyses in order to identify the compounds present in the crude extract and resulting fractions.
+    
+-
+  name: Thomas Huckaba
+  origin: Xavier University of Louisiana, Department of Biology
+  image: huckaba.jpg
+  active: true
+  project_title: Mechanistic analysis of KifSA mutations that cause hereditary spastic paraplegia
+  abstract: |
+    Hereditary   spastic   paraplegias   (HSPs)   are a group  of  neurodegenerative   disorders   that  result   from degeneration of corticospinal tract axons.  Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected.   Patients with the complicated form of HSP may also present with retinopathy, ataxia, peripheral polyneuropathy, and cognitive deficit.    To date, 57 distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families.  Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a kinesin transport motor enriched in neurons.  In addition, approximately 10% of the known cases of complicated HSP are due to mutations in Kif5A.
+    
+    Clinical treatment for HSP is presently limited to symptomatic reduction of muscle spasticity.  While this can be effective for short periods, progressive axonal degeneration leads to poor long-term prognoses.   As a result, there is a need for a more mechanistic understanding of the primary causes of HSPs.   This proposal is targeted at broadening our understanding of the physiological manifestation of AD-HSP-causing mutations in Kif5A.
+    
+    With this goal in mind, we will pursue two lines of experimentation.  First, we will continue our in vitro studies to measure the altered catalytic and mechanical properties of Kif5A with AD-HSP-causing mutations.   Second, we will identify Kif5A cargoes in neurons and examine the kinetics of cargo transport in vivo in the presence of wild-type and mutant Kif5A.
+    
+    Our long-term goal is a mechanistic understanding of how mutations in the Kif5A gene alter its normal cellular functions so that ultimately therapies can be designed to treat the fundamental cause of AD- HSP, rather than attempting to treat the physiological manifestation of the underlying dysfunction.   In addition, the centrality of kinesin-dependent transport in a host of cellular functions gives the opportunity for outcomes of this study to have far-reaching potential in therapies for other human disorders.
+
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+    -
+      name: Full Project
+      period: May 1, 2013 - April 30, 2015
+    -
+      name: Pilot Project
+      period: May 1, 2012 – April 30, 2013
+  mentors:
+    -
+      name: Sunyoung Kim, Ph.D.
+      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+    -
+      name: Edward Wojcik, Ph.D.
+      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+
+-
+  name: Keith Jackson
+  active: true
+  image: jackson.jpg
+  origin: University of Louisiana at Monroe
+  mentors:
+    -
+      name: Joseph Francis
+      origin: LSU Vet School
+  project_title: Role of heme oxygenase in the renal control of hypertension
+  abstract: |
+    The proposed studies in this LBRN proposal will investigate the renal functional significance of the heme-heme oxygenase (HO)-carbon monoxide (CO) system during recurrent insulin-induced hypoglycemia (RIIH). HO catalyzes the conversion of heme to iron, biliverdin and CO. Biliverdin is rapidly reduced to bilirubin, which is a major antioxidant in mammalian systems. CO inhibits vascular smooth muscle cell growth and apoptosis, relaxes vascular smooth muscle, and promotes diuresis. Two major HO isozymes have been identified: HO-1 is an inducible heat shock protein (HSP32), while HO-2 is constitutive.
+    
+    AngII levels have been reported to be elevated in type I diabetic patients promoting hyperfiltration and hypertension in these patients with eventual renal injury. Increased AngII levels are associated with oxidative stress, which is a well-established stimulus for HO-1 induction. Recent reports have indicated that HO-1 expression is increased during AngII induced hypertension, and potentially plays a role in renal protection. Therefore, AngII induced hypertension in type I diabetic patients may increase HO-1 levels to promote CO production, and this increase in CO may help to buffer AngII and superoxide mediated hypertension.
+    
+    Hyperglycemia has been reported to alter circulating AngII levels in diabetes potentially promoting renal disease. However, the source of glycemic induction of AngII remains to be elucidated. Type I or insulin- dependent diabetics are known to have fluctuating blood glucose levels in that hyperglycemia is treated with insulin promoting various bouts of hypoglycemia. Thus, determining the mechanism of AngII induction, and the underlining mediators of AngII induced hypertension could provide a novel treatment to protect against the onset of renal failure. The proposed studies will test the hypothesis that chronic insulin injections and hypoglycemia promote hypertension and renal damage via an increase in renal angiotensin II.
+    
+    In the proposed studies indices of renal injury (alpha-Actin expression in mesangial cells, afferent arteriolar wall thickness, cortical cell proliferation, and macrophage infiltration) will be measured along with renal (RBF, GFR, RVR, sodium excretion, potassium excretion, urine volume) and systemic (TPR, MAP) function. In addition,  HO  protein  expression,  in  the  kidneys,  of  vehicle  treated  hypoglycemic  normotensive  and hypertensive rats will be measured. A potential mechanism for HO induction by AngII will be evaluated through EPR measurements of oxidative stress, NOS isoforms, nitrite/nitrate levels and inhibiting NADPH oxidase by apocynin.   A precursor of heme, delta-aminolevulinic acid (DALA) will be used to increase HO-mediated formation of CO. The HO inhibitors, zinc protoporphyrin-IX (ZnPP) in vivo and chromium mesoporphyrin (CrMP) in vitro will be used to decrease CO production.
+    
+    In preliminary studies Sprague Dawley rats treated with chronic low dose insulin injections sustained blood glucose levels of 30mg/dl, after 2 days of treatment.  A significant increase in circulating angiotensin II, heme oxygenase levels and carboxyhemoglobin levels was measured. Mean arterial pressure was 10-15mmHg higher in insulin treated rats as compared to saline injected controls. Thus, our preliminary data suggest that chronic insulin treatment and hypoglycemia promotes an increase in angiotensin II, which activates the HO-CO system, through an elevation in blood pressure.
+
+  funding:
+    -
+      name: Pilot Projects
+      period: May 1, 2015 - Present
+
+-
+  name: Amal Khalil Kaddoumi
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: kaddoumi.png
+  project_title: Targeting Beta Amyloid Clearance as Therapeutic Approach for Alzheimer's Disease
+  mentors:
+    - name: Jeffrey Keller, PhD.
+      origin: Pennington Biomedical Research Center and School of Human Ecology
+  funding:
+    -
+      name: Funded Project
+      period: May 1, 2012 - April 30, 2015
+    -
+      name: Pilot Project
+      period: Sept. 14, 2011 – April 30, 2012
+    -
+      name: ARRA Pilot Project
+      period: Sept. 14, 2009 – Sept. 13, 2011
+  abstract: |
+    Significant efforts have been made to elucidate the mechanisms responsible for beta amyloid (Aβ) accumulation in the brain of Alzheimer's disease patients (AD). Possible mechanisms for Aβ pathogenesis include faulty clearance across the blood-brain barrier (BBB). Continuous removal of Aβ from the CNS is important for preventing or delaying Aβ accumulation. Low-density lipoprotein receptor protein-1 (LRP1) and P-glycoprotein (P-gp) are believed to be major Aβ efflux transporters at the BBB, and reduced function of these transporters at the BBB has been observed during normal aging and in AD. A role for LRP1 to Aβ transport across the BBB in AD has been demonstrated, however the specific role and contribution of P-gp to the clearance of Aβ and consequent Aβ toxicity remains largely unknown and poorly defined. Understanding the role of P-gp to Aβ regulation is essential not only for understanding the basis for Aβ fluxes in the brain, but also because it may identify novel roles for P-gp in modulating specific forms or species of Aβ, or potentially serving as a basis for the development of novel therapeutics for regulating the levels of Aβ in the brain. Thus, there is an urgent need to elucidate exact role P-gp plays in the clearance of Aβ. P-gp is an efflux transporter highly expressed at the luminal side of the endothelium at the BBB, reported to play a potential role in regulating Aβ clearance by several groups. The mode of interaction between P-gp and Aβ is undefined, and the mechanism by which P-gp removes Aβ in vivo remains poorly understood, thus further studies in these areas are required to clarify the exact role of P-gp in Aβ regulation in the brain. Our preliminary data confirm a significant role for P-gp in regulating Aβ levels in the brain. Therefore, clarifying such role will be useful to gain valuable clues regarding strategies for treating and/or preventing increased levels of toxic Aβ observed in AD and vascular dementia.
+
+-
+  name: Hye-Young Kim
+  active: true
+  image: kim.jpg
+  origin: Southeastern Louisiana University
+  mentors:
+    -
+      name: Dorel Moldovan
+      origin: Louisiana State University
+  project_title: Large-scale atomistic simulation for novel self-assembled drug delivery vehicles
+  abstract: |
+    The main goal of the proposed research project is for the Principal Investigator to acquire the expertise that would enable her to become a federally funded independent researcher in the area of computational biophysics, emphasizing the fundamental and applied aspects of the development of novel self-assembled drug delivery vehicles. This goal will be achieved by leveraging and enhancing the following two sets of objectives: (1) professional development objectives that will enable the PI to quickly acquire the professional reputation and new expertise in the field of computational biomedicine to match her outstanding research ability and background, and (2) research objectives, which will enable the PI to contribute to an important area of research in biomedicine using large-scale atomistic and coarse-grained computer simulations. 
+
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+
+-
+  name: Paul Kim
+  active: true
+  image: pkim.jpg
+  origin: Grambling State University
+  mentors:
+    -
+      name: Jacqueline Stephens
+      origin: Pennington Research Center
+  project_title: Understanding the role of proteostasis in non-alcoholic fatty liver disease
+  abstract: TBD
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2015 - Present
+
+-
+  name: Yong-Yu Liu
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: liu.jpg
+  project_title: Epigenetic Effects of Ceramide Glycosylation and Drug-Resistant Cancer Stem Cell
+  mentors:
+    -
+      name: S. Michael Jazwinski, Ph.D.
+      origin: Tulane University School of Medicine, Center for Aging
+  funding:
+    -
+      name: Project R6
+      period: Sept 1, 2006 - April 30, 2012
+  abstract: |
+    Acquired drug resistance with metastasis causes cancer chemotherapy failure. Anticancer drugs kill large populations of cancer cells; however, epigenetic effects of these drugs drive a small fraction of cells to resistance. Resistance to adverse factors is a characteristic of stem cells, but aggravated behaviors in chemo-refractory cancers indicate these incurable cancers are generated from a particular subtype of stem cells, drug resistant cancer stem cell (DR-CSC). It is hypothesized that epigenetic effect of anticancer drugs induces the formation of drug-resistant cancer stem cell; this unrecognized subtype of CSCs generates an aggressive and incurable cancer, and consequently results in treatment failure. Three specific aims will be used to test these hypotheses in cell and animal models of breast cancer. Specific aim 1) is to isolate and identify drug-resistant breast cancer stem cell (DR-BCSC) from cancer cells treated with anticancer drugs; aim 2) is to induce DR-BCSC in mammary tumor in vivo; aim 3) is to examine epigenetic mechanisms underlying the formation of DR-BCSC in cells and animal models. Preliminary studies show that doxorubicin (Dox) exposure promotes the generation of CD44+/MDR1+/SSEA-3+ cells that display aggressive drug resistance; silencing glucosylceramide synthase (GCS) gene, that regulates ceramide glycosylation and glycosphingolipid synthesis, eliminates drug-resistant tumor formation in vivo. To verify these findings, DR-BCSC cells will be isolated from other Dox-resistant cell lines of breast cancer. Stemness of DR-BCSC will be examined using assays of colony formation, tumor formation, angiogenesis, and migration. Inducing DR-BCSC in vivo can provide direct evidence of the significance of DR-BCSC on cancer treatment. Low-dose and long-term treatment with Dox will be used to induce DR-BCSC in mice with spontaneous breast adenocarcinoma (Brca1-/-;p53-/-). Mechanisms of Dox impact on DR-BCSC formation will be examined in cell and mouse models. It will show the regulatory roles of glycosphingolipid-enriched microdomains, rafts, oncogenes (c-ras, c-src), Wtn and Notch on DR-BCSC genesis and progression. Completion of this project will help determine how chemo-refractory tumor prompts cancer death. Silencing of genes that regulates DR-BCSC will investigate a novel therapeutic approach to eliminate incurable breast cancer.
+
+-
+  name: Elahe Mahdavian
+  active: false
+  department: Louisiana State University in Shreveport, Department of Computer Science
+  image: mahdavian.jpg
+  project_title: Development of Novel Anti-Cancer Agents
+  mentors:
+    -
+      name: Christopher Kevil, Ph.D.
+      origin: LSU Health Sciences Center in Shreveport, Department of Molecular and Cellular Physiology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R7
+      period: May 1, 2010 - April 30, 2015
+  abstract: |
+    The primary goal of this research is to develop novel anti-cancer agents based on fusarochromanone (FC101a), a natural mycotoxin with potent anti-angiogenic and direct anti-tumor activity. Like most other bioactive natural compounds, the potency of FC101a is compromised in-vivo, suggesting rapid metabolism and/or poor bioavailability and distribution. Dr. Mahdavian has expertise in the synthesis of flavonoids and the derivatization of chroman compounds, and she is working together with Drs. Clifford and Kevil to evaluate the mechanism of this compound’s biological activity. Subsequent investigations will include synergistic effects of FC101a and alpha-TAM, a mitochondrial-targeted anti-cancer compound (mitocan) in a liposomal formulation. Like FC101a, alpha-TAM demonstrates both anti-angiogenic and direct anti-tumor activity, but through a different biological mechanism.
+
+    The total synthesis of FC101a and several novel analogs is already underway at LSUS. Photoaffinity labeling of the FC101a binding proteins in human cells will be used to identify the parent compound’s biological target(s). We will use the results of the biological assays to refine the lead compounds in the computer lab and then synthesize additional new analogs. The Tripos SYBYL molecular modeling package will be used to build a quantitative structure activity relationship (QSAR) based on the parent compound and its analogs, which will allow us to identify other potential lead compounds with even greater activity and bioavailability. SYBYL’s pharmacophore searching tools also open up access to a searchable database of thousands of compounds in the NCI’s small molecule database, whereby searches can be executed based on the spatial arrangement of important functional groups and other structural parameters. This will provide an effective means of finding new lead compounds and searching for common themes among those targeting a particular class of receptors.
+
+-
+  name: Eduardo Martinez-Ceballos
+  active: false
+  origin: Southern University and A&M College, Department of Pathobiological Science
+  image: martinez.jpg
+  project_title: Regulation of Mouse ES Cell Differentiation into Neurons by Hoxa1
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: Louisiana State University, Department of Pathobiological Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R8
+      period: May 1, 2010 - April 30, 2015
+  abstract: |
+    The long-term goal of this project is to elucidate and characterize the molecular mechanism by which the Hoxa1 transcription factor directs the differentiation of embryonic stem cells into neurons. Expression of the Hoxa1 gene in cells and tissues can be activated by retinoic acid (RA), a derivative of vitamin A. Inactivation of both alleles of the Hoxa1 gene in mice results in numerous developmental defects, including hindbrain deficiencies and abnormal skull ossification, and ultimately, in neonatal death. In humans, truncating mutations of the HOXA1 gene have been associated to autism susceptibility. This project will characterize the function of Hoxa1 during the RA-induced differentiation of mouse embryonic stem (ES) cells grown in suspension as embryoid bodies (EBs). We hypothesize that RA can induce the differentiation of mouse ES cells into all three germ layers and that the role of Hoxa1 is to promote neuronal cell differentiation by repressing endodermal and/or mesodermal cell lineages. We will test this hypothesis with the following specific aims: Aim 1 will employ retinoic acid receptor (RAR) agonists to determine the mechanism of RA-induced expression of Hoxa1 in EBs; Aim 2 will characterize the role of Hoxa1 as a repressor of endodermal differentiation and as an inducer of neuronal gene expression; Aim 3 will characterize the role of RA isomers during the differentiation of ES cells into neurons. The results obtained from these studies may result in novel differentiation strategies for the generation in culture of homogeneous neuronal cell populations. Because the results obtained using our murine system can be applied to human cells, the knowledge obtained from this project will have an important vertical impact on the treatment of spinal cord or brain injuries in humans.
+
+-
+  name: Harris McFerrin
+  active: true
+  origin: Xavier University of Louisiana, Department of Biology
+  image: mcferrin.jpg
+  project_title: Inhibition of HSV-1 Associated Ocular Neovascularization by Antiangiogenic Agents
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: Louisiana State University, Department of Pathobiological Science
+    -
+      name: Deborah E. Sullivan
+      origin: Tulane University, Microbiology & Immunology
+  funding:
+    -
+      name: Project
+      period: December 1, 2010 - April 30, 2015
+  abstract: |
+    Herpes simplex virus-1 (HSV-1) infects approximately 90% of humans worldwide. HSV-1 infection and subsequent replication induce inflammation and neovascularization in the cornea of the eye leading to corneal blindness. In the United States, HSV infection is the leading cause of infection-induced blindness, and 20,000 new cases are reported each year.  The most common treatment for ocular herpes infection is a combination of steroids and antiviral drugs such as triflurothymidine; however, treatment with corticosteroids increases the risk of glaucoma and cataracts, necessitating continued research for better interventions for this disease.
+    
+    Cyclin-dependent kinases (CDKs) are involved in cell cycle control and regulation of transcription and are required for herpesvirus transcription and replication.  It was recently shown that the CDK inhibitors 5,6- dichlorobenzimidazole (DRB) and flavopiridol (FP) reduce HSV-1 replication; however, there is no published data on the effect of FP on HSV-1 infection of the cornea or in preventing HSV-1 associated ocular neovascularization and its consequences.
+    
+    We have recently discovered that FP and DRB reduced HSV-1 corneal neovascularization in a mouse model to levels observed in animals treated with the gold-standard anti-herpetic trifluridine/trifluorothymidine (TFT). The beneficial effects of FP and DRB appear to be due to inhibition of multiple steps in the angiogenic pathway, as well as reduced viral replication. Thus, the use of CDK9 inhibitors as viable pharmacological agents in the treatment of HSV-1 corneal neovascularization should be further evaluated.  Commercialization analysis of this invention by Foresight Technologies, LLC stated “There is a clear need for new treatments for HSV-1 induced corneal neovascularization, and the compounds being pursued by Professor McFerrin may offer a viable new approach.  That one of the compounds, flavopiridol (FP) is in clinical trials for treating leukemia may offer an advantage in accelerating some clinical trials for HSV-1 therapy in the future.”
+    
+    The purpose of this proposal is to continue the very successful collaboration with Dr. Konstantin G. Kousoulas at the LSU School of Veterinary Medicine, Dr. Deborah E. Sullivan at the Tulane School of Medicine and Dr. Partha. S. Bhattacharjee at Xavier University.
+
+-
+  name: Teresa Murray
+  active: false
+  origin: Louisiana Tech University, Department of Biomedical Engineering
+  image: murray.jpg
+  project_title: Newly discovered neural receptor's role in Aβ1-42 pathogenesis of Alzheimer's disease
+  mentors:
+    -
+      name: Annadora Bruce-Keller, Ph.D.
+      origin: Pennington Biomedical University
+    -
+      name: Yuri Voziyanov, Ph.D.
+      origin: Louisiana Tech University, Department of Biology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2012 – April 30, 2013
+  abstract: |
+    A recently discovered neurotransmitter receptor, the α7β2 nicotinic acetylcholine receptor (α7β2-nAChR) is expressed in neurons in the septum and hippocampus of the brain. These regions experience a loss of cholinergic neurons in Alzheimer's disease (AD) which adversely affects cognition and memory. This new receptor is similar in functional attributes to the well-recognized α7-nAChR. Notably, α7-nAChR-mediated endocytosis of amyloid-β1-42 (Aβ1-42) peptide results in intracellular deposits of Aβ1-42. Intracellular deposits have been identified as an early step in AD etiopathology. However, the effects of α7β2-nAChR-mediated endocytosis by this newly discovered receptor have not been studied. We will separately express α7β2-nAChR and α7-nAChR in the neuroepithelial SH-EP1 cell line to compare Aβ1-42 internalization and key intracellular effects. Receptor subunits will be differentially labeled with fluorescent proteins incorporated into the intracellular domain to facilitate documentation of their positions via 3D confocal microscopy. Aβ1-42 will be stained for quantification and colocalization analyses. Cells will be incubated with oligomeric Aβ1-42 and the amount and location(s) of the internalized peptide will be quantified as will its colocalization with the intracellular targets in our study.
+
+-
+  name: Subramanyam Murthy
+  active: true
+  image: murthy.jpg
+  origin: Southern University and A&M College
+  image: murthy.jpg
+  project_title: DPP4 inhibitors in combating the effects of homocysteine and cholesterol
+  abstract: |
+    Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
+  mentors:
+    -
+      name: Thomas Gettys
+      origin: Pennington Research Center
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+
+-
+  name: Sami Nazzal
+  active: true
+  image: nazzal.jpg
+  origin: University of Louisiana at Monroe
+  mentors:
+    -
+      name: James Cardelli
+      origin: Louisiana State University Health Science Center, Shreveport
+  project_title: Cytotoxicity of tocotrienol nanoemulsions loaded with paclitaxel/gemcitabine PUFA
+  abstract: |
+    The highly significant work of this proposal addresses the urgent need to enhance the activity of gemcitabine and to overcome pancreatic tumor resistance to chemotherapy. Cancer is the second leading cause of death in the US (www.cdc.gov). Of all major types of cancer, pancreatic cancer has the highest mortality rate. It ranks as the fourth leading cause of cancer death in the US (www.cancer.gov) and is predicted to become the second leading cause of cancer-related death by 2020 (http://www.pancan.org/). Pancreatic cancer has poor prognosis, even when diagnosed early. It is one of the few cancers for which survival has not improved substantially over nearly 40 years. (http://www.pancreatic.org/). For all stages of pancreatic cancer, the 1- and 5-year relative survival rates are 27% and 6%, respectively (Cancer Facts & Figures 2014). Furthermore, treatment options for pancreatic cancer are limited. Surgery, radiation therapy, and chemotherapy may extend survival but they seldom produce a cure. The tumor response rates of gemcitabine (Gemzar®), the first-line treatment for patients with locally advanced or metastatic (stage IV) adenocarcinoma of the pancreas is approximately 10%. Recently a combination therapy with nab-paclitaxel (Abraxane®) and gemcitabine was approved for the first-line treatment of patients with metastatic adenocarcinoma of the pancreas. While promising, substantial toxic effects and modest benefits were observed with this combination. Therefore, there is a need for newer treatments with fewer side effects and marked enhancement in activity over existing therapies. Our long-term goal is to develop an efficacious approach to improve cancer chemotherapy and to overcome cancer chemoresistance. Our overall objective in the present application is to develop a novel strategy to enhance the efficacy of gemcitabine against pancreatic tumors cells by augmenting the TOCOSOLR paclitaxel  nanoemulsion  with  the  tocotrienol  isomers  of  vitamin  E  and  by  conjugating  gemcitabine  and paclitaxel to polyunsaturated fatty acids (PUFA). Our central hypothesis is that nanoemulsions made with tocotrienols  as  the  lipid  core  and  loaded  with  PUFA  conjugated  paclitaxel  and  gemcitabine  will  have significantly higher anticancer activity than the free paclitaxel + free gemcitabine combination therapy.
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2015 - Present
+
+-
+  name: Jamie Newman
+  active: true
+  origin: Louisiana Tech University
+  image: newman.jpg
+  project_title: The role of mediator in maintaining and differentiating human mesenchymal stem cells
+  abstract: |
+    The maintenance of healthy cell state is required to prevent a number of human diseases, including developmental defects, autoimmune disease, and cancer.  Small changes in the ability of a cell to properly regulate transcription and gene expression can result in large phenotypic changes.  As medicine looks to novel therapies  to  treat  human  disease,  adult  stem  cells  and  their  therapeutic  potential  are  being  heavily investigated.  The interest in stem cells is in their inherent cellular properties of self-renewal and their ability to be directed toward a number of terminally differentiated cell fates.  To optimize the use of these cells in the clinic, it is first important that we gain a better understanding of what maintains their cell state as a healthy, multipotent cell, and what is necessary for them to properly differentiate down a specific lineage.
+    
+    Regulation of gene expression relies on a coordinated interaction of environmental stimuli, internal signaling cascades, transcription factors, chromatin modifiers, microRNAs (miRNAs), and the transcriptional machinery.   Here we propose exploring the role of a large multisubunit protein complex in maintaining the unique properties of mesenchymal stem cells (MSCs), a population of adult stem cells found in human bone marrow, adipose tissue, and umbilical cord blood, recently identified to have tremendous therapeutic potential. Earlier work in this field demonstrated a critical role for Mediator in maintaining embryonic stem cell state by facilitating long-range cell-type specific interactions that promoted gene expression profiles necessary to maintain the pluripotency of embryonic stem cells (Kagey et al. 2010). The goal of the project proposed here is to determine the role that specific Mediator subunits have in adult mesenchymal stem cell state.  Specifically we are interested in identifying the genes regulated by Mediator, how expression of those genes is altered following the loss of specific Mediator subunits, how these changes in gene expression affect cell fate commitments, and finally how we can use this information to better understand the use of MSCs in clinical settings.  The growing interest in adult stem cells and their use in the clinic demands more in-depth study of the mechanisms that control their distinct cell properties.
+    
+  mentors:
+    -
+      name: Bruce Bunell
+      origin: Tulane University
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+
+-
+  name: Adarsh Radadia
+  active: false
+  origin: Louisiana Tech University
+  image: radadia.jpg
+  project_title: Point-of-Care Microelectronic Diagnostics for Early Phase Rickettsial Infections
+  mentors:
+    -
+      name: Kevin Macaluso, Ph.D.
+      origin: Pathobiological Sciences, Louisiana State University
+    -
+      name: Long Que, Ph.D.
+      origin: Electrical Engineering, Louisiana Tech University
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2013 – April 30, 3014
+  abstract: |
+    Rickettsial diseases (RD) are widely distributed in the world and continue to cause seasonal outbreaks and epidemics1. The greatest challenge to clinicians is diagnosing RD at early phases when antibiotic therapy is most effective. This burgeoning problem is further compounded by the unavailability of rapid point-of-care (POC) diagnostics for RD. PCR and culture-based methods are the most sensitive techniques, however they are labor and time intensive, and so are not directly amenable to POC diagnostics. Immunofluorescence antibody (IFA) testing, the current gold standard for RD diagnostics depends on detecting host immune response, which may be too late of a stage for effective antibiotic treatments. To improve patient survival rates, novel POC diagnostics for pathogen detection are needed, which may not be as sensitive and differentiating as PCR but sensitive enough to detect pathogens in blood or blood products prior to host immune response. We  propose  using  dielectrophoresis  enhanced  microfluidic  impedance  biosensor  (DEP-e-MIB)  to detect rickettsial organisms at ultra low concentrations  in human serum samples. Impedance sensor (IB) applies a small sinusoidal excitation potential between two electrodes and detects impedance changes caused by the binding  of  target  molecules  to  immobilized  receptors  (antibodies,  DNA/RNA,  proteins, and  aptamers). Detection  limits down  to 10 bacterial  cells/ml 3 ,  0.02 fg protein (interferon-γ)/ml ml coupling of microfluidics and  DEP  preconcentration  with  IB  has  been  shown  to  improve  detection limits.  During  our  past  LBRN summer research project we developed a novel assay to overcome our inability to directly concentrate Rickettsia parkeri using DEP. We found that labeling of bacteria with beads allows trapping bacteria at low DEP bias not been combined with IB for real-time pathogen detection. 4,  and 1 nM ssDNA 2,  10 5 have been demonstrated  with IB. Additionally, 3 EID50  (avian  influenza  virus H5N1)/ 6.  This technique has been previously reported 7, however it has not been combined with IB for real-time pathogen detection. The  power of this technique over PCR and IFA lies in its ability to (1) detect target molecules at extremely low concentrations from small sample volumes (essential in early detection due to the low rickettsial cell count in serum), (2) screen for an array of etiological agents (important in developing symptomspecific diagnostics), (3)   provide  portable  rapid  diagnostics  at  extremely  low  cost  (small  working volumes  associated  with microfluidics   and   all-electronic   detection),   and   (4)  eliminate   cumbersome, expensive   PCR   and   DNA sequencing steps. DEP-e-MIB assays therefore, could potentially play an important role in early detection of rickettsial infections, and disease monitoring during antibiotic therapy. In working towards our goal of developing early phase rickettsial diagnostics,  the specific aim of this project is  to reduce the nonspecific binding of immunolatex beads in DEP-e-MIB Assays. We hypothesize that the use of suitable bioconjugation  chemistry with co-immobilization  of PEG on sensor surface will eliminate nonspecific binding of beads, and improve efficiency and specificity of pathogen isolation step in DEP-e-MIB assays. Aim 1 will be accomplished via two specific tasks. (1) Assess reduction in nonspecific binding via co- immobilization of polyethylene glycol (PEG) on sensor electrodes. (2) Investigate effects of immunoconjugation chemistry on pathogen isolation. We will utilize R. parkeri as the pathogen and deidentified human serum will be used as the spiking matrix. Depending on outcomes of this project, these results will enable extension of this technique to detection of other rickettsial species and testing with clinical and pre-clinical animal models of rickettsial infections.
+
+-
+  name: Brian Salvatore
+  active: true
+  image: salvatore.jpg
+  origin: Louisiana State University, Shreveport
+  mentors:
+    -
+      name: Shile Huang
+      origin: LSU Health Sciences Center Shreveport
+    -
+      name: Christopher Kevil
+      origin: LSU Health Sciences Center Shreveport
+  project_title: Design and synthesis of novel polyphenol cancer therapeutics
+  abstract: |
+    The primary goal of this research is to develop novel drugs based on the hydroxycinammic polyphenol scaffold.  There is tremendous potential in this area of drug development as many natural molecules in this class (e.g., caffeic acid) exhibit potent and favorable direct effects on cancer cell signaling in vitro.  However, almost invariably, the natural products themselves are reported to have poor ADMET drug properties in vivo, particularly poor absorption and metabolic profiles.  This is often due to sub-optimal structural characteristics. We seek to address these problems through the design and synthesis of novel molecules possessing more desirable pharmacokinetic properties than the natural compounds.  A series of fourteen new compounds is proposed, incorporating several unique bioisosteric characteristics, aimed at improving problematic ADMET characteristics, while maintaining favorable anti-cancer signaling.  Cell proliferation assays to evaluate the effects of the synthetic compounds on the UM-UC14 (malignant bladder), and PC3 (malignant prostate) cancer cells will be employed, along with transepithelial cell monolayer model assays to assess the bioavailability of the synthetic compounds in vitro.
+    
+    This proposed research plays an important part toward establishing a new core group of cancer researchers and facilities at LSUS.  This proposal highlights contributions toward the medicinal chemistry component of that research.  This is important in fostering collaboration with several major medical centers in Shreveport.  Health care is an important part of our local economy, University Health, along with Willis- Knighton and the Feist-Weiller Cancer Centers are all placing a strong emphasis on translating therapies from the benchtop to the bedside.  This project also supports another key component of LBRN’s mission by tackling an important interdisciplinary research problem in the prevention and treatment of cancer.
+    
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - Present
+
+-
+  name: Seetharama D Satyanarayanajois
+  active: false
+  origin: University of Louisiana at Monroe, College of Pharmacy
+  image: satyanarayanajois.png
+  project_title: Role of Extracellular Domain IV of HER2 Protein in Cell Signaling
+  mentors:
+    -
+      name: Marcia Newcomer, Ph.D.
+      origin: Department of Biological Sciences, Louisiana State University
+    -
+      name: Maria da Graça H.Vicente, Ph.D.
+      origin: Department of Chemistry, Louisiana State University
+  funding:
+    -
+      name: Pilot Project
+      period: Jan 2, 2008 – April 30, 2011
+    -
+      name: Project R11
+      period: May 1, 2011 - April 30, 2015
+  abstract: |
+    The long-term objective of this research project is to understand the role of extracellular domains of proteins in protein-protein interactions for cell signaling. The short-term objective of this project is to understand the role of domain IV of human epidermal growth factor receptor 2 (HER2) extracellular domain in protein-protein interaction with other epidermal growth factor receptors (EGFRs) in signaling for cell growth. Our hypothesis is that protein-protein interaction surfaces have small core regions which are hydrophobic in nature and protein-protein interactions can be modulated by small molecules that interact with core regions to modulate the signaling for cell growth. As a model system we will investigate protein-protein interactions on EGFR extracellular domains. In particular, we will investigate the interaction of HER2 protein with other EGFRs (EGFR/HER1, HER3). Protein-protein interactions are critical for many biological processes. The interfaces of these protein-protein interactions may have cavities or flat surfaces that are dominated by non-covalent interactions. Analyses of the structures and sequences using bioinformatics approaches have revealed that, although the interacting surfaces are large (700 to 3,000), there are core regions in the surface that facilitate high-affinity interactions. These core regions are dominated by amino acids such as tyrosine, phenylalanine. Thus, small molecules that are targeted to these core regions can be used to modulate protein-protein interactions and may have clinical significance. The protein HER2 is known to interact with other EGFRs to form dimers/heteromers. HER2-mediated heterodimerization leads to signals for cell growth. Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. HER2 interaction with HER3 and EGFR is known to be dominant in HER2-overexpressing tumors. Blockade of the interaction of HER2 with other receptors ultimately leads to control of cell growth. The extracellular domain of EGFRs consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Crystal structures of the extracellular domains of EGFR and HER2-4 are available. The homodimer of the crystal structure of EGFR extracellular domain has been elucidated. However, it lacks domain IV and, thus, the importance of domain IV in dimerization is not understood. Hence, these proteins will serve as good models to understand protein-protein interaction for cell signaling. Furthermore, blocking of domain IV of HER2 protein has clinical significance and, hence, the results from the proposed research can be applicable as â€œtranslational research. The studies presented here can be extended to other protein-protein interactions of biological importance. In the preliminary studies we have carried out, we have shown that a small hydrophobic molecule binds to domain IV of HER2 protein and also inhibits HER2-HER3 interaction in surface plasmon resonance experiments. In the proposed research project, our goal is to understand the importance of domain IV of HER2 in protein-protein interactions and the core region that is critical for dimerization and its modulation for cell signaling.
+
+-
+  name: Prerna Sethi Dua
+  active: false
+  department: Department of Health Information Management
+  university: Louisiana Tech University
+  image: sethi.jpg
+  project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
+  mentors:
+    -
+      name: Walter J. Lukiw, Ph.D.
+      origin: LSU Health Science Center in New Orleans, Neuroscience Center of Excellence
+    -
+      name: Mark DeCoster, Ph.D.
+      origin: Louisiana Tech University
+  funding:
+    -
+      name: Pilot Project
+      period: Sept 1, 2008 – April 30, 2010
+    -
+      name: Project R9
+      period: May 1, 2010 - April 30, 2015
+  abstract: |
+    Microarray gene expression analysis, an important component in the design of in-silico molecular medicine methods, has made possible to monitor the expression level of thousands of genes under different samples (conditions) at the same time. The analysis can yield novel information regarding cellular mechanisms, regulatory functions of genes, functions of genes and proteins, gene network structure, and pathways, and can relate the risk of being affected by diseases to gene expression profiles which are characteristics for phenomenon such as Alzheimer’s Disease (AD). Particularly in AD where the effective diagnosis includes annotation, early detection, distinction, and prediction, data mining and statistical approaches offer the promise for precise, accurate, and functionally robust analysis of gene and protein expression data. In this proposal we will investigate into the miRNA expressions of AD patients and age-matched controls by designing and developing algorithms to discover correlated and co-regulated sets of miRNA patterns that have a biologically significant role in the progression of Alzheimer’s. Our approach lies in the design and development of computationally efficient algorithms for dimensionality and noise reduction followed by supervised classification of gene expression data using the theory of association rules and clustering with the biological characterization of sets of genes discovered. We hypothesize that rank-based associations for unsupervised clustering can provide biologically significant correlations among co-regulated miRNA profiles with a higher specificity and sensitivity. The proposed approach will have the following algorithmic components as specific aims: a) Design algorithms for dimensionality reduction of gene expression data using the statistical indicators of “housekeeping” genes as the underlying factor of control, b) Design and develop algorithms for finding correlations in subspaces of high dimensional gene, protein expression data using theory of association rules, c) Design and develop metrics for clustering to synopsize the high dimensional gene correlations for better biological interpretation, d)Perform validation for evaluation for the discovered sets of genes for their biological significance, and e) Develop an open-source tool-kit, by incorporating the developed algorithms.
+
+    We will objectively achieve the aims of the Computational and Structural Biology core of LA-INBRE by fostering new collaborations across the State and extensively leveraging the computational resources made available through the Data Mining laboratory in the College and LONI for the design and development of algorithms.
+
+-
+  name: Maureen Shuh
+  active: false
+  origin: Xavier University, College of Pharmacy
+  image: shuh.jpg
+  project_title: The Molecular Mechanisms of Adult T cell Leukemia Induction by HTLV-I Tax
+  mentors:
+    -
+      name: Vicki Traina-Dorge, Ph.D.
+      origin: Tulane National Primate Research Center, Department of Microbiology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2010 - April 30, 2011
+  abstract: |
+    Human T cell leukemia virus type 1 (HTLV-1) is one of four human retroviruses which include HTLV-II, human immunodeficiency virus-1 (HIV-1), and HIV-2.  HTLV-I causes two human diseases, adult T cell leukemia (ATL) and tropical spastic paraparesis/HTLV-I-associated myelopathy (TSP/HAM).  The virus infects and integrates its proviral DNA in human CD4+ T cells.  TSP/HAM is a neurological disease and is the result of the infiltration of clonal CD4+ T cells into the central nervous system.  ATL is a debilitating and aggressive cancer with no known cure and a poor prognosis.  Approximately 11-20 million people are infected (HTLV-I+) in the world with pockets of infection occurring in the Caribbean, central Africa, Japan, and Italy.   In the United States, HTLV-I+ patients are found mainly in the coastal large cities, including New York City, San Francisco, Los Angeles, and the Gulf Coast (Miami and New Orleans are hotspots).  United States blood donations are routinely assayed for the presence of HTLV-I, and about 0.025% of the blood supply is positive for the virus.  There is no vaccine for the virus.
+
+-
+  name: Jayalakshmi Sridhar
+  active: true
+  origin: Xavier University of Louisiana, Department of Chemistry
+  image: sridhar.jpg
+  project_title: Development of Casein Kinase 1 Inhibitors as Therapeutics for Alzheimer's Disease
+  mentors:
+    -
+      name: Frank Jones
+      origin: Tulane University, Cancer Center, Cell & Molecular Biology
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2014 – April 20, 2015
+    -
+      name: Full Project
+      period: My 1, 2015 - Present
+  abstract: |
+    Alzheimer’s disease (AD), a progressive neurodegenerative disorder that affects 36 million individuals worldwide is marked by lesions and filaments made up of hyperphosphorylated PHF-tau protein in the hippocampus. Reversing tau phosphorylation is a promising therapeutic strategy to prevent progression of AD. Casein kinase 1 delta (CK1 belongs to the Casein Kinase 1 family comprising of eight isozymes. CK1 is predominantly expressed in the AD hippocampus >30 fold and was found to be co- localized with granulovacuolar degeneration bodies. CK1 plays a critical role in AD through phosphorylation of tau which precedes neuritic lesion formation, strongly implicating CK1in the tau fibrillization reaction pathway. CK1 has been reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and Parkinsonism dementia complex of Guam. Inhibition of CK1 has been shown to reduce fibrillar lesions and to inhibit A production. In addition to driving the accumulation of pathogenic tau neurofibrills, CK1 also promotes generation of amyloid-(A ), the causative agent in the development of AD. Our recent work on the investigation of quinones as kinase inhibitors revealed a quinone compound that inhibited CK1 and Pim1 kinase preferentially over CK1 2 and 98 other human protein kinases. Similarity search and preliminary in-vitro CK1 kinase inhibition assay have yielded novel compounds with good potency. This proposal aims to obtain highly selective and potent inhibitors of CK1 by further refining the structure of our active quinones by design and synthesis of new derivatives followed by CK1 inhibition assay. The most promising candidates will then be assessed for their effective inhibition of tau phosphorylation and suppression of A production using multiple pre-clinical models of AD. Our long-term goal is to provide novel and potent CK1 inhibitors which can serve as therapeutic drugs for neurodegenerative disorders such as AD. Our central hypothesis is that the development of new CK1 inhibitors with low nanomolar range inhibition potencies will address the urgent need for therapeutics for the treatment of AD and other neurodegenerative disorders.
+
+-
+  name: Matthew Talbert
+  active: true
+  origin: University of Louisiana at Monroe
+  image: talbert.jpg
+  project_title: Investigation of the role of Drosophila SOCS36E in energy homeostatis and obesity
+  mentors:
+    -
+      name: Jacqueline Stephens
+      origin: Pennington Biomedical Research Center
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2015 – Present
+    
+  abstract: |
+    Our overall objective is the discovery of the molecular mechanisms by which obesity induces disease. Diet- induced obesity in humans and animal models does not guarantee comorbidities, but it does substantially heighten the risk of diabetes, cardiovascular disease, and neurological decline. The ability of obesity to cause disease has been intensely studied in mammals, revealing mechanisms that include chronic inflammation and aberrant cell signaling. An extreme state resembling mammalian obesity results when Drosophila melanogaster are allowed to feed upon solid medium that is high in sugar (HSD). Exposed flies have increased triglyceride levels, increased circulating glucose, reduced insulin response despite increased expression, cardiac abnormalities, a severely reduced lifespan, and are impeded in climbing ability. As one of the newer models of obesity, and yet among the most genetically accessible to researchers, Drosophila melanogaster is useful in the dissection of specific connections between obesity and its comorbidities. In mammals, leptin is released from adipose tissue in direct proportion to their metabolite content. When leptin reaches the hypothalamus, it conveys the energy state of the organism, inhibiting appetite centrally and promoting signaling components of the insulin response peripherally. Following activation of the leptin receptor, JAK-Stat3 signaling results in the transcription of a range of genes, the suppressor of cytokine signaling 3 (SOCS3) among them. SOCS3 acts as a classical negative feedback inhibitor of the leptin receptor and a range of other cytokines. Among these cytokines are components of the insulin response. Interestingly, SOCS3 is also produced in response to inflammatory agents, such as IL-6 or TNF-α, which provides a direct mechanism by which the chronic inflammation of obesity can promote leptin and insulin resistance. In Drosophila melanogaster, unpaired 2 (Upd2) is released from the fat body in proportion to nutrient content, binds to the receptor Domeless upon GABAergic neurons that precede the median neurosecretory cells, and promotes drosophila insulin-like peptide 2 (Dilp2) release through Hop-Stat92e signaling. Drosophila also possess SOCS proteins, among them the classical negative feedback inhibitor SOCS36E, which also seems to be induced during immune and/or stress responses. In this study, we reduce the adult expression of SOCS36E in both the whole fly and exclusively in neurons. We hypothesize that either of these interventions will result in increased Upd2 effectiveness and thus Dilp2 responsiveness, conveying a greater tolerance to HSD as evinced by increased lifespan, improved mobility, increased fat stores, altered starvation resistance, and reduced circulating metabolites. Herein we also conduct RNA-Sequencing of whole flies to obtain genomic profiles that compare the transcriptome of normal vs HSD, as well as the transcriptome response to knockout of SOCS36E in each dietary context. Regardless of the nature of the results, our study stands to advance the understanding of the pathophysiology of diet-induced obesity and will enhance our awareness of the conserved physiology between human and fly.
+
+-
+  name: Tara Williams-Hart
+  active: false
+  origin:  Louisiana State University in Shreveport, Department of Biological Sciences
+  image: williams.jpg
+  project_title: Assessment of the Molecular Target of Fusarochromanone and its Analogues
+  mentors:
+    -
+      name: Robert Rhoads, Ph.D.
+      origin: LSU Health Sciences Center in Shreveport, Department of Biochemistry and Molecular Biology
+    -
+      name: Urska Cvek, Ph.D.
+      origin: Louisiana State University in Shreveport, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
+    -
+      name: Project R10
+      period: May 1, 2010 - April 30, 2015
+  abstract: |
+    The long-term goal of this project is to elucidate the molecular mechanisms of drug targets for cancer using molecular genetics and bioinformatics in baker's yeast. Cancers represent an increasing health problem as people live longer. Identifying novel drugs and therapeutic treatments to combat the myriad of cancers requires decades of investigation. The objective of this research project is to use Saccharomyces cerevisiae ( budding yeast) as a screening tool to identify the molecular target(s) of putative, novel anti-cancer drugs, fusarochromanone (FC-101a) and its analogues. Initial identification in yeast greatly reduces the time required to test the efficacy of these drugs in animal models. FC-101a is a small natural flavonoid compound and mycotoxin produced by Fusarium equiseti, a fungus present in decaying cereal plants. Studies by Dreau et al., 2007, indicate that fusarochromanone increases apoptosis of melanomas and reduces tumor growth in vivo. Yet is it is not known whether the cytotoxic effects of FC-101a can be used for clinical treatment of human tumors. To date, the molecular mechanisms by which this drug acts to elicit its anti-tumor effects are unknown. The proposed investigation will serve as an initial in vivo study to identify the molecular targets of FC-101a and its analogues to simplify the experimental design of future animal model studies. The first Specific Aim is to (1) perform drug sensitivity assays with yeast exposed to FC-101a and its analogues, (2) screen yeast deletion and hypomorphic collections for strains that confer drug resistance, and (3) isolate dosage suppressors of this resistance to the drug to identify proteins that interact with the putative molecular target(s). We hypothesize the existence of genes that, when deleted or mutated, cause drug resistance to cells, and genes that, when overexpressed, suppress this drug resistance. These genes represent specific, putative molecular targets within the same signal transduction pathway(s) utilized by FC-101a. The second Specific Aim is to identify genes that are differentially expressed in yeast exposed to sub-lethal concentrations of FC-101a. We will measure global transcriptional changes that occur in strains exposed to sub-lethal levels of FC-101a and its analogues using microarray analysis and real time PCR. We will make crosses between strains of putative molecular targets to identify genetic interactions. To identify protein-protein and protein-drug interactions between FC-101a and other molecules, we will perform co-immunoprecipitation, western blotting, and mass spectrometry. Molecular targets for FC-101a thus identified in yeast will be candidates for validation in future animal model studies.
+
+-
+  name: Shizhong Yang
+  active: false
+  origin: Southern University and A&amp;M College, Department of Computer Science
+  image: yang.jpg
+  project_title: Molecular dynamics simulation on the interaction between domain I of gK and extracellular domain IV of UL20
+  mentors:
+    -
+      name: Konstantin G. Kousoulas, Ph.D.
+      origin: Louisiana State University, School of Veterinary Medicine, Department of Pathobiological Science
+    -
+      name: Ebrahim Khosravi, Ph.D.
+      origin: Southern University and A&amp;M College, Department of Computer Science
+  funding:
+    -
+      name: Pilot Project
+      period: October 1, 2011 – April 30, 2012
+  abstract: |
+    In this project, we will utilize computational tools to simulate a biomedical research question: how does the domain I of herpes simplex virus type 1(HSV-1) glycoprotein K (gK) and the extracellular domain IV of UL20 interact. We aim to obtain a stable structure of the domain I and first segment membrane part of HSV-1 gK and the extracellular domain IV of UL20 using computational approaches, which are currently available as stand-alone software and our groupâ€™s specific analysis tools. We will optimize and derive the best combination of currently available algorithms that can arrive at an optimum stable structure faster. We will then analyze the final stable structure that would be helpful in explain the experimental data and even predict the possible properties that is hard to perform with current experiment equipments. We would expect that an efficient and accurate potential database established after the implementation of this proposed project. The research is expected to facilitate a better understanding of the interaction of gK and UL20p and thereafter drug design to combat herpes virus infections.
+
+    This research has two specific aims: specific aim 1 will focus on model setup and HPC simulation of the domain I of herpes simplex virus type 1 gK and the extracellular domain IV of UL20 through computational methods. Specific aim 2 will focus on analyzing the domain I gK homologs, delineate conserved and divergent structural features, and the gK/membraneinteraction properties. A graduate student will be involved in this research.
+
+-
+  name: Kun Zhang
+  active: false
+  origin: Xavier University, Department of Computer Science
+  image: zhang.jpg
+  project_title: Enhancement of microRNA Research through Bioinformatics Tool Development
+  mentors:
+    -
+      name: Prescott Deininger, Ph.D.
+      origin: Tulane University, Cancer Center
+    -
+      name: Erik Flemington, Ph.D.
+      origin: Tulane University, Department of Pathology and Laboratory Medicine
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2010 – April 30, 2012
+  abstract: |
+    MicroRNAs (miRNAs) are very small (approx. 20-22 nt) noncoding RNA molecules that regulate mRNA translation through binding to 7-8 base sequences of the respective 3’ UTRs.  miRNAs have only recently been found to exist in higher eukaryotes.  In the short time since this discovery, the profound significance that miRNAs have in pathway regulation, cell fate, differentiation, development and disease states such as cancer have already been well established. To date, most of the bioinformatics approaches in miRNA research are developed to tackle two major tasks, miRNA detection and miRNA target prediction. Compared to miRNA detection, computational miRNA target prediction are far more challenging due to the lack of strict sequence complementarity between miRNAs and their targets, as well as the scarcity of experimentally validated gene targets to guide algorithm design.

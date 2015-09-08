@@ -106,6 +106,10 @@ a {
   height: 60% !important;
 }
 
+.bio p a {
+  text-transform: capitalize;
+}
+
 footer {
   margin-top: 50px;
 }
@@ -120,7 +124,10 @@ footer {
   padding-left: 50px;
 }
 
-.project-title { font-size: 1.2em; }
+.project-title {
+  text-transform: capitalize;
+  font-size: 1.2em;
+}
 
 .pubmed-link {
   float: right;
