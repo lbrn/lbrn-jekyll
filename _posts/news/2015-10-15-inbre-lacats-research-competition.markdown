@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LBRN INBRE and LA CaTS 2015 Competition for Research Projects
+title: LBRN 2015 Competition for Research Projects
 author: LBRN
 ---
 
@@ -24,7 +24,7 @@ author: LBRN
 
 **Objectives**
 
-The purpose of these programs is to to solicit new start-up and shared instrumentation funds as well as for new pilot and full projects for the proposed grant period as well as provide an additional opportunity for junior and senior LBRN PUI faculty to engage in clinical and translational research. The selection and distribution of these projects by the Steering Committee will be based on the quality of the proposals and the needs of the INBRE program. Proposed projects should be consistent with the program’s focal research areas. The Translational Project is specifically linked to LA CaTS through collaboration of faculty, training opportunities, infrastructural resources and partial funding and is targeted at faculty with an interest to extend their research findings into translational and clinical studies.
+The purpose of these programs is to to solicit new start-up and shared instrumentation funds as well as for new pilot and full projects for the proposed grant period as well as provide an additional opportunity for junior and senior LBRN PUI faculty to engage in clinical and translational research. The selection and distribution of these projects by the Steering Committee will be based on the quality of the proposals and the needs of the INBRE program. Proposed projects should be consistent with the program’s focal research areas.
 
 The Online Form is available for the Letters of Intent to be submitted. *We're using an online submission system instead of emailing completed proposals.*
 
