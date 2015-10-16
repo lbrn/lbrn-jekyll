@@ -196,7 +196,7 @@
 -
   name: Chris R. Gissendanner
   active: false
-  department: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
+  origin: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
   image: gissendanner.jpg
   project_title: NR4A Regulation of Organ Morphogenesis
   mentors:
@@ -213,7 +213,7 @@
 -
   name: Kinesha Harris
   active: false
-  origin: ULM College of Pharmacy
+  origin: Southern University and A&amp;M College
   image: harris.png
   project_title: Identification and Characterization of Kola Acuminate (Bizzy nut)-Specific Biomarkers for Prostate Cancer Prevention
   mentors:
@@ -367,7 +367,7 @@
 -
   name: Elahe Mahdavian
   active: false
-  department: Louisiana State University in Shreveport, Department of Computer Science
+  origin: Louisiana State University in Shreveport, Department of Computer Science
   image: mahdavian.jpg
   project_title: Development of Novel Anti-Cancer Agents
   mentors:
@@ -574,7 +574,7 @@
 -
   name: Prerna Sethi Dua
   active: false
-  department: Department of Health Information Management
+  origin: Department of Health Information Management
   university: Louisiana Tech University
   image: sethi.jpg
   project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
