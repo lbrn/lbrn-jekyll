@@ -26,7 +26,7 @@ title: Frequently Asked Questions
 **What are the program dates?**
   
 
-* The 2016 Program will run from May 30 – July 29, 2016 for Undergraduate and Graduate student participants.
+* The 2016 Program will run from tentatively May 30 – July 29, 2016 for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
