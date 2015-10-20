@@ -15,21 +15,18 @@ title: Frequently Asked Questions
 * Students who are attending a university or college in the state of Louisiana, except LSU Baton Rouge and Tulane students.
  
 
-* Students who are not graduating between January through August of 2015.
+* Students who are not graduating between January through August of 2016.
  
 
  
  
 
-### *LBRN Summer Research Program dates 2015*
+### *LBRN Summer Research Program dates 2016*
 
 **What are the program dates?**
- 
+  
 
- * The program is 10-weeks long.
- 
-
-* The 2015 Program will run from May 25 (Memorial Day) – July 31, 2015 for Undergraduate and Graduate student participants. This is pending funding.
+* The 2016 Program will run from May 30 – July 29, 2016 for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -46,7 +43,7 @@ title: Frequently Asked Questions
 **Am I required to be on the LSU campus (or other research facility) for the full term?**
  
 
-* Yes. Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. Undergraduates must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
+* Yes. Nine or Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. Undergraduates must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
  
 
  
@@ -188,7 +185,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Wednesday, February 11, 2015.
+* The application deadline is Wednesday, February 10, 2016.
  
 
  
@@ -255,7 +252,7 @@ title: Frequently Asked Questions
 **When and how will I be notified of my acceptance into the LBRN program?**
  
 
-* Letters will be emailed by the end of April, 2015.
+* Letters will be emailed by the end of April, 2016.
 
  
 

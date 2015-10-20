@@ -3,7 +3,7 @@ layout: summer-research
 title: Undergraduate Scholars Program
 ---
 
-Existing LBRN Summer Program Undergraduate participants who have completed fewer than 60 total semester credit hours as of May 2015 are eligible to participate in the LBRN Undergraduate Scholars Program following completion of the Summer Research Program.
+Existing LBRN Summer Program Undergraduate participants who have completed fewer than 60 total semester credit hours as of May 2016 are eligible to participate in the LBRN Undergraduate Scholars Program following completion of the Summer Research Program.
 
 This program will provide a more extensive research experience by allowing existing summer program participants to extend their summer program participation into the academic year at their mentoring laboratory or home PUI campus. Students would be paid for working up to 10 hours per week in a research lab during the fall and spring semesters for a total of 30 weeks at a rate of $8/hr, up to 10 hours per week, not to exceed $2,400. Up to $1,000 will be available to help support laboratory supplies for the research. In the case where the student attends a PUI campus close to their mentoring institution for the summer can continue to work on the research they began during the summer. Students who elect to work at their home campus, that is not near a mentoring institution, will require a research mentor on their campus and and outline a potential project.
 
@@ -34,7 +34,7 @@ The application process will require the following documentation (scanned pdf to
 2. For option 2, the Mentor's CV in addition to the letter of support.  
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Application Deadline: September 15, 2015.<br><br>
-  Application review and acceptance with rolling deadline to begin August 15, 2015 with complete applications.</strong></h4>
+  <h4><strong>Application Deadline: TBA.<br><br>
+  Application review and acceptance with rolling deadline to begin TBA with complete applications.</strong></h4>
 </div>
 
