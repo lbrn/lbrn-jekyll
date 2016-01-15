@@ -19,8 +19,8 @@ This option is open to students who demonstrate that they will continue to make 
 
 Students will need to identify an appropriate research mentor on their campus and outline a potential project for the following academic year. Ideally this project would involve studying a question related to nd/or using technologies similar to their summer research experience. This option allows students from PUI campuses that are not geographically close to a research campus the option for extending their research experience.  
 
-<br>
-#### **Application ** ####
+
+#### **Application** ####
 
 Participants who are eligible will automatically receive an application link near the end of their participation in the current summer research program. Eligibility will depend on the mentor who agrees to continue the program with the eligible student and meeting the requirements as outlined above.
 

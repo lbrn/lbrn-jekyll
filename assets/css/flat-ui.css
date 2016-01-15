@@ -1741,6 +1741,26 @@ textarea,
   .tile p {
     font-size: 15px;
     margin-bottom: 33px; }
+    
+.tilex {
+  background-color: #ecf0f5;
+  border-radius: 6px;
+  padding: 14px;
+  position: relative;
+  text-align: left;
+  font-size: 14px; }
+  .tilex.tile-hot:before {
+    background: url("../images/tile/ribbon.png") 0 0 no-repeat;
+    background-size: 82px 82px;
+    content: "";
+    height: 82px;
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    width: 82px; }
+  .tilex p {
+    font-size: 15px;
+    margin-bottom: 33px; }    
 
 .tile-image {
   height: 100px;

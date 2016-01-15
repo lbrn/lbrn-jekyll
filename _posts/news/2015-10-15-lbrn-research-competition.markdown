@@ -19,7 +19,7 @@ author: LBRN
 - Announcement of RFA - **October 15, 2015 **
 - Letter of Intent - **October 30, 2015 **
 - Full proposal due - **November 30, 2015 **
-- Announcement of Award - **January 15, 2016 **
+- Announcement of Award - **February 1, 2016 ** (updated from January 15, 2016)
 - Project Start - **September 1, 2016 **
 
 **Objectives**

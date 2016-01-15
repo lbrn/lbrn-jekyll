@@ -3,21 +3,19 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Registration deadline to be determined.
+#### Registration deadline is March 14th, 2016
 *As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.*
 
 <div class="well">
-  <p class="text-error">
-   *Hotel Registration Information forthcoming*
-  </p>
-  
- Event Registration not available yet.
+ 
+ <a href="https://redcap.lbrn.lsu.edu/surveys/?s=7MLJHLJP4E" class="btn btn-info btn-large">Continue to Event Registration Form</a>
   
 </div>
 
 
 ### Poster Requirements
-#### Poster & Oral Abstracts Deadline, TBD.
+
+#### Poster & Oral Abstracts Deadline, February 23, 2016
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 

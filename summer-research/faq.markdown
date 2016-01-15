@@ -26,7 +26,7 @@ title: Frequently Asked Questions
 **What are the program dates?**
   
 
-* The 2016 Program will run from tentatively May 30 – July 29, 2016 for Undergraduate and Graduate student participants.
+* The 2016 Program will run from tentatively May 23 – July 29, 2016 for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -43,7 +43,7 @@ title: Frequently Asked Questions
 **Am I required to be on the LSU campus (or other research facility) for the full term?**
  
 
-* Yes. Nine or Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. Undergraduates must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
+* Yes. Ten weeks may sound like a long time, but it is a very short period in which to do any meaningful research. Undergraduates must attend the opening meetings and participate in the poster session on the final day. You will also be required to attend weekly seminar meetings.
  
 
  
@@ -103,7 +103,7 @@ title: Frequently Asked Questions
 **How do I choose a mentor professor and a project?**
  
 
-* You are ultimately responsible for choosing your mentor and project. You will need to contact faculty members directly to ask about working with them. If you have any questions, please contact the LBRN office by email LBRN@lsu.edu.
+* You are ultimately responsible for choosing your mentor and project. You will need to contact faculty members directly to ask about working with them. If you have any questions, please contact the LBRN office by email lbrn@lsu.edu.
  
 
 * There is a prospective mentor list for Undergraduate, Graduate and Faculty Researchers listed under: Summer Research Mentors, that page is also for those Faculty at research institutions who wish to mentor students.

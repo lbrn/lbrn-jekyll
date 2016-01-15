@@ -10,10 +10,10 @@ This year's event is being held in Monroe, Louisiana the location to be determin
 If for any reason that you need to cancel your registration or if you have any questions, please contact Mrs. Terri Gilbert, [tgilbert@lsu.edu](mailto:tgilbert@lsu.edu).
 
 <p class="text-error">
-	Deadline for registration TBD
+	Deadline for registration: February 1st, 2016
 </p>
 
 *Note: after the deadline you will not be able to receive the discounted hotel group rate.*
 
 ---
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=EA3CPWL8NP" class="btn btn-info btn-large">Continue to Event Registration Form</a>
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=3Y9FKY7R7H" class="btn btn-info btn-large">Continue to Event Registration Form</a>
