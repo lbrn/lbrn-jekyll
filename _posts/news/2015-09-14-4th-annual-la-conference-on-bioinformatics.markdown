@@ -6,7 +6,7 @@ author: LBRN
 
 <p class="text-error">April 1 - 2, 2016</p>
 
-<a href="{{ site.baseurl }}eventsbioinformatics-conference"><img src="{{ site.baseurl }}files/images/bio-conf/4thAnnual_poster_landscape_2016-02-16_sm.jpg"></a>
+<a href="{{ site.baseurl }}events/bioinformatics-conference"><img src="{{ site.baseurl }}files/images/bio-conf/4thAnnual_poster_landscape_links_2016-02-19sm.png"></a>
 
 We are happy to announce that the ***4th Annual Louisiana Conference on Computational Biology & Bioinformatics** will be held on **April 1 & 2, 2016** at Xavier University, New Orleans. The conference aims to expose Louisiana to the cutting edge of Computational Biology, Bioinformatics Research and Applications while also providing a platform for exchange of information and technical knowledge among Louisiana-based scientists involved in different aspects of computational biology & bioinformatics.
  
