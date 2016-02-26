@@ -16,7 +16,7 @@ We are very excited about this meeting and look forward tour enthusiastic partic
 
 ***Deadlines***
 
----**<font color="red"><b>February 26th, 2016</b> (updated)</font>	Presentation & Oral Abstract Submissions**<br>
+---**<font color="red"><b>February 28th, 2016</b> (updated)</font>	Presentation & Oral Abstract Submissions**<br>
 
 ---**<font color="red"><b>March 14th, 2016</b></font>	Registration and Hotel**
 
