@@ -4,7 +4,7 @@ title: LSU Computational Biology Seminar Series for Undergraduates
 author: LBRN
 ---
 
-<p class="text-error">March 10, 2016, LSU Life Sciences Auditorium Room 101 at 5pm-6pm, refreshments to follow.</p>
+<p class="text-error">Cancelled** March 10, 2016, LSU Life Sciences Auditorium Room 101 at 5pm-6pm, refreshments to follow.</p>
 
 <a href="{{ site.baseurl }}events/comp-bio/"><img src="{{ site.baseurl }}events/comp-bio/img/marx.jpeg"></a>
 
