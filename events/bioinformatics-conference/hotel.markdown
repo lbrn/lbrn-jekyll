@@ -10,7 +10,7 @@ title: Hotel Information
 Hotel Information
 
 <div class="well">
-  <p class="text-error">Provided at the <a href="https://www.google.com/search?client=safari&rls=en&q=SpringHill+Suites+New+Orleans+Downtown&ie=UTF-8&oe=UTF-8">Springhill Suites New Orleans Downtown Hotel</a>
+  <p class="text-error">Provided at the <a href="http://www.marriott.com/hotels/travel/msysh-springhill-suites-new-orleans-downtown/">Springhill Suites New Orleans Downtown Hotel</a>
     The deadline to get your name on the hotel block list that LBRN will established is the registration deadline. Details are in the registration form.
   </p>
 	  
