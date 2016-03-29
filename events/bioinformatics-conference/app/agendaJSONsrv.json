@@ -1,0 +1,186 @@
+{
+  "Sessions": {
+    "Sessions": [
+      {
+        "time": "1:00-1:10 pm",
+        "title": "Welcome and Opening Remarks",
+        "name": "Gus Kousoulas, PhD",
+        "session": "a"
+      },
+      {
+        "session": "a",
+        "time": "1:10-2:10 pm",
+        "title": "Recent advances in the bioinformatics of top down proteomics",
+        "name": "Richard LeDuc, PhD"
+      },
+      {
+        "session": "a",
+        "time": "2:10-2:30 pm",
+        "title": "Global transcript structure resolution of Epstein-Barr virus lytic transcriptome through multi-platform data integration",
+        "name": "Erik Flemington, PhD"
+      },
+      {
+        "name": "Alan Tackett, PhD",
+        "session": "a",
+        "time": "2:30-2:50 pm",
+        "title": "Reading the Histone Epigenetic Code of Melanoma with High Resolution Proteomics"
+      },
+      {
+        "session": "a",
+        "time": "2:50-3:10 pm",
+        "title": "Accurate Identification of disordered protein residues using deep neural network",
+        "name": "Sumaiya Iqbal"
+      },
+      {
+        "session": "a",
+        "time": "3:20-3:30",
+        "title": "Break",
+        "name": " "
+      },
+      {
+        "session": "b",
+        "time": "3:30-4:30 pm",
+        "title": "Computer simulation of embryonic systems",
+        "name": "Thomas Knudsen, PhD"
+      },
+      {
+        "session": "b",
+        "time": "4:30-4:50 pm",
+        "title": "An Eclectic Energy Function to Discriminate Native from Decoys",
+        "name": "Avdesh Mishra"
+      },
+      {
+        "session": "b",
+        "time": "4:50-5:10 pm",
+        "title": "The Modularity and Dynamicity of miRNA-mRNA Interactions in High-Grade Serous Ovarian Carcinomas and the Prognostic Implication",
+        "name": "Kun Zhang, PhD"
+      },
+      {
+        "session": "b",
+        "time": "5:10-5:30 pm",
+        "title": "A Hybrid Evolutionary Feature Selection Method for Microarray Data",
+        "name": "Denson G Smith"
+      },
+      {
+        "session": "b",
+        "time": "5:30-5:50 pm",
+        "title": "The Functional and Molecular Effects of Doxycycline Treatment on B. burgdorferi Phenotype",
+        "name": "Monica Embers, PhD"
+      },
+      {
+        "session": "b",
+        "time": "5:50-6:00 pm",
+        "title": "Break",
+        "name": " "
+      },
+      {
+        "session": "b",
+        "time": "6:00-7:00 pm",
+        "title": "Next-Gen HPA Infrastructure for Genomic Medicine",
+        "name": "Frank Lee, PhD"
+      },
+      {
+        "session": "b",
+        "time": "7:15-9:15 pm",
+        "title": "Poster Sessions",
+        "name": "Dinner"
+      },
+      {
+        "session": "w",
+        "time": "8:30-9:00am",
+        "title": "Continental Breakfast",
+        "name": " "
+      },
+      {
+        "session": "w",
+        "time": "9:00-10:15 am",
+        "title": "Workshop on the use of LSU-Delta Cluster",
+        "name": "Nayong Kim PhD, J Ram Ramanujam PhD, Seung-Jong Park PhD, Joohyun Kim PhD, John Caskey PhD"
+      },
+      {
+        "session": "w",
+        "time": "10:15-10:30 am",
+        "title": "Break",
+        "name": " "
+      },
+      {
+        "session": "c",
+        "time": "10:30-11:30 am",
+        "title": "Modeling Membrane Proteins from Limited Experimental Data",
+        "name": "Jens Meiler, PhD"
+      },
+      {
+        "session": "c",
+        "time": "11:30-11:50 am",
+        "title": "Biomedical Data Visualization: Free Tools and Solutions",
+        "name": "Urska Cvek, PhD"
+      },
+      {
+        "session": "c",
+        "time": "11:50am-12:10pm",
+        "title": "Miniproteins from plants: An inspiration for drug design",
+        "name": "Seetharama D Jois, PhD"
+      },
+      {
+        "session": "c",
+        "time": "12:10-12:30 pm",
+        "title": "Identification Of Disease Biomarkers Via Integrated Analysis Of Longitudinal Clinical and Genomic Data",
+        "name": "Michelle R Lacey, PhD"
+      },
+      {
+        "session": "c",
+        "time": "12:30-12:50 pm",
+        "title": "Milk Microbiome produced by women living in a leprosy-endemic region of the Central African Republic",
+        "name": "Diana L Williams, PhD"
+      },
+      {
+        "session": "c",
+        "time": "12:50-1:30 pm",
+        "title": "Enhancing bioinformatics analysis with social communities and expertise profiles, Jason Moore",
+        "name": "Lunch"
+      },
+      {
+        "session": "d",
+        "time": "1:30-2:30 pm",
+        "title": "The Use of Electronic Health Records in Translational Research: Don’t Forget about the Phenome or Forget about the Phenome?",
+        "name": "James Cimino, MD"
+      },
+      {
+        "session": "d",
+        "time": "2:30-2:50 pm",
+        "title": "REACHnet:  An Integrated Clinical Data and Patient Engagement Infrastructure to Support Collaborative Research",
+        "name": "Thomas W Carton"
+      },
+      {
+        "session": "d",
+        "time": "2:50-3:10 pm",
+        "title": "Integrative Bioinformatics Strategies for Mapping the Genomic Landscape of Triple Negative Breast Cancer",
+        "name": "Chindo Hicks, PhD"
+      },
+      {
+        "session": "d",
+        "time": "3:10-3:30 pm",
+        "title": "Break",
+        "name": " "
+      },
+      {
+        "session": "d",
+        "time": "3:30-3:50 pm",
+        "title": "RNA-Seq based transcriptional profiling of leprosy -susceptible and -resistant armadillos for early detection of leprosy",
+        "name": "Pushpendra Singh, PhD"
+      },
+      {
+        "session": "d",
+        "time": "3:50-4:10 pm",
+        "title": "Determining an influenza vaccine strain using genomic sequence",
+        "name": "Xiu-Feng (Henry) Wan, PhD"
+      },
+      {
+        "session": "d",
+        "time": "4:15-4:30 pm",
+        "title": "Closing Remarks",
+        "name": "Acknowledgement"
+      }
+    ]
+  }
+}

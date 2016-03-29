@@ -1,0 +1,385 @@
+{
+	"Presenters": [
+{
+"Name": "Mr. Avdesh  Mishra",
+"Position": "Graduate Research Assistant",
+"Institution": "University of New Orleans",
+"PosterOrTalk": "Poster",
+"Title": "An Eclectic Energy Function to Discriminate Native from Decoys",
+"Abstract": "Protein structure prediction, protein design and protein-protein interaction prediction are extraordinarily complex problems that are put forth by the rapidly advancing field of computational biology and bioinformatics. The existing complexity is due to two main reasons, the large conformational space sampling and the objective to recognize the native structure from the ensemble of sampled conformations. The method of conformation space sampling can actually generate infinite number of near native protein structures known as decoys. An accurate potential function is critically important to rank the native or the most native-like structure top of the decoy-sets and thus can help guide the search process. The accuracy of the potential function depends on various factors such as interaction distance between atom pairs, hydrophobic and hydrophilic properties of amino acids which mimics the shape, sequence-specific information obtained from the sequence of amino acids that carries information embedded in the protein sequence, the geometry of the protein molecules, the orientation-dependent interactions between atoms and the optimization techniques. Towards this goal, we develop a new potential function, which is a linearly weighted accumulation of such energy components. Furthermore, the linearly weighted accumulation as well as the weight of contributions of distance bins of energy score libraries are optimized using a Genetic Algorithm (GA). The optimized weights of the accumulation and distance bins are obtained by GA optimization using optimization dataset. Based on independent test dataset, the proposed energy function outperformed state-of-the-art approaches significantly.",
+"CoAuthors": [
+"Avdesh Mishra, Sumaiya Iqbal, Md Tamjidul Hoque  "],
+"CoAuthorsInst": [
+"University of New Orleans"]
+},
+{
+"Name": "Dr. Chindo  Hicks",
+"Position": "Professor",
+"Institution": "LSUHSC New Orleans",
+"PosterOrTalk": "Poster",
+"Title": "An Integrative Bioinformatics Approach for Decoding the MicroRNA-mRNA Regulatory Landscape in Prostate Cancer",
+"Abstract": "Prostate cancer is the most commonly diagnosed type of cancer in men and the second most common cause of cancer-related death in men in the United States. Despite remarkable progress in diagnosis, treatment and patient management made over the last several decades, significant challenges remain. One of the more significant challenges is the discovery of molecular markers with sensitivity and specificity to accurately distinguish less aggressive from highly aggressive tumors. Advances in genotyping and next generation sequencing (NGS) technologies have enabled discovery of single nucleotide polymorphisms (SNPs) and mutations associate with an increased risk of developing prostate cancer. However, majority of SNPs and mutations identified thus far map to noncoding regions with unknown functions. Noncoding RNAs specifically microRNAs, regulate gene (mRNA) expression and therefore represent potential clinically actionable biomarkers. Here we leveraged SNP and mutation information and integrated it with miRNA and mRNA to identify miRNA-mediated signatures, molecular networks and biological pathways. First, we analyzed genotype data from 300,000 cases and 300,000 control samples; and sequence data from 200 cases and 200 controls samples to catalogue SNPs and mutations mapped to noncoding regions and specifically miRNAs. We integrated SNP and mutation information with miRNA and mRNA expression data from 300 cases and 200 controls. The analysis revealed miRNA-mediated molecular signatures, molecular networks and biological pathways enriched for SNPs and mutations driving the prostate cancer phenotypes. Among the identified pathways included the IGF-1, JAK, STAT, androgen biosynthesis and androgen signaling pathways. Integrating genotype and sequence information with miRNA and mRNA expression data represents a systems approach to discovery of potential clinically actionable biomarkers and therapeutic targets in prostate cancer. ",
+"CoAuthors": [
+"1Chindo Hicks, 2Ritu Bhalla and 3Ritika Ramani"],
+"CoAuthorsInst": [
+"1Department of Genetics, Louisiana State University Health Sciences Center, New Orleans, LA 70012;    2Department of Pathology, Louisiana State University Health Sciences Center, New Orleans, LA 70012;    3Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor NY 11724.  "]
+},
+{
+"Name": "Mr. Pravin  Parajuli",
+"Position": "PhD student",
+"Institution": "University of Louisiana at Monroe",
+"PosterOrTalk": "Poster",
+"Title": "Assessment of protein-protein interaction inhibition between CD2-CD58 proteins by grafted cyclotides using molecular docking.",
+"Abstract": "CD2-CD58 interaction inhibition can prevent progression of autoimmune diseases. In this project we have designed and characterized stable, small CD2 protein derived peptide molecules with the grafted cyclotide technique. These grafted cyclotides are expected to inhibit CD2-CD58 protein-protein interaction. Cyclotide grafting strategy was used to improve thermal and enzymatic stability to the molecule. Sun flower trypsin inhibitor (SFTI) and Rhesus theta defesin (RTD) were used as a cyclotide framework structures for grafting of previously established cyclic peptide sequences. Five different grafted sequences designed using YASARA molecular modeling software. Evaluation of the protein-protein interaction inhibition activity of cyclotides, elucidation the stability profile of the cyclotides and determination of the rational model of grafted cyclotide binding activity by docking are some of the objectives of this project. Protein-protein interaction inhibition activity was evaluated by a lymphocyte-epithelial cell adhesion assay. Among five different grafted cyclotides, SFTIa showed promising cell adhesion inhibitory activity (IC50 ~ 100 nM). Stability of SFTIa was evaluated in human serum for 72 hours and for thermal stability, the change in ellipticity (Circular Dichroism) data was used after gradual increase of sample temperature from 25 to 85 C. To determine the virtual binding of these designed molecules to the CD58 and CD48 (protein present in rodents having 60% homology to CD58) protein structures, Autodock software was used. Lowest docked energy structures were analyzed after scoring. Results of docking showed SFTIa (grafted cyclotide) binds to the CD58 and CD48 proteins with relatively low binding energies. These results are in correlation of the experimentally observed cell adhesion inhibition by the peptide SFTIa. The research work was supported by funding from Louisiana Campuses Research Initiative (LACRI, ULM-LSU-Ag Center).",
+"CoAuthors": [
+"R Sable1, Thomas Durek2, David Craik2 and Seetharama Jois1"],
+"CoAuthorsInst": [
+"1 Department of Basic Pharmaceutical Sciences, College of Pharmacy, University of Louisiana at Monroe LA 71201.  2 Institute for Molecular Bioscience, The University of Queensland, St. Lucia, Australia"]
+},
+{
+"Name": "Dr. Hye-Young  Kim",
+"Position": "Associate Professor of Physics",
+"Institution": "Southeastern Louisiana University",
+"PosterOrTalk": "Poster",
+"Title": "Computational Biomaterial Research at a Primarily Undergraduate Institution",
+"Abstract": "The state-of-the-art research projects in computational biomaterial science are performed solely involving undergraduate students. Various methods and tools are utilized in the research, such as GROningen Machine for Chemical Simulations (GROMACS), Visual Molecular Dynamics (VMD), Automated Topology Builder (ATB), Versatile Object-Oriented Toolkit for Coarse Grained Applications (VOTCA), and FORmula TRANslation (FORTRAN). Students are exposed to the Linux Operating Systems using workstations in the research lab and also the supercomputing systems at Louisiana Optical Network Initiative (LONI). The progress and outcomes of large-scale computer simulation study will be presented.  Acknowledgement: National Institute Of General Medical Sciences of the National Institutes of Health under Award Number P20GM103424 (Kim). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. Computational resources were provided by the Louisiana Optical Network Initiative (http://www.loni.org).  ",
+"CoAuthors": [
+"Bijay Shrestha, Binaya Bajgain, Cameron Dean"],
+"CoAuthorsInst": [
+"Department of Chemistry and Physics, Southeastern Louisiana University, Hammond, LA"]
+},
+{
+"Name": "Mr. Phillip C Kilgore",
+"Position": "Research Scientist",
+"Institution": "Louisiana State University-Shreveport",
+"PosterOrTalk": "Poster",
+"Title": "Computationally Assessing the Gut Microbiome in ATLAS Model Primates",
+"Abstract": "The relationship between gut flora and disease state has a subject of intense study over the last decade, and it is experimentally demonstrated that composition of microbiota quickly responds to environmental changes.  Although lymphatic obstruction is known to contribute to inflammatory bowel diseases (IBDs) and Crohn's Disease (CD), the influence of lymphatic inflammatory complications on the composition of the gut microbiome is presently unknown.   We utilized the African green monkey (a non-human primate) as a model of IBDs with a protocol called ATLAS (African green monkey truncation of lymphatics with obstruction/sclerosis). Illumina's 16S rRNA metagenomics assay was used to characterize the microbiota of subjects prior to surgery and at 7, 21, and 60 days post-surgery; we then characterized the relative contributions of species involved each time period and found that significant differences between the control vs. 7- and 60-day samples.   We first used NCBI Taxonomy to determine taxonomic relationships between constituents of the sample microbiota. A heatmap was then constructed to visualize the relative abundances the 85% most-abundant species across all samples; normalization was used to account for differences in signal strength between samples. The samples were collapsed into a group-wise aggregate, and statistical analysis was run utilizing one-way ANOVA and Principal Coordinates Analysis.   We found that in the 7-day cohort, Prevotellaceae (which was represented in the plurality in pre-surgery) had thrived in the post-surgery environment; however, by day 60, this dominance was lost to Sphingobacteria and Spirochaetes. These findings report a linkage between lymphatic structure-function changes to microbiome alterations in the pathophysiology of IBD/CD.",
+"CoAuthors": [
+"J. S. Alexander, U. Cvek, F. Becker, R. S. Scott, F. N.E. Gavins, J. Fontenot, M. Boktor, E. Friday, P. Polk, M. Musso, E. Romero, S. Boudreaux, J. Simmons, J.E. Goetzmann, D. Hasselschwert"],
+"CoAuthorsInst": [
+"LSU HSC Shreveport, LSU School of Medicine, University of Münster, New Iberia Research Center, Feist-Weiler Cancer Center, Office of Research"]
+},
+{
+"Name": " Himgauri Vilas Naik",
+"Position": "Graduate Student (Phd) ",
+"Institution": "University of Louisiana at Monroe",
+"PosterOrTalk": "Poster",
+"Title": "Design Of A Novel Peptidomimetic-Lipid Conjugate That Inhibits Egfr Heterodimerization. ",
+"Abstract": "Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. The extracellular domain of EGFR consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Overexpression of these receptors or upon binding of ligand to these receptors leads to homo-and hetero-dimerization of these receptors. We have designed several peptidomimetic molecules to inhibit the EGFR heterodimerization interaction that have shown antiproliferative activity and specificity for HER2 positive cancer cell lines. One particular peptidomimetic exhibited antiproliferative activity in the lower nanomolar range concentration in HER2 overexpressing lung cancer cell line. To improve the stability of this peptidomimetics, we have designed and synthesized a novel D-amino acid based peptidomimetics attached a lipid stearic acid and evaluated their antiproliferative activity. Using docking studies (AUTODOCK), we will show the possible binding sites of these peptidomimetics on domain IV of HER2. These lipidized peptides will be therapeutically useful for HER2 positive breast and lung cancer. This research was supported by funding from NCI/NIH (R15 CA188225-01A1).",
+"CoAuthors": [
+"Himgauri Naik, Seetharama Jois.  Department of Basic Pharmaceutical Sciences, School of Pharmacy, University of Louisiana at Monroe LA 71201.  "],
+"CoAuthorsInst": [
+""]
+},
+{
+"Name": "Ms. Leeza   Shrestha",
+"Position": "Phd student",
+"Institution": "University of Louisiana at Monroe",
+"PosterOrTalk": "Poster",
+"Title": "Design of a peptidomimetic with change in chirality to target HER2 protein: Implications in breast and lung cancer.",
+"Abstract": "Overexpression EGFR receptors or upon binding of ligand to these receptors leads to homo-and hetero-dimerization of EGFR proteins. We have designed several peptidomimetic molecules to inhibit the EGFR heterodimerization interaction that have shown antiproliferative activity and specificity for HER2 positive cancer cell lines. One particular peptidomimetic exhibited antiproliferative activity in the lower nanomolar range concentration in HER2 overexpressing lung cancer cell line. To improve the serum stability of the peptidomimetic and to stabilize the secondary structure we designed peptidomimetics with Pro-Pro sequence and changed the chirality of amino acids. Antiproliferative activity of these peptides in HER2 expressing cancer cell lines indicated that change in chirality had an effect on antiproliferatiev activity. To understand the structural changes of peptidomimetics associated with chirality and specificity for HER2 protein, we modeled these peptidomimetics and docked the peptidomimetics to HER2 protein using computational methods. A correlation was observed between the observed antiproliferative activity and orientation of side chains of the peptidomimetic in the 3D structure of the peptidomimetics. This research was supported by funding from NCI/NIH (R15 CA188225-01A1).",
+"CoAuthors": [
+"Shanthi Kanthala, Seetharama D. Jois"],
+"CoAuthorsInst": [
+"Department of Basic Pharmaceutical Sciences, School of Pharmacy,   University of Louisiana at Monroe,   Monroe LA, 71201.  "]
+},
+{
+"Name": "Dr. Joohyun  Kim",
+"Position": "Research Scientist",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Poster",
+"Title": "Developing Big Data Scale Translational Research Infrastructure with DELTA:  I. A Novel Massively Scalable Transcriptome Pipeline  ",
+"Abstract": "We introduce a translational research cyberinfrastructure with which Big Data-scale biological and clinical research primarily utilizing multi-omics data sets is enabled.  We also introduce DELTA, a new IBM Power8-based cluster system whose architecture is designed to be suitable for data-intensive computing as well as High-performance computing requirements for targeted multi-omics applications.  DELTA is expected to play a key role for the entire cyberinfrastructure supporting the research platform.  Leveraged by the capacity of DELTA and IBM proprietary middleware software stacks, the translational research platform is built around tranSMART, an open source software suite for biomedical data integration and repository.  Current design strategies and progress made to date are described.  In this work, we present in particular our recent development outcome on the novel transcriptome pipeline. The new pipeline, DARE-NGS/Trans, highlights a novel strategy to carry out massive scale RNA-seq data analytics, which will be incorporated into our translational research platform.  This pipeline is one of many back-end data analytics components we plan to develop for the tranSMART-based platform.",
+"CoAuthors": [
+"Joohyun Kim(a), Shayan Shams(a,b), Nayong Kim(a), Vladimir Chouljenko(c), Ramesh Subramanian(c), Ram Ramanujam(a,d), Gus Kousoulas(c), and Seung-Jong Park(a,b)  "],
+"CoAuthorsInst": [
+"Louisiana State University-Baton Rouge"]
+},
+{
+"Name": "Ms. Marilyn  Ndukwe",
+"Position": "Undergraduate Student",
+"Institution": "Xavier University of Louisiana",
+"PosterOrTalk": "Poster",
+"Title": "In Silico Development of Novel Isoform Selective LXR Agonist Ligands  ",
+"Abstract": "Computational simulations of protein-ligand complexes are used to estimate the binding affinities of several potential ligands of the liver X receptors. There are two isoforms of this receptor, both with very similar binding pockets. A computational approach is an effective way to tests potential isoform-selective agonists for liver X receptor (LXR) and its two isoforms α and β, especially for designing pharmaceuticals for atherosclerosis, colon cancer, and other diseases. It has been  observed  that  nonselective  agonists  lower  serum  cholesterol  levels  and also tend to raise triglyceride levels in the liver, which can lead to serious medical issues,  while  LXR -selectiveβ   agonists  tend  to  lower  cholesterol  levels  without affecting triglyceride levels; thus, there is a strong drive to develop selective liver X receptor modulators (SLiMs) whose action is different in various tissues. Binding affinities for some ligands to LXRα and LXRβ is calculated to confirm their selectivity.",
+"CoAuthors": [
+"Dr. Kevin Riley, Dr. Jayalakshmi Sridhar, Dr. Rajesh Komati"],
+"CoAuthorsInst": [
+"Xavier University of Louisiana"]
+},
+{
+"Name": "Ms. Ashley  Veatch",
+"Position": "Graduate Student",
+"Institution": "Tulane University",
+"PosterOrTalk": "Poster",
+"Title": "Mimicking in vivo stress conditions elicit differential responses from several strains of M. tuberculosis (Mtb)",
+"Abstract": "~1/3 of the human population is infected with Mtb, the causative agent of tuberculosis (TB). While most infections are latent, 1.3M people die due to TB per year. Mtb is able to evade killing by phagocytes, survive in a dormant state within the granuloma, and able to re-activate to infect the next host. Phagocytes attempt to kill Mtb by using methods such as low pH and oxidative stress. Appropriate response to stress is key to Mtb's survival. Of the major Mtb lineages, East Asian is associated with hyper virulence and lower immune responses. We hypothesized variable virulence in Mtb strains may be due to differences in stress response. Thus, we studied responses of Mtb strains CDC1551 (low virulence Euro Am), Erdman (high virulence Euro Am) and HN878 (high virulence East Asian) to hypoxia and oxidative stress using RNAseq. These strains are differentially susceptible to hypoxia and oxidative stress, correlating with virulence. High virulence strains Erdman and HN878 exhibit greater fitness in hypoxia, able to replicate significantly better relative to CDC1551 in an in-vitro model of reactivation. During hypoxia the expression of i) a higher than expected number of tRNAs were induced in all strains, pointing to an potential role for tRNAs in stress response; ii) greater than expected PE/PPE genes were down regulated in high virulence Mtb and iii) lipid biosynthesis genes weren't enriched in the induced bin in the high virulence strains. Reactivation to a higher degree may lead to a greater infectivity to the next host. Our results show increased fitness in response to hypoxia imparts a greater degree of reactivation on high virulence Mtb and this response may explain the higher virulence of Erdman and HN878. CDC1551 is highly susceptible to thiol oxidative stress while Erdman is resistant, with HN878 exhibiting an intermediate phenotype. Efficient phagocyte mediated killing of low virulence Mtb CDC1551 can explain its lower virulence as well as higher immunogenicity.",
+"CoAuthors": [
+"A. V. Veatch1, J. Caskey2, S. Mehra2, and D. Kaushal1"],
+"CoAuthorsInst": [
+"1 Division of Bacteriology & Parasitology, Tulane National Primate Research Center, Covington, LA, USA, 2 Department of Pathobiology, LSU School of Veterinary Medicine, Baton Rouge, LA, USA  "]
+},
+{
+"Name": "Mr. Sitanshu S Singh",
+"Position": "Graduate Assistant",
+"Institution": "University of Louisiana at Monroe",
+"PosterOrTalk": "Poster",
+"Title": "Molecular Docking Studies Of Doxorubicin-Peptidomimetic Conjugates For Site Specific Delivery Of Drugs For Cancer By Targeting Her2 Protein",
+"Abstract": "Doxorubicin (DOX) is the cornerstone in the therapy of many carcinoma types. Unfortunately, the cytostatic effect of DOX in therapeutic doses is frequently insufficient; however, the use of higher DOX doses is limited by the development of systemic toxicity, especially cardiotoxicity. Many approaches have been used to deliver doxorubicin to the active site by conjugating the drug with peptides, antibodies, hormones, etc. In the current approach, we have attempted to conjugate doxorubicin to a peptidomimetic that is highly specific for HER2 positive cancer cells. The peptidomimetic we have designed (compound 5) is known to bind to extracellular domain of HER2 and inhibit protein-protein interaction of human epidermal growth factor receptors. Different strategies were used to synthesize the conjugate of compound 5 with doxorubicin. To optimize the linkage of doxorubicin to peptidomimetic we used computational docking method. Using the crystal structure of HER2 with 620 amino acid residues of the extracellular domain that represents domain IV of HER2, different conjugates with or without linkers were docked using AUTODOCK software to the region around domain IV.  The lowest energy docked conjugate was synthesized in the lab using manual solid-phase synthesis method. Antiproliferative assay results indicate conjugate is having potency along with selectivity. Surface plasmon resonance (SPR) experiment suggests that conjugate binds to the HER2 domain IV. Confocal microscopy images suggest conjugate can successfully enters the cells. Cell cycle analysis performed using flow-cytometry shows that conjugate inhibited the cell cycle progression. In conclusion, conjugate was successfully synthesized with glutaric anhydride as a linker. This novel conjugate has antiproliferative activity along with selectivity. Funding for this research was from NIH through the National Institute of General Medical Sciences grant 8P20GM103424 and from NCI/NIH R15CA188225-01A1.",
+"CoAuthors": [
+"1Sandeep Pallerla, 2Ted Gauthier, 1Seetharama Jois  "],
+"CoAuthorsInst": [
+"1 Department of Basic Pharmaceutical Sciences, School of Pharmacy, University of Louisiana at Monroe, Monroe LA, 71201    2 LSU Ag Center, Louisiana State University, Baton Rouge, LA, 70803      "]
+},
+{
+"Name": "Dr. Waneene C Dorsey",
+"Position": "Professor",
+"Institution": "Grambling State University",
+"PosterOrTalk": "Poster",
+"Title": "Ras/Mitogenic-Activated Protein Kinase (MAPK) Pathway Implicated in AML 12 Mouse Hepatocytes Exposed to Pentachlorophenol    ",
+"Abstract": "GTPases, collectively known as G proteins, are cellular regulators that mimic molecular switches on the cytoplasmic side of the plasma membrane.   Ras is a small G protein that is involved in transmitting incoming signals to downstream signaling molecules and is intimately linked to cell proliferation, differentiation, and survival.  Once the active GTP-bound form of Ras is triggered, it operates as a molecular switch that can initiate distinct signal transduction pathways.  ERK is a discrete tier in the Mitogen-Activated Protein Kinase (MAPK) pathway by which Ras is able to transmit signals to the nucleus. Once this happens, it is believed that the heterodimeric AP-1 complex orchestrates proliferation and differentiation. The Ras/MAPK pathway has been implicated as a key signal transducing system that mediates extracellular signals through a cascade of phosphorylation.  Ras mutation through signal disruption is seen in many tumor types, including roughly half of all colon cancers and 90% of pancreatic carcinomas.  Pentachlorophenol (PCP) is an organochlorine compound that has been widely used as a biocide in several industrial, agricultural, and domestic applications. PCP is a Group B2 carcinogen and causes injury to major organs including the lung, liver, kidneys, heart, and brain. Previous investigations from our laboratory have shown that in human liver carcinoma (HepG2) cells and AML 12 mouse hepatocytes, PCP has the ability to induce oxidative stress and inflammatory response (c-fos), growth arrest and DNA damage (GADD153), proteotoxic effects (HSP70), cell cycle arrest as consequence of DNA damage (p53), and apoptosis (caspase-3).  We have also shown that at low levels of exposure, PCP can provoke a mitogenic response in HepG2 cells, AML mouse hepatocytes, and primary catfish hepatocytes.  In the present study, we hypothesized that the Ras/MAPK cascade is likely to be involved when AML mouse hepatocytes are exposed to low levels of PCP.  AML 12 mouse hepatocytes were treated with 10 μg/mL and 25 μg/mL concentrations of PCP.  Upon 48-hr of exposure, a dose-dependent up-regulation of the 32-kDa Ras protein was detected at 10 μg PCP/mL in PCP-treated AML 12 mouse hepatocytes cells.  Ras protein identification was assessed following exposure incubation period of 48-hr. Inset shows representative Western blot analysis. Densitometric analysis shows an increase in Ras  protein at an abundance of 62,626 at 10 μg PCP/mL.    ",
+"CoAuthors": [],
+"CoAuthorsInst": []
+},
+{
+"Name": "Dr. Pushpendra  Singh",
+"Position": "Sr Postdoctoral Researcher and Visiting Scientist",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Poster",
+"Title": "RNA-Seq based transcriptional profiling of leprosy -susceptible and -resistant armadillos for early detection of leprosy",
+"Abstract": "Background: Early detection of leprosy progression can reduce disease transmission but there are no tests for that. The nine-banded armadillo is the only animal that recapitulates all aspects of human leprosy. While the majority of the armadillos develop disseminated disease within 2 years of experimental infection, approximately 20% of the animals can resist high-dose experimental inoculation. This differential leprosy susceptibility of armadillos presents a valuable analogy for identifying biomarkers of leprosy progression by comparing the transcriptional profiles of leprosy susceptible armadillos against the resistant ones using RNA-Sequencing.   Methods: Six armadillos were inoculated with a billion live M. leprae bacilli and their PBMCs were collected and cryo-preserved at the 4th and 18th month post-infection. All animals were monitored for the M. leprae specific antibody titers using ELISA. In our preliminary RNA-Seq experiments, the cryo-preserved PBMCs from 4th month time point were stimulated with various M. leprae antigens and RNA was extracted, followed by library preparation for RNA-Sequencing. Initially one set of libraries representing a resistant and a susceptible animal was sequenced using paired-end Illumina reads.   Results and conclusions: Four animals progressed to disease within 2 years of infection, while two remained resistant. RNA-Seq data revealed 270 differentially expressed genes at a cut-off of 4 fold (161 genes up- and 109 down-regulated in resistant animals). These involve host innate immunity and regulation related genes, especially those associated with cell migration (CEMIP) and receptor-function (IGF2R, IGFLR1, MRC1, TLRs, IL22RA1, IFNLR1). Further study using biological replicates can help identify candidate genes and pathways in susceptible and resistant hosts. This can reveal characteristic host transcriptional signatures associated with leprosy progression vs protection and enable early detection of leprosy.  ",
+"CoAuthors": [
+"Pushpendra Singh,   Maria Pena,   Rahul Sharma,   John Caskey,   Richard Truman.    "],
+"CoAuthorsInst": [
+"Laboratory Research Branch, National Hansen's Disease Program, LSU-SVM, Baton Rouge, LA, USA.    Pathobiological Sciences, Louisiana State university- School of Veterinary Medicine, Baton Rouge, LA, USA."]
+},
+{
+"Name": "Ms. Lana  Thaljeh",
+"Position": "Undergraduate Researcher",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Poster",
+"Title": "Targeting Virus DNA-packaging Motor for Rational Drug Design",
+"Abstract": "Developing anti-viral drugs poses major difficulties due to the fact that viruses replicate by hijacking the host cell machinery. Therefore, finding suitable protein targets to inhibit the lifecycle of viruses without affecting the host is a challenging task. With the advent of genomics and proteomics, our understanding of the structure and function of viral proteins has greatly expanded leading to the successful development of new antiviral agents. These drugs can be classified based on the mechanism of interference with various stages of the virus lifecycle. The entry of the virus into host cells can be inhibited by interrupting the attachment (enfuvirtide), fusion (VIRIP), and uncoating of the virus (rimantadine). Another group of drugs interfere with viral replication and protein synthesis by inhibiting viral polymerases (acyclovir), nucleoside reverse transcriptases (tenofovis), and integrases (raltegravir). Drugs acting on viral spread (oseltamivir) prevent the release of virus particles from host cells. In addition, the assembly of viral capsids and DNA packaging hold a significant potential for drug development, however, compounds interrupting the assembly of viral particles are yet to be discovered. This is in part due to lack of molecular structures of many viral proteins. Our goal is to construct atomistic models of the entire DNA packaging machinery for selected members of the herpesvirus family, cytomegalovirus virus (CMV) and herpes simplex virus 1 (HSV-1). These models will be subsequently used to identify putative target sites for pharmacotherapy focusing on terminase subunit 1, pUl89 (CMV), and pUl56 (HSV-1). Here, we describe structure modeling and functional annotation of homology-based models of pUl89 and pUl56, including the identification and characterization of putative binding sites for ATP and DNA. These confident models will be ultimately used to carry out structure-based virtual screening for the rational design of new antiviral agents.",
+"CoAuthors": [
+"Misagh Naderi, Michal Brylinski"],
+"CoAuthorsInst": [
+"Computational Systems Biology, Louisiana State University "]
+},
+{
+"Name": "Dr. Kun  Zhang",
+"Position": "Associate Prof.",
+"Institution": "Xavier University of Louisiana",
+"PosterOrTalk": "Poster",
+"Title": "The Modularity and Dynamicity of miRNA-mRNA Interactions in High-Grade Serous Ovarian Carcinomas and the Prognostic Implication",
+"Abstract": "Ovarian carcinoma is the fifth-leading cause of cancer death among women in the United States. Major reasons for this persistent mortality include the poor understanding of the underlying biology and a lack of reliable biomarkers. Previous studies have shown that aberrantly expressed MicroRNAs (miRNAs) are involved in carcinogenesis and tumor progression by post-transcriptionally regulating gene expression. However, the interference of miRNAs in tumorigenesis is quite complicated and far from being fully understood. In this work, by an integrative analysis of clinically annotated multi-omics data published by The Cancer Genome Atlas, we studied the modularity and dynamicity of miRNA-mRNA interactions and the prognostic implications in high-grade serous ovarian carcinomas. With the top transcriptional correlations (Bonferroni-adjusted p-value < 0.01) as inputs, we identified five miRNA-mRNA module pairs (MPs), each of which included one positive-connection (correlation) module and one negative-connection (correlation) module. Among the four major negative-connection modules, three fit well with the widely accepted miRNA-mediated post-transcriptional regulation theory. These modules were enriched with the genes relevant to cell cycle and immune response. Moreover, we proposed two novel algorithms to reveal the group or sample specific dynamic regulations between these two RNA classes. The obtained miRNA-mRNA dynamic network contains 3350 interactions captured across different cancer progression stages or tumor grades. We found that those dynamic interactions tended to concentrate on a few miRNAs (e.g.  miRNA-936), and were more likely present on the miRNA-mRNA pairs outside the discovered modules. In addition, we also pinpointed a robust prognostic signature consisting of 56 modular protein-coding genes, whose co-expression patterns were predictive for the survival time of ovarian cancer patients in multiple independent cohorts.",
+"CoAuthors": [
+"Wensheng Zhang1, Andrea Edwards1, Wei Fan2, Erik K. Flemington3, Kun Zhang1    "],
+"CoAuthorsInst": [
+"1 Department of Computer Science, Xavier University of Louisiana, 1 Drexel Drive, New Orleans LA 70125  2 Big Data Lab, Baidu Research, 1195 Bordeaux Dr., Sunnyvale, CA 94089  3Tulane Health Sciences Center, Tulane Cancer Center, Tulane University, 1700 Tulane Ave, New Orleans, LA 70112"]
+},
+{
+"Name": "Dr. Tanja  Milosavljevic",
+"Position": "Instructor Research",
+"Institution": "LSUHSC New Orleans",
+"PosterOrTalk": "Poster",
+"Title": "Two Novel Human Vein Model Systems For Studying The Angiogenic Switch In Vitro",
+"Abstract": "Background: The angiogenic switch occurs when endothelium is converted from a quiescent to a proliferative (angiogenic) state. A significant obstacle to the elucidation of molecular mechanisms regulating physiologic angiogenesis is the lack of appropriate human tissue-based experimental model systems. We hypothesized to identify the gene changes associated with the angiogenic switch utilizing two novel in vitro model systems.    Methods: Following dissection, an arbitrary segment of vein [human placental vein (hPV) and adult inferior vena cava (IVC)] tissue was preserved in RNAlater as a representative quiescent (Cntr) sample. From the remaining tissue, 2 mm disks were created and placed into the 3D fibrin-thrombin clot per our proprietary in vitro human vein angiogenesis model. Only vein disks with well-developed neovessels (AI ≥8) were collected in RNAlater on day 14, which represent the angiogenic (Ang) vein. High quality RNA was extracted from all vein disks using TRIzol and RNeasy Mini kit. Genes were identified and their expression levels assessed by Illumina microarray and TaqMan analysis.    Results: Gene expression profiles from five hPVs and seven IVCs were systematically compared and core gene sets were identified in each vein. Core genes are consistently differentially (Ang/Cntr) expressed in hPV (189 up-regulated, 188 down-regulated genes, 377 total) and in IVC (124 up-regulated, 121 down-regulated, 245 total) at least 2-fold (p<0.05). Intersection analysis of both data sets reveals 79 genes consistently regulated in all vein samples analyzed (MetaCore, p<0.05, ≥2x). This is the 'core angiogenic gene set' (CAGS).     Conclusions: Transition to angiogenic vein phenotype is mediated by a specific core angiogenic gene signature, CAGS. This study identifies those specific gene expression changes taking place during the angiogenic switch using two novel human vein model systems.      Key words: angiogenesis, angiogenic switch, human, placental vein, inferior vena cava  ",
+"CoAuthors": [
+"Milosavljevic T1*, Chouest E J1, Zabaleta J2, Anthony CE3, Woltering EA1    "],
+"CoAuthorsInst": [
+"1Department of Surgery, LSU Health New Orleans, LA, USA  2Department of Pediatrics, LSU Health New Orleans, LA, USA  3Research Communications Office, Markey Cancer Center, University of Kentucky Lexington, Kentucky  "]
+},
+{
+"Name": "Mr. Denson G Smith",
+"Position": "PhD candidate",
+"Institution": "University of New Orleans",
+"PosterOrTalk": "Talk",
+"Title": "A Hybrid Evolutionary Feature Selection Method for Microarray Data",
+"Abstract": "DNA microarray data allows the analysis of the expression level of thousands of genes simultaneously. This process can capture the current state of the gene regulation within a cell by capturing mRNA expressions, instead of tedious quantitate and qualitative measurement of protein expressions, which would have been more accurate measure of the cellular activities. As we are measuring the indirect interaction using mRNA expression, we therefore need to have robust approaches to infer the true statistics. This approach will make it possible to have clinically and/or scientifically useful predictions such as diagnosing diseases, the identification of tumor types and treatment selection. Many statistical classification methods are available for this type of task. Further, a central difficulty in such statistical classification is that, some of the features (variables) in the data may be irrelevant or redundant to the prediction task. Irrelevant and redundant data complicate and confound the classification process, therefore, it is desirable to identify and eliminate variables that are not useful for the classification task. The aim of this research is to propose a robust methodology for classifying DNA microarray data using feature selection, which is the process of identifying and eliminating features that are irrelevant or redundant. The proposed method performs effective feature selection to identify a subset of genes that best describe a disease. Two well-known DNA microarray datasets were used to validate the method.  ",
+"CoAuthors": [
+"Sumaiya Iqbal, Md Tamjidul Hoque"],
+"CoAuthorsInst": [
+"University of New Orleans"]
+},
+{
+"Name": "Ms. Sumaiya  Iqbal",
+"Position": "Graduate Research Assistant",
+"Institution": "University of New Orleans",
+"PosterOrTalk": "Talk",
+"Title": "Accurate Identification of disordered protein residues using deep neural network",
+"Abstract": "Association of intrinsically disordered proteins (IDPs) or regions (IDRs) of proteins with critical human diseases, including cancer, cardiovascular disease, amyloidoses, neurodegenerative diseases, and diabetes has urged their identification to be a crucial research in the area of bioinformatics and computational biology. About 80% of the human proteins found in the available disorder databases, such as DisProt and IDEAL, contain at least one amyloidogenic region that are directly linked with diseases such as Parkinson's diseases, Alzheimer's diseases or, type II diabetes. The aims of this research are to improve the current prediction accuracy of disordered protein residues from the protein sequence alone, and to investigate the intriguing interconnections among intrinsic disorder, cell signaling, and human diseases that can facilitate IDPs based drug discovery. With a view to this, we applied deep neural network to classify ordered versus disordered residues given a protein sequence information only. The deep network consisted of three hidden layers, each with 150 hidden nodes, and exponential activation function with the learning rate of 0.1. To make the deep network learn about disordered residues, we initially collected around sixty potential residue level features, and then applied a novel feature selection technique based on extra tree classifier with evolutionary algorithm to identify a subset of effective residue-features to be utilized in disorder prediction. To capture the neighboring residue information, we applied a sliding-windowing scheme on the selected subset of features. Based on independent test dataset, the new disorder protein predictor has been found to outperform the state-of-the-art approaches. Therefore, the developed tool can be very useful in studying disease related disordered proteins.",
+"CoAuthors": [
+"Denson Smith  Md Tamjidul Hoque  "],
+"CoAuthorsInst": [
+"University of New Orleans"]
+},
+{
+"Name": "Dr. Nayong  Kim",
+"Position": "Research Scientiest",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Talk",
+"Title": "Big Data Analysis on Power8 using Docker",
+"Abstract": "As the size of datasets continues to increase in size and complexity, hardware and software tools need to be created that can accommodate these changes.  The IBM Power8 hardware architecture is a groundbreaking new chip design, that when combined with Coherent Accelerator Processor Interface (CAPI), allows faster performance for memory and greater computation loads.  The Delta Cluster at LSU is a new High Performance Computing (HPC) cluster that uses IBM's Power8, and has several Bioinformatics pipeline software tools available as part of the IBM Platform Application Center (PAC).  One such tool is Docker, which is an open-source application platform that is in use by several companies already that handle massively large datasets, such as Illumina, Yelp, and Uber.  We have implemented Docker as part of the Power8 HPC cluster, and demonstrate how this can be used in Bioinformatics and Big Data Analysis pipelines.",
+"CoAuthors": [
+"John Caskey, Joohyun Kim, Nayong Kim, Shayan Shams, Seung-Jong Jay Park"],
+"CoAuthorsInst": [
+"Center for Computation and Technology, Louisiana State University,  Louisiana State University, Tulane National Primate Research Center, Tulane National Primate Research Center, Division for Biotechnology and Molecular Medicine, Louisiana State University"]
+},
+{
+"Name": "Dr. Urska  Cvek",
+"Position": "Professor and Director",
+"Institution": "Louisiana State University-Shreveport",
+"PosterOrTalk": "Talk",
+"Title": "Biomedical Data Visualization: Free Tools and Solutions",
+"Abstract": "The diversity and rapid growth in volume and diversity of data presents an increasing challenge for life scientists. Visualization of biological data is a branch of bioinformatics that focuses on the application of computer graphics, scientific and information visualization to different areas of life sciences, including visualization of sequences, genomes, alignments, phylogenies, systems biology, microscopy and magnetic resonance imaging data. These tools range from simple, standalone programs to complex, integrated systems. We present and discuss some of the most popular free visualization tools available to the life scientists.",
+"CoAuthors": [
+"Marjan Trutschl, Phillip Kilgore"],
+"CoAuthorsInst": [
+"LSU Shreveport"]
+},
+{
+"Name": "Dr. Xiu-Feng (Henry)  Wan",
+"Position": "Associate Professor",
+"Institution": "Other",
+"PosterOrTalk": "Talk",
+"Title": "Determining an influenza vaccine strain using genomic sequence",
+"Abstract": "Influenza A virus causes both pandemic and seasonal outbreaks, leading to loss of from thousands to millions of human lives within a short time period. Vaccination is the best option to prevent and minimize the effects of influenza outbreaks. Timely identification of emerging influenza virus antigenic variants is central to the success of influenza vaccination programs. Empirical methods to determine influenza virus antigenic properties are time-consuming and mid-throughput and require live viruses. Here, we present a novel computational method for determining influenza virus antigenicity and vaccine strain selection using genomic sequence. Based on our previous sparse learning method (Sun et al. 2013. mBio, 4(4)), an integrated method using temporal multi-task learning (TMTL) and the hierarchical sparse interaction modeling (HSIM) methods are developed for phenotype-genotype association study, especially, to identify amino acid residues associated with antigenic changes. TMTL overcomes the challenges of high data sparsity and low reactors in serological data and HSIM resolves the high-order interactions among multiple residues by utilizing the heredity structure in the feature sparsity. The resulting interactive residues can be those co-evolve during viral evolution and syngenetically determine viral antigenic drift. Weights are assigned to each predicted site, and a scoring function is developed to determine if a query virus be an antigenic variant based on its genomic sequence. We applied this method in the serologic data from 1968 to 2015, and a total 58 residues are identified. Among them, 46 residues are located in antibody binding sites A-E and 41 in important high-order interactions (co-mutations). Residues associated with the 15 previously known H3N2 antigenic clusters that led to a change of the H3N2 vaccine strain were identified. This method will be useful in influenza vaccine strain selection by significantly reducing the human labor efforts for serological characterization and will increase the likelihood of correct influenza vaccine candidate selection, and it can also be useful for other phenotype-genotype studies.",
+"CoAuthors": [
+"Xiu-Feng Wan1, Tong Zhang2, Lei Han2, Lei Li1, Lei Zhong1, and Feng Wen1"],
+"CoAuthorsInst": [
+"  Department of Basic Sciences, College of Veterinary Medicine, Mississippi State University; Department of Statistics, Rutgers University"]
+},
+{
+"Name": "Dr. Erik  Flemington",
+"Position": "Professor",
+"Institution": "Tulane University",
+"PosterOrTalk": "Talk",
+"Title": "Global transcript structure resolution of Epstein-Barr virus lytic transcriptome through multi-platform data integration",
+"Abstract": "Annotation of herpesvirus genomes has traditionally been undertaken through the detection of open reading frames and other genomic motifs, supplemented with sequencing of individual cDNAs. Second generation sequencing and high-density microarray studies have revealed vastly greater herpesvirus transcriptome complexity than is captured by existing annotation. The pervasive nature of overlapping transcription throughout herpesvirus genomes, however, poses substantial problems in resolving transcript structures using these methods alone. We present an approach that combines the unique attributes of Pacific Biosciences Iso-Seq long-read, Illumina short-read and deepCAGE sequencing to globally resolve isoform structures in replicating Epstein-Barr virus. Our method, Transcriptome Resolution through Integration of Multi-platform Data (TRIMD), validates nearly 300 novel viral transcripts, quadrupling the size of the annotated viral transcriptome. These findings illustrate an array of mechanisms through which herpesviruses achieve functional diversity in their relatively small, compact genomes including programmed alternative splicing, alternative promoter usage, readthrough transcription and intergenic splicing. ",
+"CoAuthors": [
+"Tina O'Grady, Xia Wang, Kerstin Höner-zu-Bentrup, Melody Baddoo, Monica Concha"],
+"CoAuthorsInst": [
+"Tulane University"]
+},
+{
+"Name": "Mr. Brent A Stanfield",
+"Position": "Graduate Student",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Talk",
+"Title": "Host Gene Expression after HSV2 Challenge in Cavia porcellus Model",
+"Abstract": "Three groups of Guinea pigs were vaccinated with a HSV1 vaccine candidate, heat-inactivated HSV2, or culture media. Animals were then challenged vaginally with virulent HSV2.  Tissue from the groups was collected and processed for microarray and RNASeq.  Host differential gene expression was determined with a custom perl script that matched homologous genes to H . sapiens using Ensemble.  Then, the differences in expression in the microarray were determined for the selected homologous genes.  The pipeline for RNASeq was set up using DNASTAR and BLAST2go as follows.  Reads were randomly sampled from the whole transcriptome, then a de novo assembly was performed on these reads, which were then BLASTed to find annotations.  Once read and annotation data was obtained, the alignment was repeated to map expression to reads in the host transcriptome.",
+"CoAuthors": [
+"John Caskey, Vladimir Chouljenko, Gus Kousoulas"],
+"CoAuthorsInst": [
+"LSU SVM PBS"]
+},
+{
+"Name": "Dr. Michelle R Lacey",
+"Position": "Associate Professor",
+"Institution": "Tulane University",
+"PosterOrTalk": "Talk",
+"Title": "Identification Of Disease Biomarkers Via Integrated Analysis Of Longitudinal Clinical And Genomic Data",
+"Abstract": "The challenge of identifying meaningful diagnostic or prognostic genotypic biomarkers for many diseases is complicated by the range of phenotypes that are observed in the patient population.  Such phenotypic variation is often captured through clinical records, but these are not commonly employed in the analysis of genomic data.  In previous work (Luo et al (2014), Frontiers in Genetics), we developed a Bayesian hierarchical B-spline approach to fit disease trajectory models for primates exposed to low doses of Mycobacterium tuberculosis (Mtb) based on their clinical profiles. Disease severity estimates derived from these fitted curves were employed to identify genes significantly associated with disease progression, increasing the value of information extracted from the expression profiles and contributing to the identification of predictive biomarkers for TB susceptibility.  We now present a second application of our approach to the analysis of gene expression profiles associated with induced colitis in both wild type (WT) and genetically modified mice lacing the TNFR1 receptor.  Disease trajectory models were estimated on the basis of body weight and hematochezia, and all animals were biopsied following euthanasia.  Through an integrated analysis of clinical trajectories, pathology data, and gene expression profiles, we show significant associations between the severity and duration of symptomatic illness and tumor development. Our results demonstrate that the incorporation of individual disease trajectory estimates enhances existing approaches for biomarker identification and offers the potential to provide insights into personalized treatment strategies for complex diseases.",
+"CoAuthors": [
+"Qingyang Luo, Fengqi Chang, Ilana Fortgang, and Michelle Lacey"],
+"CoAuthorsInst": [
+"Department of Mathematics, Tulane University; Department of Pediatrics, Tulane University School of Medicine; Department of Pediatrics, Tulane University School of Medicine; Department of Mathematics, Tulane University"]
+},
+{
+"Name": "Dr. Diana L. Williams",
+"Position": "Head, Molecular Biology Research Section",
+"Institution": "Other",
+"PosterOrTalk": "Talk",
+"Title": "Milk Microbiome produced by women living in a leprosy-endemic region of the Central African Republic    ",
+"Abstract": "Comparing variation of bacterial communities in the human milk microbiome (HMM) globally is critical to understanding disparities in health and disease during infancy. We documented bacterial community structure in milk produced by women living in a leprosy-endemic region of the Central African Republic (CAR) and to determine if Mycobacterium leprae, the causative agent of leprosy or other mycobacterial species ('mycobacteriome') could be detected as part of these communities. Milk samples N=47 were collected from horticulturalists and foragers without leprosy symptomology living in CAR. DNA was extracted. The 16S rDNA V1-V3 region was amplified and sequenced on an Illumina MiSeq platform. Reads were processed using dbcAmplicons. A M. leprae-specific qPCR was used for detection of M. leprae. Genera contributing ≥ 1% of the overall microbial abundance were Streptococcus (20%), Staphylococcus (15%), Veillonella (4%), Corynebacterium (3%), Rhodococcus, Dyella, Prevotella, Lactobacillus, Hafnia were each (~2%), Pseudomonas, Micrococcus, Weissella, Gemella, and Granulicatella were each (~1%). Mycobacterium genus members were present in 30% of samples and represented 0.02% of the overall sequences, although no M. leprae was found. Comparison of CAR HMM to that of US women, suggested that 9 of the 15 most abundant genera were shared. There were many notable differences in community membership and diversity. For instance, Rhodococcus, a soil bacterium closely related to Mycobacterium and Corynebacterium, was rare in US milk but was the 5th most abundant genus in CAR milk. Our results also provide evidence that M. leprae is not a part of the HMM of women showing no clinical signs of leprosy but living in a leprosy-endemic region. The milk Mycobacteriome is being further defined using NGS for mycobacterial speciation. This is the first report of the HMM in any African population using NGS techniques, and molecular methods to document presence of M. leprae in human milk. ",
+"CoAuthors": [
+"KA Lackey,1 JE Williams,2  CL Meehan,3  MA McGuire,2  MK McGuire,1,4   R Sharma,5 P. Singh, 5 and DL Williams5"],
+"CoAuthorsInst": [
+"1School of Biological Sciences, Washington State University, 2Department of Animal and Veterinary Science, University of Idaho, 3Department of Anthropology, Washington State University, 4Paul G. Allen School for Global Animal Health, Washington State University, 5National Hansen's Disease Program, LSU-SVM.    "]
+},
+{
+"Name": "Dr. Seetharama D Jois",
+"Position": "Associate Professor of Medicinal Chemistry",
+"Institution": "University of Louisiana at Monroe",
+"PosterOrTalk": "Talk",
+"Title": "Miniproteins from plants: An inspiration for drug design",
+"Abstract": "Plant-derived cyclic peptides, or mini proteins that have a multicyclic structure with disulfide bonds, are resistant to thermal, chemical, and enzymatic degradation, and are orally bioavailable. Generally, these multicyclic peptides do not present any immunogenicity and are amenable to sequence modification. In our previous studies, we have shown that peptides from CD2 can suppress the T-cell immune response, and these peptides suppressed the progression of arthritis in the collagen induced arthritis (CIA) mouse mode. In our preliminary studies, we have grafted the CD2-derived peptides onto sunflower trypsin inhibitor (SFTI) and theta defensin (RTD) cyclotide peptides and have shown that the designed molecule inhibits CD2-CD58 interaction in cell adhesion assays at nanomolar concentrations. The newly designed molecules exhibit in vivo stability and immunomodulation function by inhibiting adhesion between CD2-CD58.  One of the potent peptides was shown to suppress T cell immune response in a cellular assay. Circular dichroism and mass spectrometry data of peptides at different temperatures in solution suggested that these cyclic peptides are stable at high temperature. Such molecules present a novel way of treating autoimmune disease compared to existing biologics. Detailed structural studies of the cyclic peptides using NMR suggested that the grafted cyclic peptide derived from sunflower trypsin inhibitor exhibited multiple conformations in solutions. To understand the conformational interconversion of the peptide, molecular dynamics studies were carried out in water. The peptide exhibits conformational equilibrium as shown by NMR, ultra HPLC, and MD simulations. The project was partly funded by LBRN summer research program and by Louisiana Campuses Research Initiative (LACRI) 2015.",
+"CoAuthors": [
+"Rushikesh Sable, Ted Gauthier, Thomas Durek, David Craik"],
+"CoAuthorsInst": [
+"University of Louisiana at Monroe"]
+},
+{
+"Name": "Dr. Thomas W Carton",
+"Position": "Director, Health Services Research",
+"Institution": "Other",
+"PosterOrTalk": "Talk",
+"Title": "REACHnet:  An Integrated Clinical Data and Patient Engagement Infrastructure to Support Collaborative Research",
+"Abstract": "The Research Action for Health Network (REACHnet) is a PCORI funded Clinical Data Research Network (CDRN) that seeks to improve the efficiency of and capacity for patient-centered comparative effectiveness research by establishing an innovative health informatics and patient engagement infrastructure.  REACHnet includes the following partner health systems: (1) Ochsner Health System; (2) Baylor Scott & White Health; (3) Pennington Biomedical Research Center/Louisiana State University; (4) Tulane University Schools of Medicine and Public Health/Tulane Medical Center (HCA); and (5) the Greater New Orleans Health Information Exchange, a network of community-based clinics and hospitals. REACHnet includes clinical data on over 1.7 million active patients.      This presentation will outline and detail REACHnet's clinical informatics and patient engagement infrastructure that includes a (1) a clinical data warehouse aggregating data to the PCORnet Common Data Model from five participating health systems, (2) a hashing and matching process to link patient records across these systems without sharing protected health information, (3) a tablet-based, EHR agnostic platform designed to engage patients in the research process and recruit patients to clinical trials, (4) a distributed query platform that allows for automated prep-to-research queries from the PCORnet Coordinating Center, (5) an ecosystem for matching clinical and claims data for specific research use cases, and (6) a process for creating disease specific cohorts with distributed analytical tools for comparative effectiveness research.     The impacts of this infrastructure are profound.  Coupled with research participation and governance policies, it has the potential to dramatically increase research collaboration across the state.  Building one shared infrastructure, in partnership with other state-level research institutions and collaboratives, will support hundreds of research projects into the next decade.  ",
+"CoAuthors": [
+"Thomas W Carton, PhD, MS  Eliel Oliveira, MBA, MS  Kristin Lyman, JD, MHA"],
+"CoAuthorsInst": [
+"Louisiana Public Health Institute"]
+},
+{
+"Name": "Dr. Alan  Tackett",
+"Position": "Professor",
+"Institution": "Other",
+"PosterOrTalk": "Talk",
+"Title": "Reading the Histone Epigenetic Code of Melanoma with High Resolution Proteomics",
+"Abstract": "Normal cell growth is characterized by a regulated epigenetic program that drives cellular activities such as gene transcription, DNA replication and DNA damage repair. Perturbation of this epigenetic program can lead to events such as mis-regulation of gene transcription and diseases such as cancer. To begin to understand the epigenetic program correlated to the development of melanoma, we performed a quantitative mass spectrometric analysis of histone posttranslational modifications mis-regulated in melanoma cell culture as well as patient tumors. Aggressive melanoma cells as well as metastatic melanoma patient tumors were found to have elevated histone H3 lysine 27 trimethylation (H3K27me3) accompanied by over-expressed methyltransferase EZH2 that adds the specific modification. The altered epigenetic program that led to elevated H3K27me3 in melanoma cell culture was found to directly silence transcription of the tumor suppressor genes RUNX3 and E-CADHERIN. The EZH2 mediated silencing of RUNX3 and E-cadherin transcription was also validated in advanced stage human melanoma tissues. The study presented underscores the utility of using high resolution mass spectrometry to identify mis-regulated epigenetic programs in diseases such as cancer, which could ultimately lead to the identification of biological markers for diagnostic and prognostic applications. Additionally, I serve as the Director of the Arkansas INBRE Proteomics Core, so I will provide information on regional resources in high resolution mass spectrometry available to LA INBRE investigators.",
+"CoAuthors": [],
+"CoAuthorsInst": []
+},
+{
+"Name": "Dr. Monica Embers",
+"Position": "Postdoctoral Researcher",
+"Institution": "Louisiana State University-Baton Rouge",
+"PosterOrTalk": "Talk",
+"Title": "The Functional and Molecular Effects of Doxycycline Treatment on B. burgdorferi Phenotype",
+"Abstract": "Borrelia burgdorferi, the causative agent of Lyme Borreliosis and the top vector-borne disease in the United States, has a significant health burden, and no approved vaccine for humans at this time.  After a blood meal by the Ixodes spp. tick, and infection by B. burgdorferi, symptoms progress from minor to severe, such as typically an erythema migrans rash, to chronic arthritis and meningitis.  Doxycycline has been a recommended first-tier antibiotic for treatment of Borreliosis.  In this study, we examine a mouse model of doxycycline-treated B. burgdorferi, and use RNASeq to determine differential gene expression in treated versus untreated B. burgdorferi spirochetes.  We found that a specific B. burgdorferi gene set may be associated with dormancy, and hence tolerance, during doxycycline treatment.",
+"CoAuthors": [
+"John Caskey, Monica Embers, Nicole Hasenkampf, Vladimir Chouljenko, Ramesh Subramanian"],
+"CoAuthorsInst": [
+"Center for Computation and Technology, Louisiana State University,  Louisiana State University, Tulane National Primate Research Center, Tulane National Primate Research Center, Division for Biotechnology and Molecular Medicine, Louisiana State University"]
+}
+	],
+  "GuestSpeakers": [
+    {
+      "Name": "Richard D. LeDuc, Ph.D.",
+      "Institution": "Northwestern University",
+      "Title": "Recent advances in the bioinformatics of top down proteomics",
+      "Abstract": "The Proteoform Hypothesis suggests that proteoforms – the unique combination of amino acid sequence and post translational modifications -- provide more correlative and statistically powerful markers of human disease than the global expression of a protein inferred from peptide abundances. Top down proteomics has the unique ability to identify, characterize and quantify proteoforms in a high throughput workflow. To do this, the bioinformatics of top down proteomics must function reliably, at scale, with quantitation, and accommodate the complex experimental designs found in translational research. Further, result reporting must be regularized and made available to the community (e.g., at the Consortium for Top Down Proteomics).  To achieve this, the National Resource for Translational and Developmental Proteomics has implemented a cloud-based bioinformatics solution that exposes standardized search strategies, novel scoring systems, quantitation based on hierarchical linear modelling, and automated data archiving and publication. Here, we will review these systems at a level sufficient to allow the biomedical or bioinformatics researcher unfamiliar with top down proteomics to understand our processes",
+      "Info": "Director of Computational Proteomics at the Proteomics Center of Excellence, Northwestern University.  Research focuses on consultation and custom software for inve"
+    },
+    {
+      "Name": "Thomas Knudsen, Ph.D.",
+      "Institution": "Environmental Protection Agency",
+      "Title": "Computer simulation of embryonic systems",
+      "Abstract": "Human embryonic development is susceptible to chemical exposure. The predicted impact of chemical exposure on the human fetus is traditionally based upon experiments using laboratory animals; however, in vitro profiling of large chemical libraries (ToxCast) is now providing vast data on chemical bioactivity that, in turn can be fed into computer models of the embryo that simulate critical steps in development. Virtual Tissue Models (VTMs) are being developed for complex processes such as angiogenesis and morphogenetic fusion. A virtual embryo system that can reliably translate molecular and cellular disruptions into a prediction of dysmorphogenesis, together with high-performance computing may be used analytically (to understand) and theoretically (to predict) birth defects. Sophisticated VTMs of human development may someday provide the data needed for children’s environmental health protection.",
+      "Info": "Developmental systems biologist at EPA's Center for Computational Toxicology. His research focuses on predictive models of developmental toxicity, building and testing sophisticated computer models such as the Virtual Embryo Project"
+    },
+    {
+      "Name": "Jens Meiler, Ph.D.",
+      "Institution": "Vanderbilt University",
+      "Title": "Modeling Membrane Proteins from Limited Experimental Data",
+      "Abstract": "Membrane protein structure determination remains a challenging endeavor as often only limited experimental data are available. Computational methods that predict membrane protein structure from sequence can potentially aid structure determination for such difficult target proteins. The de novo protein structure prediction method, BCL::Fold, rapidly assembles secondary structure elements into 3-dimensional models of the protein. We describe modifications to the algorithm, named BCL::MP-Fold, in order to simulate membrane protein folding. Models are built into a static membrane object and are evaluated using a knowledge-based energy potential, which has been modified to account for the membrane environment. Additionally, a new symmetry folding mode allows for the prediction of obligate homo-oligomers. In a benchmark test of 40 proteins of known structure, the method samples the correct fold in 34 cases. While this suggests that the algorithm can accurately predict structure in the absence of experimental or predicted restraints, perhaps the most intriguing future application is structure prediction in the presence of sparse restraints. To this end we present integration of low-resolution cryo-EM density maps as well as sparse NMR and EPR data sets.",
+      "Info": "Associate Professor of Chemistry and Pharmacology, Vanderbilt University.  Research focuses on computational and experimental efforts to investigate proteins, the fundamental molecules of biology, and their interactions with small molecule substrates, therapeutics, or probes."
+    },
+    {
+      "Name": "James Cimino",
+      "Institution": "University of Alabama at Birmingham",
+      "Title": "The Use of Electronic Health Records in Translational Research: Don’t Forget about the Phenome or Forget about the Phenome?",
+      "Abstract": "The ability to translate genetic, proteomic, biochemical and cellular laboratory findings to human subjects research and patient care depends on understanding the context of the organism as a whole, including physical traits, physiology, pathophysiology and even psychology – what is often referred to as the “phenome”.  Ideally, the phenome should be as complete and accessible as a Facebook page.  In reality, researchers typically need to collect a specific set of desired data, often at significant expense.  A tempting alternative is to turn to electronic health records for this information, since it has already been collected, covers a broad set of topics, and presents a longitudinal picture.  Such optimism is sometimes unwarranted.  Dr. Cimino will review the realities of electronic health record  data collection and curation, point out some caveats in their reuse for research, and suggest some approaches to overcoming their limitations for use in translational research.",
+      "Info": "The Inaugural Director of the Informatics Institute in the School of Medicine at the University of Alabama at Birmingham"
+    },
+    {
+      "Name": "Frank Lee, Ph.D.",
+      "Institution": "IBM",
+      "Title": "Next-Gen HPA Infrastructure for Genomic Medicine",
+      "Abstract": "The IBM Reference Architecture for Genomics is an open and innovative framework that addresses the explosive growth of data from genomics research, drug discovery and clinical application. With seamless integration of workload orchestration and data management, this high performance analyics (HPA) infrastructure is designed to handle large amount of data and job throughput from the genomic sequencing, translational analysis and clinical analytics.",
+      "Info": "Lead architect for IBM Genomics Solution and Software Defined Infrastructure"
+    }
+  ]
+}
