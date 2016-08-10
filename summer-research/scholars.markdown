@@ -34,7 +34,7 @@ The application process will require the following documentation (scanned pdf to
 2. For option 2, the Mentor's CV in addition to the letter of support.  
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Application Deadline: TBA.<br><br>
-  Application review and acceptance with rolling deadline to begin TBA with complete applications.</strong></h4>
-</div>
+  <h4><strong>Application Deadline: September 16, 2016.<br><br>
+  Application review and acceptance with rolling deadline to begin August 19, 2016 with complete applications.</strong></h4>
+</div
 

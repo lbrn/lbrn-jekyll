@@ -11,13 +11,13 @@ title: Contact
 
 <br>
 
-**Terri Gilbert**<br>
+**Alexis White**<br>
 *LBRN Program Administrator*<br>
 (225) 578-1848<br>
 LSU Biological Sciences
 131 Life Sciences Bldg<br>
 Baton Rouge, LA 70803
-[tgilbert@lsu.edu][2]
+[alexisw@lsu.edu][2]
 
 <br>
 <br>
@@ -43,5 +43,5 @@ Baton Rouge, LA 70803
 
 
 [1]: mailto:ewischu@lsu.edu
-[2]: mailto:tgilbert@lsu.edu
+[2]: mailto:alexisw@lsu.edu
 [3]: mailto:johnq@lsu.edu
