@@ -36,5 +36,5 @@ The application process will require the following documentation (scanned pdf to
 <div class="alert alert-warning alert-block">
   <h4><strong>Application Deadline: September 16, 2016.<br><br>
   Application review and acceptance with rolling deadline to begin August 19, 2016 with complete applications.</strong></h4>
-</div
+</div>
 
