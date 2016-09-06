@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LBRN 2016 Competition for Research Projects
+title: LBRN Competition for Research Projects
 author: LBRN
 ---
 
@@ -28,6 +28,5 @@ The purpose of these programs is to to solicit new start-up and shared instrumen
 
 The Online Form is available for the Letters of Intent to be submitted. *We're using an online submission system instead of emailing completed proposals.*
 
-ONLINE FORM FORTHCOMING
 
 <p><br><a href="https://redcap.lbrn.lsu.edu/surveys/?s=XY8NJMMKMT" class="btn btn-info" style="margin-bottom: 30px">Pre-Application Form</a></p>
