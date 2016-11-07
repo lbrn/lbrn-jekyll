@@ -14,17 +14,19 @@ title: Mentorship
 
 #### New Mentor Application ####
 
-- [Mentor Application Form][5]
+- [Mentor Application Form][8]
 
-If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Terri Gilbert][6]. If you were already a mentor - you should have gotten an email to update your existing information. Please contact our Computer Manager, [John I Quebedeaux Jr][7] to get your update link resent (or reactivated).
+If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you should have gotten an email to update your existing information. Please contact our Computer Manager, [John I Quebedeaux Jr][7] to get your update link resent (or reactivated).
+
+*Note: As of Nov 7, 2016 the mentor information is being updated and will not be available right away.*
 
 ---
 
 #### Mentor Lists ####
 
-- [Faculty Mentor List][2]
-- [Grad Student Mentor List][3]
-- [Undergrad Mentor List][4]
+- [Faculty Mentor List][8]
+- [Grad Student Mentor List][8]
+- [Undergrad Mentor List][8]
 
 <a class="pull-left" href="{{ site.baseurl }}files/docs/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
 
@@ -33,8 +35,10 @@ If you have questions regarding becoming an LBRN mentor, contact our Administrat
 [3]: http://lbrn.lsu.edu/files/app/gradmentorlist.php
 [4]: http://lbrn.lsu.edu/files/app/undermentorlist.php
 [5]: https://redcap.lbrn.lsu.edu/surveys/?s=DLF3T7WYLL
-[6]: mailto:tgilbert@lsu.edu
+[6]: mailto:alexisw@lsu.edu
 [7]: mailto:johnq@lsu.edu
+[8]: http://lbrn.lsu.edu/summer-research/unavailable.html
+
 
 The Louisiana Biomedical Research Network (LBRN) sponsors a summer research program in support of undergraduate students, graduate students and faculty from any Louisiana institute. We offer qualified participants the opportunity to work in established research laboratories at Louisiana State University, LSU Health Sciences Center in New Orleans, LSU Health Sciences Center in Shreveport, Tulane Medical Center, or Tulane National Primate Research Center. The goal of our program and funding is to support biomedical research through an increase in graduate school admissions in these scientific fields and make Louisiana researchers more competitive in obtaining federal funding for research.
 

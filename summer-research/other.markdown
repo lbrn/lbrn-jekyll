@@ -11,6 +11,6 @@ title: Other Research Opportunities
 
 [3]: http://reu.cct.lsu.edu/
 [4]: http://www.institute.loni.org/lasigma/reu/apply/index.php
-[5]: http://www.phys.lsu.edu/newwebsite/undergraduate/reu_program/
+[5]: http://www.lsu.edu/physics/undergraduate-programs/reu.php
 [6]: http://www.medschool.lsuhsc.edu/genetics/summer_highschool_undergrad.aspx
 [7]: http://www.tnprc.tulane.edu/training_summer.html

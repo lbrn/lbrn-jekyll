@@ -4,7 +4,7 @@ title: Applications
 ---
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Deadline is February 10, 2016</strong></h4>
+  <h4><strong>Deadline is February 10, 2017</strong></h4>
   <br>
   <p>
     Note carefully the Application requirements. If these requirements are not met, the application is considered incomplete.
@@ -14,7 +14,10 @@ title: Applications
 
 #### **Application link** ####
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=F4WWWNMM3R" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2016 Summer Research Pre-Application (click here)</a>
+<!--<a href="https://redcap.lbrn.lsu.edu/surveys/?s=F4WWWNMM3R" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2017 Summer Research Pre-Application (click here)</a>
+-->
+
+<b>Link will be available here, check back soon.</b>
 
 The application process form INCLUDES all documentation and submissions from within the online application forms - the pre-application form must be completed in order to receive an application form link via e-mail.
 
@@ -38,9 +41,14 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 <br>
 <li>Collaboration agreement from prospective Mentor(s).</li>
 </ol>
-<p>All documents will be submitted (uploaded) within the online Application Form. A copy of the instructions available here: <a href="../files/docs/2016%20LBRN%20SRP%20Faculty%20Instructions.pdf" target="_blank">[2016 LBRN SRP Faculty Instructions.pdf]</a>.</p><p>Please note the remaining documents are available within the application. You can begin the process now and update at anytime until the deadline.</p>
+<p>All documents will be submitted (uploaded) within the online Application Form. A copy of the instructions available will be here.<br>
+<!--
+<a href="../files/docs/2016%20LBRN%20SRP%20Faculty%20Instructions.pdf" target="_blank">[2016 LBRN SRP Faculty Instructions.pdf]</a>
 
-<a href="http://lbrn.lsu.edu/files/app/facultymentorlist.php">[Prospective Faculty mentor list]</a>  Mentors are Updating their information - check back frequently.
+-->
+</p><p>Please note the remaining documents are available within the application. You can begin the process now and update at anytime until the deadline.</p>
+
+<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Faculty mentor list]</a>  Mentors are Updating their information - check back frequently.
 		</div>
 	</div>
 	
@@ -58,9 +66,13 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 <li>An official copy of your current college or university transcript–to be sent by your college directly to (best to request one after you receive your Fall/Winter semester final grades and that it shows your courses for the Spring semester) **OR** submit an unofficial copy (PDF or JPEG) of your current college transcript.</li></ol>
 
-</p>All documents will be submitted (uploaded) within the online Application Form. A copy of the instructions available here: <a href="../files/docs/2016%20LBRN%20SRP%20Faculty%20Instructions.pdf" target="_blank">[2016 LBRN SRP GS Instructions.pdf]</a>.</p> <p>Please note the remaining documents are available within the form. You can begin the process now and update at anytime until the deadline.</p>
+</p>All documents will be submitted (uploaded) within the online Application Form. A copy of the instructions will be available here. <br>
+<!--
+<a href="../files/docs/2016%20LBRN%20SRP%20Faculty%20Instructions.pdf" target="_blank">[2016 LBRN SRP GS Instructions.pdf]</a>.
+-->
+</p> <p>Please note the remaining documents are available within the form. You can begin the process now and update at anytime until the deadline.</p>
 
-<a href="http://lbrn.lsu.edu/files/app/gradmentorlist.php">[Prospective Graduate mentor list]</a> Mentors are Updating their information - check back frequently.
+<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Graduate mentor list]</a> Mentors are Updating their information - check back frequently.
 		 </div>
 	</div>
 	
@@ -79,7 +91,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 <li>All documents will be submitted (uploaded) within the online Application.</li></ol>
 
-<a href="http://lbrn.lsu.edu/files/app/undermentorlist.php">[Prospective Undergraduate mentor list]</a> Mentors are Updating their information - check back frequently.
+<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Undergraduate mentor list]</a> Mentors are Updating their information - check back frequently.
 
 		</div>
 	</div>
@@ -93,3 +105,4 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 [5]: http://lbrn.lsu.edu/files/app/undermentorlist.php
 [6]: https://twitter.com/lbrn_inbre
 [7]: http://facebook.com/LouisianaBiomedicalResearchNetwork
+[8]: http://lbrn.lsu.edu/summer-research/unavailable.html
