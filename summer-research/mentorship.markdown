@@ -16,9 +16,9 @@ title: Mentorship
 
 - [Mentor Application Form][8]
 
-If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you should have gotten an email to update your existing information. Please contact our Computer Manager, [John I Quebedeaux Jr][7] to get your update link resent (or reactivated).
+If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you will be getting an email soon to update your existing information.
 
-*Note: As of Nov 7, 2016 the mentor information is being updated and will not be available right away.*
+*Note: As of Nov 28, 2016 the mentor information is being updated and will not be available right away.*
 
 ---
 

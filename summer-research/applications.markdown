@@ -14,10 +14,10 @@ title: Applications
 
 #### **Application link** ####
 
-<!--<a href="https://redcap.lbrn.lsu.edu/surveys/?s=F4WWWNMM3R" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2017 Summer Research Pre-Application (click here)</a>
--->
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=RMHDHXPA3H" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2017 Summer Research Pre-Application (click here)</a>
 
-<b>Link will be available here, check back soon.</b>
+
+<!--<b>Link will be available here, check back soon.</b>-->
 
 The application process form INCLUDES all documentation and submissions from within the online application forms - the pre-application form must be completed in order to receive an application form link via e-mail.
 
