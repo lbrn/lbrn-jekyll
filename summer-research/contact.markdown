@@ -22,13 +22,12 @@ Baton Rouge, LA 70803
 <br>
 <br>
 
-**Dr. Bill Wischusen**<br>
+**Dr. Ramesh Subramanian**<br>
 *LBRN Program Coordinator*<br>
-(225) 578-8239<br>
-LSU Biological Sciences
-104 Life Sciences Bldg<br>
+(225) 578-9619<br>
+School of Veterinary Medicine
 Baton Rouge, LA 70803
-[ewischu@lsu.edu][1]
+[ramji@lsu.edu][1]
 
 <br>
 <br>
@@ -42,6 +41,6 @@ Baton Rouge, LA 70803
 [johnq@lsu.edu][3]
 
 
-[1]: mailto:ewischu@lsu.edu
+[1]: mailto:ramji@lsu.edu
 [2]: mailto:alexisw@lsu.edu
 [3]: mailto:johnq@lsu.edu

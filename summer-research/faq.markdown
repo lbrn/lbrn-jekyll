@@ -15,18 +15,18 @@ title: Frequently Asked Questions
 * Students who are attending a university or college in the state of Louisiana, except LSU Baton Rouge and Tulane students.
  
 
-* Students who are not graduating between January through August of 2016.
+* Students who are not graduating between January through August of 2017.
  
 
  
  
 
-### *LBRN Summer Research Program dates 2016*
+### *LBRN Summer Research Program dates 2017*
 
 **What are the program dates?**
   
 
-* The 2016 Program will run from tentatively May 23 – July 29, 2016 for Undergraduate and Graduate student participants.
+* The 2017 Program will run from tentatively May 22 – July 28, 2017 for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -106,7 +106,7 @@ title: Frequently Asked Questions
 * You are ultimately responsible for choosing your mentor and project. You will need to contact faculty members directly to ask about working with them. If you have any questions, please contact the LBRN office by email lbrn@lsu.edu.
  
 
-* There is a prospective mentor list for Undergraduate, Graduate and Faculty Researchers listed under: Summer Research Mentors, that page is also for those Faculty at research institutions who wish to mentor students.
+* There is a prospective mentor list for Undergraduate, Graduate and Faculty Researchers listed under: Summer Research Mentors, that page is also for those Faculty at research institutions who wish to mentor students. The list gets updated frequently through the end of year as we refresh the list, mentors have to sign back up each year so the list is current.
  
 
 * When the mentor confirms to mentor you for the summer, this does not guarantee you being selected for the program, only available slot in his/her lab.
@@ -185,7 +185,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Wednesday, February 10, 2016.
+* The application deadline is Wednesday, February 10, 2017.
  
 
  
@@ -252,7 +252,7 @@ title: Frequently Asked Questions
 **When and how will I be notified of my acceptance into the LBRN program?**
  
 
-* Letters will be emailed by the end of April, 2016.
+* Letters will be emailed by the end of April, 2017.
 
  
 
