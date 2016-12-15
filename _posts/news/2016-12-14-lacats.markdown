@@ -1,0 +1,29 @@
+---
+layout: post
+title:  SAVE THE DATES! LA CaTS Workshops and 2017 Translational Science Meeting
+author: LBRN
+---
+
+####LA CaTS Junior Investigator Training (announcement released earlier today)
+
+#####February 2-3, 2017
+
+####Tulane University, Tidewater Building, Room 2010; Video conferencing available via AdobeConnect
+
+<p><a href="https://redcap.sph.tulane.edu/redcap/surveys/?s=F7KKYPRCF9" class="btn btn-info" style="margin-bottom: 30px">more information and registration</a></p>
+
+
+
+####Translational Science 2017 (Association for Clinical and Translational Science [ACTS])
+
+#####April 19-21, 2017
+
+####Washington Marriott Wardman Park, Washington DC
+
+####Abstract submission deadline: January 13, 2017
+
+<p><a href="http://www.actscience.org/translationalscience" class="btn btn-info" style="margin-bottom: 30px">more information and registration</a></p>
+
+[1]: href="https://redcap.sph.tulane.edu/redcap/surveys/?s=F7KKYPRCF9"
+[2]: href="Literacy@LACaTS.org"
+[3]: href="http://www.actscience.org/translationalscience"
