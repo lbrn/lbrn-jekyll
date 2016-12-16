@@ -17,6 +17,4 @@ If for any reason that you need to cancel your registration or if you have any q
 
 ---
 
-#####Registration Link Open Soon
-
-<!---<a href="https://redcap.lbrn.lsu.edu/surveys/?s=CYXYKWP7KY" class="btn btn-info btn-large">Continue to Event Registration Form</a> --->
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=CYXYKWP7KY" class="btn btn-info btn-large">Continue to Event Registration Form</a>
