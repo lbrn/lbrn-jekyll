@@ -47,7 +47,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 			<p>Please note the remaining documents are available within the application. You can begin the process now and update at anytime until the deadline.</p>
 
-			<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Faculty mentor list]</a>  Mentors are Updating their information - check back frequently.
+			<a href="http://lbrn.lsu.edu/files/app/facultymentorlist.php">[Prospective Faculty mentor list]</a>  Mentors are Updating their information - check back frequently.
 		</div>
 	</div>
 	
@@ -67,11 +67,11 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 			<p>All documents will be submitted (uploaded) within the online Application Form. A copy of the instructions will be available here.
 			<br>
-			<a href="../files/docs/2017%20LBRN%20SRP%20Faculty%20Instructions.pdf" target="_blank">[2017 LBRN SRP GS Instructions.pdf]</a>.</p>
+			<a href="../files/docs/2017%20LBRN%20SRP%20GS%20Instructions.pdf" target="_blank">[2017 LBRN SRP GS Instructions.pdf]</a>.</p>
 
 			<p>Please note the remaining documents are available within the form. You can begin the process now and update at anytime until the deadline.</p>
 
-			<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Graduate mentor list]</a> Mentors are Updating their information - check back frequently.
+			<a href="http://lbrn.lsu.edu/files/app/gradmentorlist.php">[Prospective Graduate mentor list]</a> Mentors are Updating their information - check back frequently.
 		 </div>
 	</div>
 		
@@ -91,7 +91,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 				<li>All documents will be submitted (uploaded) within the online Application.</li></ol>
 
-				<a href="http://lbrn.lsu.edu/summer-research/unavailable.html">[Prospective Undergraduate mentor list]</a> Mentors are Updating their information - check back frequently.
+				<a href="http://lbrn.lsu.edu/files/app/undermentorlist.php">[Prospective Undergraduate mentor list]</a> Mentors are Updating their information - check back frequently.
 
 		</div>
 	</div>

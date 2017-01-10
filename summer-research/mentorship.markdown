@@ -18,7 +18,6 @@ title: Mentorship
 
 If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you will be getting an email soon to update your existing information.
 
-*Note: As of Nov 28, 2016 the mentor information is being updated and will not be available right away.*
 
 ---
 
