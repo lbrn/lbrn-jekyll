@@ -14,7 +14,7 @@ title: Mentorship
 
 #### New Mentor Application ####
 
-- [Mentor Application Form][8]
+- [Mentor Application Form][5]
 
 If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you will be getting an email soon to update your existing information.
 
@@ -24,9 +24,9 @@ If you have questions regarding becoming an LBRN mentor, contact our Administrat
 
 #### Mentor Lists ####
 
-- [Faculty Mentor List][8]
-- [Grad Student Mentor List][8]
-- [Undergrad Mentor List][8]
+- [Faculty Mentor List][2]
+- [Grad Student Mentor List][3]
+- [Undergrad Mentor List][4]
 
 <a class="pull-left" href="{{ site.baseurl }}files/docs/TrainingMentoringGuide_7.3.02.pdf"><img src="{{ site.baseurl }}files/images/mentorship.jpg"></a>
 
