@@ -3,12 +3,15 @@ layout: bio-conf
 title: Registration and Posters
 ---
 
-#### Registration deadline is TBD
+#### Registration deadline: March 17th, 2017 (Friday)
 
+As in previous years, participation (including travel and lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members.
+
+#### Registration Link available Soon.
 
 ### Poster Requirements
 
-#### Poster & Oral Abstracts Deadline, Early 2017 (TBD)
+#### Poster & Oral Abstracts Deadline: March 17th, 2017 (Friday)
 
 Your poster size must not be larger than 3 ft. x 4 ft. (36 in. x 48 in.).
 
