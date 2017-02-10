@@ -1,0 +1,20 @@
+---
+layout: annual-meeting
+title: media
+---
+
+<h3>Moments at the Annual Meeting</h3>
+<div class="gallery">
+	<div class="tile">
+	{% for image in site.data.am-2017-images %}
+	<a href="{{ site.baseurl }}files/images/annual-meeting/2017/gallery-images/{{ image.name }}.JPG">
+	<figure>
+		<img src="{{ site.baseurl }}files/images/annual-meeting/2017/gallery-images/{{ image.name }}_sm.JPG">
+		<figcaption>
+			{{ image.caption }}
+		</figcaption>
+	</figure>
+	</a>
+	{% endfor %}
+	</div>
+</div>
