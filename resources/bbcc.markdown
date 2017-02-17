@@ -7,6 +7,7 @@ title: BBCC Services
 
 The Bioinformatics, Biostatistics, and Computational Biology Core (BBCC) serves to train and support project investigators and their teams across Louisiana. It is structured around four subunits that work together to enable Louisiana Biomedical Research Network (LBRN) project PIs and their teams to employ Louisiana cyberinfrastructure (especially high performance computing), and to provide bioinformatics services, training, and educational support.
 
+<!--
 ## Services
 
 #### Cyberinfrastructure and Biomedical Data Analytics (CBDA) Subunit lead - Dr. Park, support Dr. N. Kim & Dr. J. Kim
@@ -24,3 +25,4 @@ Visual analytics tools enabling the display and interaction with biomedical data
 #### Communications Infrastructure and Training (CIT) Subunit lead - John Quebedeaux.
 
 A central objective and role of the overall LBRN project is bridging geographical distance to increase the effective critical mass, interchange, and impact of biomedical domain expertise. The CIT subunit serves a crosscutting enablement role between all three LBRN cores and the personnel of our PUI project teams.
+-->
