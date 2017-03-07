@@ -4,15 +4,13 @@ title:  SAVE THE DATES! LA CaTS Workshops and 2017 Translational Science Meeting
 author: LBRN
 ---
 
-####LA CaTS Junior Investigator Training (announcement released earlier today)
 
-#####February 2-3, 2017
+####LA CaTS Center Health Literacy Workshop Scheduled for Today (March 2nd 2017, Thursday) is **_CANCELLED_**  
+<br>
 
-####Tulane University, Tidewater Building, Room 2010; Video conferencing available via AdobeConnect
+######   Please note that the LA CaTS Health Literacy Workshop originally scheduled for March 2nd at Pennington Biomedical was *CANCELLED*. It is in the process of rescheduling this event and will be sending out more information soon.' 
 
-<p><a href="https://redcap.sph.tulane.edu/redcap/surveys/?s=F7KKYPRCF9" class="btn btn-info" style="margin-bottom: 30px">more information and registration</a></p>
-
-
+---
 
 ####Translational Science 2017 (Association for Clinical and Translational Science [ACTS])
 
@@ -20,8 +18,8 @@ author: LBRN
 
 ####Washington Marriott Wardman Park, Washington DC
 
-####Abstract submission deadline: January 13, 2017
-
+####Abstract submission deadline: January 13, 2017  
+<br>
 <p><a href="http://www.actscience.org/translationalscience" class="btn btn-info" style="margin-bottom: 30px">more information and registration</a></p>
 
 [1]: href="https://redcap.sph.tulane.edu/redcap/surveys/?s=F7KKYPRCF9"
