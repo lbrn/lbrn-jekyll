@@ -20,7 +20,7 @@ We are happy to announce that the **5th Annual Louisiana Conference on Computati
 
 **Deadlines**
 
-  ---**<font color="red"><b>March 10th, 2017 (Friday)</b></font> Call for Abstracts Deadline**  
+  ---**<font color="red"><b>March 15th, 2017 (Wednessday - Extended)</b></font> Call for Abstracts Deadline**  
   ---**<font color="red"><b>March 17th, 2017 (Friday)</b></font> Registration and Hotel**
 
   
