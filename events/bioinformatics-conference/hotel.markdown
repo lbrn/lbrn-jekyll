@@ -3,11 +3,18 @@ layout: bio-conf
 title: Hotel Information
 ---
 
-#### Lodging
+#### Lodging  :  Courtyard New Orleans Metairie, 2 Galleria Blvd., Metairie, LA 70001  
 
-*To Be Determined*
+*Guests who require overnight lodging, please note Deadline for event registration March 17th, 2017 - hotel only provided for event registrations who indicate it is needed within the registration form. The deadline to get your name on the hotel block list that LBRN will establish is the registration deadline. Details are in the registration form. Do not book your room with the hotel directly, we will do that for you as part of your registration; otherwise, you're responsible for your own lodging.*
 
 Hotel Information
 
-*To Be Determined*
+<div class="well">
+<p class="text-error">Provided at the <a href="http://www.marriott.com/hotels/maps/travel/msycm-courtyard-new-orleans-metairie/">Courtyard New Orleans Metairie</a></p>
 
+</div>
+
+
+<a href="https://goo.gl/maps/2Mtdj3bFkdn"><img src="{{ site.baseurl }}files/images/bio-conf/lbrn-conference-5.png" alt="" style="margin-left: 20px;" class="pull-right img-polaroid">Directions to Courtyard New Orleans Metairie</a>
+
+ 
