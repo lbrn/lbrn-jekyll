@@ -6,17 +6,18 @@ author: LBRN
 
 <p class="text-error">April 7 - 8, 2017</p>
 
-<a href="{{ site.baseurl }}events/bioinformatics-conference"><img src="{{ site.baseurl }}files/images/bio-conf/5th_Bio_Conference_Flyer_2017_02_15.png"></a>
+<a href="{{ site.baseurl }}events/bioinformatics-conference"><img src="{{ site.baseurl }}files/images/bio-conf/5th_Bio_Conference_Flyer_2017_03_25.png"></a>
 
 We are happy to announce that the **5th Annual Louisiana Conference on Computational Biology & Bioinformatics** will be held on **April 7 & 8, 2017** at Xavier University, New Orleans. The conference aims to expose Louisiana to the cutting edge of Computational Biology, Bioinformatics Research and Applications while also providing a platform for exchange of information and technical knowledge among Louisiana-based scientists involved in different aspects of computational biology & bioinformatics.
  
 **Conference Thematic Sessions are:**
 
+   --Drug Repurposing, Information, and Forensics  
+   --Health Informatics, Big Data, and Computing  
+   --Genomics and Data Visualization  
    --Microbiome and Epidemiology  
-   --Metabolomics  
-   --Drug Repurposing, Informatics and Software Application  
-   --Genomics of Infectious Diseases and Viral Oncology  
-   --Bioinformatics of Clinical Progression in Clinical Cancer  
+   --Virology and Infectious Diseases  
+   --Metabolomics and Proteomics  
 
 **Deadlines**
 
