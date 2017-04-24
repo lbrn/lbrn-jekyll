@@ -11,7 +11,7 @@ When you produce such material, please be sure to identify the IDeA program, not
 
  In journal articles, news releases, or other materials about your program’s activities or achievements, please use funding acknowledgement language such as:
 
-> *Research reported in this {publication, release} was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103424.*
+> *Research reported in this {publication, release} was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number 5 P20 GM103424-15 and 3 P20 GM103424-15S1.*
 
 ---
 
