@@ -17,4 +17,4 @@ _*Agenda Updated May 16, 2016.*_
 ---**<font color="red"><b>15 Slot Capacity Reached, but registration open for Waitlist and future DELTA Training planning. i.e. register if you're interested in future DELTA Training.</b></font>**<br>
 
 
-<p><a href="https://redcap.lbrn.lsu.edu/surveys/?s=KF9NWWWR3A" class="btn btn-info" style="margin-bottom: 30px">Workshop Registration</a></p>
+<p><a href="/events/workshop/" class="btn btn-info" style="margin-bottom: 30px">Workshop Registration</a></p>
