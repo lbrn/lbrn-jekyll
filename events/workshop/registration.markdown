@@ -5,7 +5,7 @@ title: Registration
 
 #### Wednesday, May 17, 2017 is the deadline to register for lodging.
 
-*Participation (Lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members however travel expenses (mileage, transportation, meals to-from) will **_not_** be supported. Lunch and light snakes at the event will be provided. We will extend this to our PUI campuses for participants from those institutions.*
+*Participation (Lodging) will be supported for LBRN faculty, graduate students, undergraduate students, and core members however travel expenses (mileage, transportation, meals to-from) will _not_ be supported. Lunch and light snacks at the event will be provided. We will extend this to our PUI campuses for participants from those institutions.*
 
 <div class="well">
   <p class="text-error">
