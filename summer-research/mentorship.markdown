@@ -10,12 +10,11 @@ title: Mentorship
   }
 </style>
 
-<br><br>
 #### New Mentor Application ####
+
 - [Mentor Application Form][5]
 
 If you have questions regarding becoming an LBRN mentor, contact our Administrator at [Alexis White][6]. If you were already a mentor - you will be getting an email soon to update your existing information.
-
 
 ---
 
