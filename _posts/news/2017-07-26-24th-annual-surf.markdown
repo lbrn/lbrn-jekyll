@@ -18,6 +18,6 @@ The 24th Annual Summer Undergraduate Research Forum (SURF) where undergraduate s
 Please come and ask the participants about their summer research!
 
 <p><a href="/events/surf" class="btn btn-info" style="margin-bottom: 30px">Summer Undergraduate Research Forum Information</a>
-<p class="text-error"></p>
+</p>
 
 
