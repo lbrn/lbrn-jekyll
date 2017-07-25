@@ -4,7 +4,7 @@ title: 24th Annual Summer Undergraduate Research Forum (SURF)
 author: LBRN
 ---
 
-[![SURF](/files/images/surf-poster.png)](/events/surf)
+[![SURF](/files/images/SURF 2017 Invitation.png)](/events/surf)
 
 The Summer Undergraduate Research Forum (SURF), will be held Friday, **July 28th, 2017 from 1:00pm – 4:00pm** in LSU's Union's Cotillion Ballroom. All is welcome.
 
