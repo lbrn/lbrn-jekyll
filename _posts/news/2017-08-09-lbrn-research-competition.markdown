@@ -13,7 +13,7 @@ The purpose of this release is to announcements Letters of Intent for new projec
   1. [Letter of Intent for LBRN Full Projects 2018-2021][1]  
   2. [Letter of Intent for LBRN Pilot Projects 2018-2019][2]  
   3. [Letter of Intent for LBRN Shared Instrumentation 2018-2019][3]  
-  4. [Letter of Intent for LBRN Startup Projects 2018-2020][4]
+  4. [Letter of Intent for LBRN Startup Projects 2018-2020][4]  
   5. [Letter of Intent for LBRN Translational Projects 2018-2019][5]  
 
 **Deadlines**
