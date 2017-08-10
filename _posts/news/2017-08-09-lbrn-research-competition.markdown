@@ -6,7 +6,7 @@ author: LBRN
 
 **Objectives**
 
-The purpose of this release is to announcements Letters of Intent for new projects for the LBRN program. The RFAs for the funding programs listed below can be accessed using the links below. The expected start date for these projects is May 1, 2018. The selection and distribution of these projects by the Steering Committee will be based on the quality of the proposal and the needs of the LBRN program. Proposed projects should be consistent with the program’s focal research areas. All interested researchers are encouraged to contact Dr. Ramesh Subramanian (ramji@lsu.edu) prior to submitting a proposal to ensure that the proposed research is eligible for inclusion in this program. The letter of intent should be submitted via online form via LBRN InfoReady Review (use the links below) no later than 4:30 pm on September 11, 2017. Only those applicants who submit the LOI will be able to submit a proposal.
+The purpose of this release is to solicit Letters of Intent for new project proposals to be funded by the LBRN. The RFAs for each funding programs listed here can be accessed using the clicking on the respective title. The expected start date for these projects is May 1, 2018. The selection and distribution of these projects by the Steering Committee will be based on the quality of the proposal and the needs of the LBRN program. Proposed projects should be consistent with the program’s focal research areas. All interested researchers are encouraged to contact Dr. Ramesh Subramanian [ramji@lsu.edu][6] prior to submitting a proposal to ensure that the proposed research is eligible for inclusion in this program. The letter of intent should be submitted using the LBRN-InfoReady-Review online form (use the links below) no later than 4:30 pm on September 11, 2017. Only those applicants who submit the LOI will be able to submit a proposal
 
 **RFAs** (click on title to download proposal information)
 
@@ -25,6 +25,7 @@ The purpose of this release is to announcements Letters of Intent for new projec
 [3]: https://lbrn.infoready4.com/#competitionDetail/1762600
 [4]: https://lbrn.infoready4.com/#competitionDetail/1762602
 [5]: https://lbrn.infoready4.com/#competitionDetail/1762598
+[6]: mailto:ramji@lsu.edu
 
  
  
