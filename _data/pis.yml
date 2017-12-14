@@ -1,6 +1,6 @@
 -
   name: Sanjay Batra
-  active: true
+  active: false
   origin: Southern University and A&amp;M College, Department of Environmental Toxicology
   image: batra.jpg
   project_title: HDACs regulate inflammatory responses against microbial toxins & CSE exposure
@@ -12,7 +12,7 @@
     Chronic obstructive pulmonary disease (COPD) is a progressive lung disease characterized by airflow limitation. It is predicted to become the third leading cause of death in the U.S. by 2020. The advancement of this disease is not fully reversible. Among others, exposure to cigarette smoke (CS) leads to abnormal inflammatory responses in the lungs. Second-hand cigarette smoke (SHS) exposure is considered to be a risk factor associated with increased carriage of respiratory pathogens and frequent airway infections. Generally, such association is ascribed to immunomodulatory and irritant effects of the components of CS (in human cells). The toxic response can be individual or in combination with other agents, including among others bacteria. Epidemiological evidence has shown that nontypeable-Haemophilus influenzae, Staphylococcus aureus, Streptococcus pneumoniae, Moraxella catarrhalis, and Pseudomonas aeruginosa are the most common forms of bacteria that colonize in the COPD airway. These agents and other inhaled particles are effectively eliminated by alveolar macrophages and airway and lung epithelial cells which sense them. Interestingly, secondhand smoke exposure activates these cells to produce pro-inflammatory mediators, reactive oxygen species and proteolytic enzymes, thereby providing a cellular mechanism that links smoking with inflammation and tissue damage. During COPD these cells are exposed either frequent or prolonged periods of time to a host of inflammatory mediators and effector molecules from inflammatory cells. Impairments in innate lung responses in patients with COPD mediate exacerbations by enabling bacteria to proliferate and persist in the airways. Persistence of bacteria leads to chronic airway inflammation, which is enhanced during invasion by incoming bacterial pathogens. Therefore, development of novel therapeutic approaches that lead to rapid and successful elimination of pathogenic bacteria from COPD airways, and reduce the mortality rate of COPD (high) are urgently needed.
     
     In view of the paucity of knowledge about differences in inflammatory response between Gram-negative and Gram-positive organisms during COPD, the focus of the present proposal is to determine the effect of microbial toxins from both Gram-negative and Gram-positive organisms in presence of cigarette smoke extract (CSE) using human monocyte derived macrophages (MDMs) and murine airway epithelial (LA-4) cells. The NF-кB comprises a family of transcription factors that are involved in regulating a large number of genes related to immune function, inflammation, apoptosis and cell proliferation. Many chronic disease states have been associated with aberrant activation of NF-кB and several therapeutic strategies target NF-кB activation have been considered for the treatment of inflammation and cancer. Histone deacetylases (HDACs) play a key role in the activation of transcription factors like NF-кB. Among others, HDAC1, HDAC2, and HDAC3 interact directly with NF-кB; however, their precise role remains controversial. Reports suggest acetylation of NF- кB/p65 either suppresses or activates its transcription depending on the biological context of the cell. Studies are designed to understand the differences in immune responses between microbial toxins from Gram- negative and Gram-positive organisms in human MDMs and airway epithelial cells exposed to CSE. We propose to determine the effect of lipopolysaccharide (LPS, from Gram-negative Peudomonas aeruginosa) and lipoteichoic acid (LTA) or peptidoglycan (PG) from Gram-positive bacteria on the co-activators or co-repressors including histone acetyltransferases (HAT) and HDACs, transcription factors and cytokine/chemokine levels in the presence and absence of CSE. PI’s earlier report has shown that benzyl isothiocyanate (BITC), a dietary agent leads to a significant decrease in the expression and activity of HDAC1 and HDAC3 in pancreatic cancer cells. Supportive data from other studies on BITC include demonstration of chemopreventive and anti- inflammatory effects in murine macrophages in response to LPS challenge. The anti-inflammatory properties of BITC and the associated molecular mechanisms in response to challenge with other microbial toxins or during cigarette smoke exposure have however not been explored yet.
-    
+
 -
   name: Shuju Bai
   active: false
@@ -140,7 +140,7 @@
 
 -
   name: Ann Findley
-  active: true
+  active: false
   origin: Univeristy of Louisiana at Monroe, Department of Biology
   image: findley.jpg
   project_title: Acquisition of Real-Time PCR and Gel Documentation Systems for ULM Biology
@@ -159,6 +159,9 @@
   project_title: Mechanism of translation initiation in protozoan parasite Giardia lamblia
   funding:
     -
+      name: Pilot Project
+      period: May 1, 2017 – April 30, 2018
+        -
       name: Startup Project
       period: May 1, 2015 – April 30, 2017
   abstract: |
@@ -181,7 +184,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
     -
       name: Pilot Project
       period: May 1, 2013 – April 30, 2014
@@ -189,9 +192,6 @@
     -
       name: David Mills
       origin: Louisiana Tech University
-    -
-      name: Gregg Pettis
-      origin: Louisiana State University
 
 -
   name: Chris R. Gissendanner
@@ -234,7 +234,7 @@
   name: Thomas Huckaba
   origin: Xavier University of Louisiana, Department of Biology
   image: huckaba.jpg
-  active: true
+  active: false
   project_title: Mechanistic analysis of KifSA mutations that cause hereditary spastic paraplegia
   abstract: |
     Hereditary   spastic   paraplegias   (HSPs)   are a group  of  neurodegenerative   disorders   that  result   from degeneration of corticospinal tract axons.  Patients commonly present with spasticity in the lower limbs, as the longest nerve fibers appear to be the earliest affected.   Patients with the complicated form of HSP may also present with retinopathy, ataxia, peripheral polyneuropathy, and cognitive deficit.    To date, 57 distinct chromosomal HSP loci have been identified through genetic linkage analysis of affected families.  Of particular interest to this study is the finding that an autosomal dominant form of HSP (AD-HSP) is caused by mutations in the Kif5A gene, a kinesin transport motor enriched in neurons.  In addition, approximately 10% of the known cases of complicated HSP are due to mutations in Kif5A.
@@ -248,7 +248,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2017
     -
       name: Full Project
       period: May 1, 2013 - April 30, 2015
@@ -265,7 +265,7 @@
 
 -
   name: Keith Jackson
-  active: true
+  active: false
   image: jackson.jpg
   origin: University of Louisiana at Monroe
   mentors:
@@ -287,7 +287,7 @@
   funding:
     -
       name: Pilot Projects
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2017
 
 -
   name: Amal Khalil Kaddoumi
@@ -318,7 +318,7 @@
   origin: Southeastern Louisiana University
   mentors:
     -
-      name: Dorel Moldovan
+      name: Jacqueline Stephens
       origin: Louisiana State University
   project_title: Large-scale atomistic simulation for novel self-assembled drug delivery vehicles
   abstract: |
@@ -327,7 +327,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
 
 -
   name: Paul Kim
@@ -337,15 +337,22 @@
   mentors:
     -
       name: Jacqueline Stephens
-      origin: Pennington Research Center
-  project_title: Understanding the role of proteostasis in non-alcoholic fatty liver disease
+      origin: Louisiana State University
+  project_title: Mechanisms underlying nonalcoholic fatty liver disease
   abstract: |
-    Non-alcoholic fatty liver disease is quietly becoming a global epidemic in both adults and children. Its increasing incidence rate closely parallels the rising obesity rate but the exact cause is still unknown. Rodent models using high-fat diets to induce fatty liver suggest that saturated fats promote disease development and progression in part by disrupting endoplasmic reticulum homeostasis, termed ER stress. This project seeks to understand the link between obesity and non-alcoholic fatty liver disease by examining the role of protein homeostasis or proteostasis in mediating ER stress in response to excess saturated fats.
+    Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease in the US. The Hallmark of NAFLD is the buildup of excess fat in the liver. NAFLD is a progressive disease that can lead to fibrosis, cirrhosis, and ultimately liver failure [1]. The growing prevalence of NAFLD is associated with the obesity epidemic, but the molecular mechanisms underlying disease development and progression are not fully understood. A growing body of evidence suggests that disruption of endoplasmic reticulum homeostasis, termed ER stress, may play a role in NAFLD pathogenesis [2-4].
+
+    ER stress activates the unfolded protein response (UPR), which acts to restore ER homeostasis. Importantly, UPR activation has been reported in the livers of humans with obesity and NAFLD [5-7] and its activation can trigger lipid biosynthesis, insulin resistance, inflammation, and apoptosis, all characteristic features of NAFLD [8,9]. Moreover, murine models of obesity have shown that increasing the amount of saturated fatty acids in circulation or in the liver induces ER stress, apoptosis, and liver injury [10-12]. Taken together, these data suggest that elevated levels of circulating fatty acids, typical of obesity, contribute to NAFLD pathogenesis by inducing ER stress.
+
+    Given that ER stress results from the accumulation of unfolded proteins in the ER lumen, elevated  fatty acid levels may induce ER stress by increasing the load of ER client proteins (i.e. protein synthesis), or decreasing the capacity to process that load (i.e., protein folding or degradation), or both. My pilot project tested the hypothesis that excess saturated fatty acids mediate ER stress by stimulating protein synthesis. We found that in both hepatocyte and rodent models of obesity and NAFLD, excess saturated fatty acids did not alter rates of protein synthesis (manuscript in preparation). This has led to the hypothesis that excess saturated fatty acids mediate ER stress by impairing protein folding or degradation.
 
   funding:
     -
+      name: Full Project
+      period: May 1, 2017 - April 30, 2020
+    -
       name: Pilot Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2016
 
 -
   name: Yong-Yu Liu
@@ -457,8 +464,6 @@
   origin: Southern University and A&M College
   image: murthy.jpg
   project_title: DPP4 inhibitors in combating the effects of homocysteine and cholesterol
-  abstract: |
-    Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
   mentors:
     -
       name: Thomas Gettys
@@ -466,11 +471,14 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
+
+  abstract: |
+    Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
 
 -
   name: Sami Nazzal
-  active: true
+  active: false
   image: nazzal.jpg
   origin: University of Louisiana at Monroe
   mentors:
@@ -483,7 +491,7 @@
   funding:
     -
       name: Pilot Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2016
 
 -
   name: Jamie Newman
@@ -503,7 +511,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
 
 -
   name: Adarsh Radadia
@@ -537,7 +545,7 @@
     -
       name: Christopher Kevil
       origin: LSU Health Sciences Center Shreveport
-  project_title: Design and synthesis of novel polyphenol cancer therapeutics
+  project_title: Design and Synthesis of Novel Polyphenol Cancer Therapeutics, Maximizing ADMET Properties and the Regulation of Cell-Signaling Cross-Talk
   abstract: |
     The primary goal of this research is to develop novel drugs based on the hydroxycinammic polyphenol scaffold.  There is tremendous potential in this area of drug development as many natural molecules in this class (e.g., caffeic acid) exhibit potent and favorable direct effects on cancer cell signaling in vitro.  However, almost invariably, the natural products themselves are reported to have poor ADMET drug properties in vivo, particularly poor absorption and metabolic profiles.  This is often due to sub-optimal structural characteristics. We seek to address these problems through the design and synthesis of novel molecules possessing more desirable pharmacokinetic properties than the natural compounds.  A series of fourteen new compounds is proposed, incorporating several unique bioisosteric characteristics, aimed at improving problematic ADMET characteristics, while maintaining favorable anti-cancer signaling.  Cell proliferation assays to evaluate the effects of the synthetic compounds on the UM-UC14 (malignant bladder), and PC3 (malignant prostate) cancer cells will be employed, along with transepithelial cell monolayer model assays to assess the bioavailability of the synthetic compounds in vitro.
     
@@ -546,7 +554,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
 
 -
   name: Seetharama D Satyanarayanajois
@@ -563,11 +571,11 @@
       origin: Department of Chemistry, Louisiana State University
   funding:
     -
-      name: Pilot Project
-      period: Jan 2, 2008 – April 30, 2011
-    -
       name: Project R11
       period: May 1, 2011 - April 30, 2015
+    -
+      name: Pilot Project
+      period: Jan 2, 2008 – April 30, 2011
   abstract: |
     The long-term objective of this research project is to understand the role of extracellular domains of proteins in protein-protein interactions for cell signaling. The short-term objective of this project is to understand the role of domain IV of human epidermal growth factor receptor 2 (HER2) extracellular domain in protein-protein interaction with other epidermal growth factor receptors (EGFRs) in signaling for cell growth. Our hypothesis is that protein-protein interaction surfaces have small core regions which are hydrophobic in nature and protein-protein interactions can be modulated by small molecules that interact with core regions to modulate the signaling for cell growth. As a model system we will investigate protein-protein interactions on EGFR extracellular domains. In particular, we will investigate the interaction of HER2 protein with other EGFRs (EGFR/HER1, HER3). Protein-protein interactions are critical for many biological processes. The interfaces of these protein-protein interactions may have cavities or flat surfaces that are dominated by non-covalent interactions. Analyses of the structures and sequences using bioinformatics approaches have revealed that, although the interacting surfaces are large (700 to 3,000), there are core regions in the surface that facilitate high-affinity interactions. These core regions are dominated by amino acids such as tyrosine, phenylalanine. Thus, small molecules that are targeted to these core regions can be used to modulate protein-protein interactions and may have clinical significance. The protein HER2 is known to interact with other EGFRs to form dimers/heteromers. HER2-mediated heterodimerization leads to signals for cell growth. Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. HER2 interaction with HER3 and EGFR is known to be dominant in HER2-overexpressing tumors. Blockade of the interaction of HER2 with other receptors ultimately leads to control of cell growth. The extracellular domain of EGFRs consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Crystal structures of the extracellular domains of EGFR and HER2-4 are available. The homodimer of the crystal structure of EGFR extracellular domain has been elucidated. However, it lacks domain IV and, thus, the importance of domain IV in dimerization is not understood. Hence, these proteins will serve as good models to understand protein-protein interaction for cell signaling. Furthermore, blocking of domain IV of HER2 protein has clinical significance and, hence, the results from the proposed research can be applicable as â€œtranslational research. The studies presented here can be extended to other protein-protein interactions of biological importance. In the preliminary studies we have carried out, we have shown that a small hydrophobic molecule binds to domain IV of HER2 protein and also inhibits HER2-HER3 interaction in surface plasmon resonance experiments. In the proposed research project, our goal is to understand the importance of domain IV of HER2 in protein-protein interactions and the core region that is critical for dimerization and its modulation for cell signaling.
 
@@ -587,11 +595,11 @@
       origin: Louisiana Tech University
   funding:
     -
-      name: Pilot Project
-      period: Sept 1, 2008 – April 30, 2010
-    -
       name: Project R9
       period: May 1, 2010 - April 30, 2015
+    -
+      name: Pilot Project
+      period: Sept 1, 2008 – April 30, 2010
   abstract: |
     Microarray gene expression analysis, an important component in the design of in-silico molecular medicine methods, has made possible to monitor the expression level of thousands of genes under different samples (conditions) at the same time. The analysis can yield novel information regarding cellular mechanisms, regulatory functions of genes, functions of genes and proteins, gene network structure, and pathways, and can relate the risk of being affected by diseases to gene expression profiles which are characteristics for phenomenon such as Alzheimer’s Disease (AD). Particularly in AD where the effective diagnosis includes annotation, early detection, distinction, and prediction, data mining and statistical approaches offer the promise for precise, accurate, and functionally robust analysis of gene and protein expression data. In this proposal we will investigate into the miRNA expressions of AD patients and age-matched controls by designing and developing algorithms to discover correlated and co-regulated sets of miRNA patterns that have a biologically significant role in the progression of Alzheimer’s. Our approach lies in the design and development of computationally efficient algorithms for dimensionality and noise reduction followed by supervised classification of gene expression data using the theory of association rules and clustering with the biological characterization of sets of genes discovered. We hypothesize that rank-based associations for unsupervised clustering can provide biologically significant correlations among co-regulated miRNA profiles with a higher specificity and sensitivity. The proposed approach will have the following algorithmic components as specific aims: a) Design algorithms for dimensionality reduction of gene expression data using the statistical indicators of “housekeeping” genes as the underlying factor of control, b) Design and develop algorithms for finding correlations in subspaces of high dimensional gene, protein expression data using theory of association rules, c) Design and develop metrics for clustering to synopsize the high dimensional gene correlations for better biological interpretation, d)Perform validation for evaluation for the discovered sets of genes for their biological significance, and e) Develop an open-source tool-kit, by incorporating the developed algorithms.
 
@@ -626,11 +634,11 @@
       origin: Tulane University, Cancer Center, Cell & Molecular Biology
   funding:
     -
-      name: Pilot Project
-      period: May 1, 2014 – April 20, 2015
-    -
       name: Full Project
-      period: My 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
+    -
+      name: Pilot Project
+      period: May 1, 2014 – April 30, 2015
   abstract: |
     Alzheimer’s disease (AD), a progressive neurodegenerative disorder that affects 36 million individuals worldwide is marked by lesions and filaments made up of hyperphosphorylated PHF-tau protein in the hippocampus. Reversing tau phosphorylation is a promising therapeutic strategy to prevent progression of AD. Casein kinase 1 delta (CK1 belongs to the Casein Kinase 1 family comprising of eight isozymes. CK1 is predominantly expressed in the AD hippocampus >30 fold and was found to be co- localized with granulovacuolar degeneration bodies. CK1 plays a critical role in AD through phosphorylation of tau which precedes neuritic lesion formation, strongly implicating CK1in the tau fibrillization reaction pathway. CK1 has been reported to be associated with pathological accumulation of tau in several neurodegenerative diseases including AD, Down syndrome, progressive supranuclear palsy, and Parkinsonism dementia complex of Guam. Inhibition of CK1 has been shown to reduce fibrillar lesions and to inhibit A production. In addition to driving the accumulation of pathogenic tau neurofibrills, CK1 also promotes generation of amyloid-(A ), the causative agent in the development of AD. Our recent work on the investigation of quinones as kinase inhibitors revealed a quinone compound that inhibited CK1 and Pim1 kinase preferentially over CK1 2 and 98 other human protein kinases. Similarity search and preliminary in-vitro CK1 kinase inhibition assay have yielded novel compounds with good potency. This proposal aims to obtain highly selective and potent inhibitors of CK1 by further refining the structure of our active quinones by design and synthesis of new derivatives followed by CK1 inhibition assay. The most promising candidates will then be assessed for their effective inhibition of tau phosphorylation and suppression of A production using multiple pre-clinical models of AD. Our long-term goal is to provide novel and potent CK1 inhibitors which can serve as therapeutic drugs for neurodegenerative disorders such as AD. Our central hypothesis is that the development of new CK1 inhibitors with low nanomolar range inhibition potencies will address the urgent need for therapeutics for the treatment of AD and other neurodegenerative disorders.
 
@@ -639,18 +647,21 @@
   active: true
   origin: University of Louisiana at Monroe
   image: talbert.jpg
-  project_title: Investigation of the role of Drosophila SOCS36E in energy homeostatis and obesity
+  project_title:  Diet induced obesity in flies; a genomic search for modifiers of pathogenesis
   mentors:
     -
       name: Jacqueline Stephens
-      origin: Pennington Biomedical Research Center
+      origin: Louisiana State University
   funding:
     -
+      name: Full Project
+      period: May 1, 2017 – April 30, 2018
+    -
       name: Pilot Project
-      period: May 1, 2015 – Present
-    
+      period: May 1, 2015 – April 30, 2017
   abstract: |
-    Our overall objective is the discovery of the molecular mechanisms by which obesity induces disease. Diet- induced obesity in humans and animal models does not guarantee comorbidities, but it does substantially heighten the risk of diabetes, cardiovascular disease, and neurological decline. The ability of obesity to cause disease has been intensely studied in mammals, revealing mechanisms that include chronic inflammation and aberrant cell signaling. An extreme state resembling mammalian obesity results when Drosophila melanogaster are allowed to feed upon solid medium that is high in sugar (HSD). Exposed flies have increased triglyceride levels, increased circulating glucose, reduced insulin response despite increased expression, cardiac abnormalities, a severely reduced lifespan, and are impeded in climbing ability. As one of the newer models of obesity, and yet among the most genetically accessible to researchers, Drosophila melanogaster is useful in the dissection of specific connections between obesity and its comorbidities. In mammals, leptin is released from adipose tissue in direct proportion to their metabolite content. When leptin reaches the hypothalamus, it conveys the energy state of the organism, inhibiting appetite centrally and promoting signaling components of the insulin response peripherally. Following activation of the leptin receptor, JAK-Stat3 signaling results in the transcription of a range of genes, the suppressor of cytokine signaling 3 (SOCS3) among them. SOCS3 acts as a classical negative feedback inhibitor of the leptin receptor and a range of other cytokines. Among these cytokines are components of the insulin response. Interestingly, SOCS3 is also produced in response to inflammatory agents, such as IL-6 or TNF-α, which provides a direct mechanism by which the chronic inflammation of obesity can promote leptin and insulin resistance. In Drosophila melanogaster, unpaired 2 (Upd2) is released from the fat body in proportion to nutrient content, binds to the receptor Domeless upon GABAergic neurons that precede the median neurosecretory cells, and promotes drosophila insulin-like peptide 2 (Dilp2) release through Hop-Stat92e signaling. Drosophila also possess SOCS proteins, among them the classical negative feedback inhibitor SOCS36E, which also seems to be induced during immune and/or stress responses. In this study, we reduce the adult expression of SOCS36E in both the whole fly and exclusively in neurons. We hypothesize that either of these interventions will result in increased Upd2 effectiveness and thus Dilp2 responsiveness, conveying a greater tolerance to HSD as evinced by increased lifespan, improved mobility, increased fat stores, altered starvation resistance, and reduced circulating metabolites. Herein we also conduct RNA-Sequencing of whole flies to obtain genomic profiles that compare the transcriptome of normal vs HSD, as well as the transcriptome response to knockout of SOCS36E in each dietary context. Regardless of the nature of the results, our study stands to advance the understanding of the pathophysiology of diet-induced obesity and will enhance our awareness of the conserved physiology between human and fly.
+    Diet-induced obesity in humans and animal models does not guarantee comorbidities, but it does substantially heighten the risk of diabetes, cardiovascular disease, neurological decline, and cancer, which in turn heighten risk of mortality. The ability of obesity to cause disease has been intensely studied in mammals, revealing mechanisms that include chronic inflammation and aberrant cell signaling. An extreme state resembling mammalian obesity results when Drosophila melanogaster are allowed to feed upon solid medium that is high in sugar (HSD) or in fat (HFD). Exposed flies have increased triglyceride levels, increased circulating glucose, reduced insulin response despite increased expression, cardiac abnormalities, a severely reduced lifespan, and are impeded in climbing ability. The latter two qualities are of keen interest in the fly model of diet-induced obesity. With regard to lifespan, this is because the relatively short lifespan of Drosophila melanogaster (on the order of a few months) makes it possible to directly gauge the extent of obesity-induced mortality, and thus discern the genetic basis of the phenotype. With regard to climbing ability, this is because it is an often-used behavioral indicator of neurological health in fruit flies, of interest because mammalian obesity loci are often enriched for neural function. The true strengths of the fly obesity model are its genetic resources/malleability and its provision of an opportunity to study obesity-induced morbidity in the context of mammal-analogous physiological systems. In this project, we will adopt a two-pronged genomic approach. This approach exploits both of the preceding exclusive strengths of the Drosophila model to identify genes and pathways that mediate “tolerance” or “resistance” to obesogenic diets and thus enable understanding of pathogenesis. First, we will take advantage of the Drosophila Genetic Reference Panel (DGRP), which are ~200 genetically diverse wild-caught fly lines that have been whole-genome sequenced and single nucleotide polymorphism (SNP) called, to perform a SNP-based genome-wide association study (GWAS) of lifespan using either HSD or HFD (whichever yields the most trait variance in an initial subset of lines). Second, we will perform RNA-Sequencing of the separated head and body compartments of 3-4 “obesity resistant” lines and 3-4 “obesity susceptible” lines on both a normal diet and an obesogenic diet to identify differentially expressed genes. We will also utilize modulated modularity clustering to group modules of coexpression for the genes with the most expression variance, then use principal component analysis to identify the modules of genes that can separate the fly lines by class. Third, we will screen high-priority candidate loci identified by both of the preceding methods using in vivo RNAi knockdown, followed by assay of lifespan. Finally, we will choose two confirmed candidate genes for energy homeostasis phenotypic profiling as proof of principle.
+
 
 -
   name: Tara Williams-Hart
@@ -667,11 +678,11 @@
       origin: Louisiana State University in Shreveport, Department of Computer Science
   funding:
     -
-      name: Pilot Project
-      period: May 1, 2009 – April 30, 2010
-    -
       name: Project R10
       period: May 1, 2010 - April 30, 2015
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
   abstract: |
     The long-term goal of this project is to elucidate the molecular mechanisms of drug targets for cancer using molecular genetics and bioinformatics in baker's yeast. Cancers represent an increasing health problem as people live longer. Identifying novel drugs and therapeutic treatments to combat the myriad of cancers requires decades of investigation. The objective of this research project is to use Saccharomyces cerevisiae ( budding yeast) as a screening tool to identify the molecular target(s) of putative, novel anti-cancer drugs, fusarochromanone (FC-101a) and its analogues. Initial identification in yeast greatly reduces the time required to test the efficacy of these drugs in animal models. FC-101a is a small natural flavonoid compound and mycotoxin produced by Fusarium equiseti, a fungus present in decaying cereal plants. Studies by Dreau et al., 2007, indicate that fusarochromanone increases apoptosis of melanomas and reduces tumor growth in vivo. Yet is it is not known whether the cytotoxic effects of FC-101a can be used for clinical treatment of human tumors. To date, the molecular mechanisms by which this drug acts to elicit its anti-tumor effects are unknown. The proposed investigation will serve as an initial in vivo study to identify the molecular targets of FC-101a and its analogues to simplify the experimental design of future animal model studies. The first Specific Aim is to (1) perform drug sensitivity assays with yeast exposed to FC-101a and its analogues, (2) screen yeast deletion and hypomorphic collections for strains that confer drug resistance, and (3) isolate dosage suppressors of this resistance to the drug to identify proteins that interact with the putative molecular target(s). We hypothesize the existence of genes that, when deleted or mutated, cause drug resistance to cells, and genes that, when overexpressed, suppress this drug resistance. These genes represent specific, putative molecular targets within the same signal transduction pathway(s) utilized by FC-101a. The second Specific Aim is to identify genes that are differentially expressed in yeast exposed to sub-lethal concentrations of FC-101a. We will measure global transcriptional changes that occur in strains exposed to sub-lethal levels of FC-101a and its analogues using microarray analysis and real time PCR. We will make crosses between strains of putative molecular targets to identify genetic interactions. To identify protein-protein and protein-drug interactions between FC-101a and other molecules, we will perform co-immunoprecipitation, western blotting, and mass spectrometry. Molecular targets for FC-101a thus identified in yeast will be candidates for validation in future animal model studies.
 
@@ -716,3 +727,82 @@
       period: May 1, 2010 – April 30, 2012
   abstract: |
     MicroRNAs (miRNAs) are very small (approx. 20-22 nt) noncoding RNA molecules that regulate mRNA translation through binding to 7-8 base sequences of the respective 3’ UTRs.  miRNAs have only recently been found to exist in higher eukaryotes.  In the short time since this discovery, the profound significance that miRNAs have in pathway regulation, cell fate, differentiation, development and disease states such as cancer have already been well established. To date, most of the bioinformatics approaches in miRNA research are developed to tackle two major tasks, miRNA detection and miRNA target prediction. Compared to miRNA detection, computational miRNA target prediction are far more challenging due to the lack of strict sequence complementarity between miRNAs and their targets, as well as the scarcity of experimentally validated gene targets to guide algorithm design.
+
+-
+  name: William Yu
+  active: true
+  origin: Louisiana State University, Shreveport, Department of Chemistry and Physics
+  image: yu.jpg
+  project_title: Medical Imaging by Enhanced Fluorescent Nanoclusters
+  mentors:
+    -
+      name: Shile Huang, Ph.D.
+      origin: LSU Health Sciences Center Shreveport
+    -
+      name: Urska Cvek, Ph.D.
+      origin: Louisiana State University, Shreveport, Department of Computer Science
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2016 – April 30, 2019
+  abstract: |
+    Super small metal particles (<2nm, thereinafter referred as nanoclusters) represent an emerging new type of alternative fluorescent probes due to their excellent biocompatibility, tunable emission, large Stokes shift, and long fluorescence lifetime. However, the low quantum yield being the most serious weakness limits their practical applications. The goal of this project is to develop a hybridized hierarchical nanostructure which contains metal particles of 20–50nm (thereinafter referred as nanoparticles) and small metal nanoclusters to greatly enhance the fluorescence emission of the small metal nanoclusters by coupling surface plasmon resonance of the big metal nanoparticles. This project focuses on increasing the fluorescence quantum yield of metal nanoclusters for bioimaging applications by utilizing metal surface plasmon resonances through controlling the morphology and size of the big metal nanoparticles, as well as the distance between the nanoparticles and the nanoclusters. This study investigates the mechanism of fluorescence coupling with surface plasmon resonance, establishes a basic theoretical understanding for solving the low quantum yield issue of metal nanoclusters. The research outcomes will help to develop efficient targeting fluorescent nanoprobes for imaging and diagnosis of tumors for medical application.
+
+-
+  name: Waneene Dorsey
+  active: true
+  origin: Grambling University, Department of Biology
+  image: dorsey.png
+  project_title: Identification of Stress Signaling Molecules in TIB-73 Mouse Hepatocytes
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2016 – April 30, 2017
+  abstract: |
+    Altering genes that control cell division is recognized as the major cause of cancer. The initiation- or progression phase of carcinogenesis is caused by the inactivation or loss of certain tumour suppressor genes. Organochlorine compounds are persistent in the environment and heighten the risk of cancer among animals and humans. Most organochlorine chemicals have endocrine-disrupting properties that trigger the activation of stress response genes. Much of what is known about genomic and proteomic responses in mammalian cells is attained from cellular adjustment to deleterious forms of stress. It is believed that changes in gene expression can be linked to specific classes of toxic compounds with unique fingerprints that aid in characterizing various mechanisms of action. Identification of stress-response genes provides the necessary link between a stimulus from the external environment and the events that occur among intracellular components. The effort devoted to identifying stress-response genes as a response to environmental contaminants can be of extreme importance because stress-response genes can be used as potential biomarkers for monitoring organochlorine exposure. The functionality of stress-response genes is orchestrated by their own signaling mechanisms. Pentachlorophenol (PCP) is an organochlorine herbicide and prevalent wood preservative in the United States (U.S.). The biocidal action of PCP protects timber from fungal rot and wood-boring insects, thus extending the life of wood products. PCP is one of the most heavily used organochlorine pesticides in the U.S. preceded by the herbicides atrazine, and alachlor. Noticeable interest is drawn to PCP for its ability to induce systemic toxicity and carcinogenesis . This proposal focuses on the toxicity of PCP to the extent that it may alter gene expressions in hepatocyte culture. The goal to be reached by the end of this grant period is to identify stress-response genes that contribute to cell proliferation and programmed cell death in PCP-treated TIB-73 mouse hepatocytes. This project is driven by the hypothesis that that exposure to sublethal concentrations of PCP will cause the transcriptional activation of stress­response genes in our established in vitro TIB-73 mouse hepatocyte model system.
+
+-
+  name: Jean Fotie
+  active: true
+  origin: Southeastern Louisiana University, Department of Chemistry and Physics
+  image: fotie.jpg
+  project_title: Rational Design of Selective Small-Molecules as Potential IMPDH Inhibitors
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2016 – April 30, 2018
+  abstract: |
+    Human malaria is one of the most devastating diseases caused by parasites of the genus of P/asmodium and transmitted to humans through the bites of infected anopheles mosquitoes. According to the latest estimates released in December 2013, there were about 207 million cases of malaria in 2012 and an estimated 627,000 deaths. 1Unlike higher eukaryotic cells which are capable of de nova purine synthesis, protozoan parasites rely predominantly  on  purine  salvage  from  their  host.  Hypoxanthine-guanine   phosphoribosyltransferase {HGPRT) and inosine-5'-monophosphate dehydrogenase {IMPDH) are the ubiquitous enzymes that catalyze key steps in the Plasmodium purine salvage pathway. Since purine and pyrimidine nucleotides are the basic building blocks of DNA and RNA as well as crucial components of other critical metabolic processes, guanine nucleotides are involved in many crucial cellular functions including transmembrane and intracellular signaling, DNA replication, and RNA synthesis, and thus are essential for cells' proliferation. As such, IMPDH and HGPRT can be exploited as potential target for the development of new therapeutics against human malaria. In fact, unlike IMPDH which has not yet been cloned, expressed and characterized from any of the P/asmodium species, HGPRT enzyme from this parasite is a well-established antimalarial drug target. 2• 3
+
+    The aim of this pilot project is to establish the foundation of a longterm biomedical research program within the Department of Chemistry and Physics at Southeastern Louisiana University, exploiting Plasmodium IMPDH and HGPRT as potential targets for the development of a new generation of antimalarial agents. As a proof of concept, a library of small molecules will be screened on these enzymes, with a goal of discovering new and selective inhibitors of Plasmodium IMPDH and/or HGPRT. Toward this goal, HGPRT will need to be expressed and purified, and the inhibition assays optimized, while IMPDH from Plasmodium will be cloned and expressed for the first time, and thus will need to be characterized before been  used  in assays.  Furthermore, although  HGPRT  is a  well studies  and  confirmed  drug target  in Plasmodium, 2•  3   only a handful of inhibitors have been developed so far, many of which are nucleoside­based. As a result, they act more as substrates, and thus are not very selective. This project aims to develop non-nucleoside-based   inhibitors, with different electronic profiles and selective binding mechanisms.
+
+-
+  name: Xiaoping Yi
+  active: true
+  origin: Southern University and A&amp;M College, Department of Biology
+  image: yi.jpg
+  project_title: Molecular mechanisms of antioxidant on gene regulation in prostate cancer cells
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2017 – April 30, 2018
+  abstract: |
+    Prostate cancer begins when cells in the prostate gland start to grow uncontrollably. Other than skin cancer, prostate cancer is the most common cancer among American men. Researchers do not know exactly what causes prostate cancer but, on a basic level, prostate cancer is caused by changes in the DNA of a normal prostate cell. Although new treatments for prostate cancer continue to be investigated, no definitive cure has been found yet for the advanced aggressive stages.
+
+    Resveratrol (RES, trans-3,5,4' -trihydroxystilbene), a well-known natural polyphenolic phytoalexin present abundantly in red wine and other plants,  is a component of Asian traditional medicine used to treat cardiovascular diseases. Recently, RES has gained considerable attention as an anticancer agent since a report was published by Jang and coworkers in 1997. Its potential use in chemoprevention and chemotherapy for various cancer forms relies on its effects on cell growth, apoptosis, angiogenesis, and cancer metastasis. As RES appears to have many anti-tumor effects on different cancer cell types, the molecular basis of these effects needs to be extensively studied using a cell culture model that best resembles the tumor environment in the body. This will allow us to better understand its mechanism of action and its potential use as a coadjuvant drug for established cancer treatments.
+
+    Our first goal is to investigate the dose-response effect of RES on the morphology  (apoptosis and differentiation) of prostate cancer cells cultured as spheroids (30 cultures) . The second goal is to investigate the molecular mechanism of RES action by repeating the above treatments and performing  transcriptome and proteomic analyses on treated versus control spheroids. Proteomic analyses will be performed using commercial antibody microarrays. The RNA sequencing and proteomic results will be validated by quantitative PCR and Western blot analyses, respectively . The long term goal is to investigate themolecular mechanism of RES action on 30 cancer cell cultures and to identify the main Cell Signaling pathways activated by this flavonoid compound.
+
+-
+  name: Anup Kundu
+  active: true
+  origin: Xavier University
+  image: kundu.jpg
+  project_title: Formulation of a targeted nanoparticle system for the treatment of breast cancer
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2017 – April 30, 2018
+  abstract: |
+    The goal of the proposal is to develop a targeted nanoparticle system for the treatment of breast cancer. Chemotherapy remains one of the major treatment options for metastatic breast cancer; however, acquired resistance to chemotherapeutic agents such as doxorubicin is a major reason for cancer treatment failure. Recently, it has been shown that knocking down the expression of MDR1 P-glycoprotein (P-gp) by P-gp specific siRNA could increase the delivery of doxorubicin to doxorubicin resistant breast cancer cells which could improve the metastatic breast cancer treatment. However, it will be more effective if the particles are selectively targeted to the cancer cells. The aptamer surface labeling will be used to selectively deliver both p-gp siRNA encapsulated nanoparticles and doxorubicin encapsulated nanoparticles to metastatic cancer cells. The efficacy of targeted versus non-targeted delivery of siRNA and doxorubicin nanoparticles to breast cancer cells will be examined. Our hypothesis is that conjugating nanoparticles with a cancer cell specific aptamer should allow selective delivery of therapeutic drugs to tumor cells leading to enhanced cellular toxicity and antitumor effect as compared to unconjugated nanoparticles. This hypothesis will be tested by the following two specific aims. Specific Aim 1: Formulation of nanoparticle-aptamer conjugates for targeted delivery of P-gp siRNA to breast cancer cells. Specific Aim II; Formulation of doxorubicin encapsulated nanoparticles with surface aptamer for targeted delivery to breast cancer cells.
+
