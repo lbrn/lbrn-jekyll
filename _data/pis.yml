@@ -161,7 +161,7 @@
     -
       name: Pilot Project
       period: May 1, 2017 – April 30, 2018
-        -
+    -
       name: Startup Project
       period: May 1, 2015 – April 30, 2017
   abstract: |
@@ -773,7 +773,6 @@
       period: May 1, 2016 – April 30, 2018
   abstract: |
     Human malaria is one of the most devastating diseases caused by parasites of the genus of P/asmodium and transmitted to humans through the bites of infected anopheles mosquitoes. According to the latest estimates released in December 2013, there were about 207 million cases of malaria in 2012 and an estimated 627,000 deaths. 1Unlike higher eukaryotic cells which are capable of de nova purine synthesis, protozoan parasites rely predominantly  on  purine  salvage  from  their  host.  Hypoxanthine-guanine   phosphoribosyltransferase {HGPRT) and inosine-5'-monophosphate dehydrogenase {IMPDH) are the ubiquitous enzymes that catalyze key steps in the Plasmodium purine salvage pathway. Since purine and pyrimidine nucleotides are the basic building blocks of DNA and RNA as well as crucial components of other critical metabolic processes, guanine nucleotides are involved in many crucial cellular functions including transmembrane and intracellular signaling, DNA replication, and RNA synthesis, and thus are essential for cells' proliferation. As such, IMPDH and HGPRT can be exploited as potential target for the development of new therapeutics against human malaria. In fact, unlike IMPDH which has not yet been cloned, expressed and characterized from any of the P/asmodium species, HGPRT enzyme from this parasite is a well-established antimalarial drug target. 2• 3
-
     The aim of this pilot project is to establish the foundation of a longterm biomedical research program within the Department of Chemistry and Physics at Southeastern Louisiana University, exploiting Plasmodium IMPDH and HGPRT as potential targets for the development of a new generation of antimalarial agents. As a proof of concept, a library of small molecules will be screened on these enzymes, with a goal of discovering new and selective inhibitors of Plasmodium IMPDH and/or HGPRT. Toward this goal, HGPRT will need to be expressed and purified, and the inhibition assays optimized, while IMPDH from Plasmodium will be cloned and expressed for the first time, and thus will need to be characterized before been  used  in assays.  Furthermore, although  HGPRT  is a  well studies  and  confirmed  drug target  in Plasmodium, 2•  3   only a handful of inhibitors have been developed so far, many of which are nucleoside­based. As a result, they act more as substrates, and thus are not very selective. This project aims to develop non-nucleoside-based   inhibitors, with different electronic profiles and selective binding mechanisms.
 
 -
@@ -788,9 +787,7 @@
       period: May 1, 2017 – April 30, 2018
   abstract: |
     Prostate cancer begins when cells in the prostate gland start to grow uncontrollably. Other than skin cancer, prostate cancer is the most common cancer among American men. Researchers do not know exactly what causes prostate cancer but, on a basic level, prostate cancer is caused by changes in the DNA of a normal prostate cell. Although new treatments for prostate cancer continue to be investigated, no definitive cure has been found yet for the advanced aggressive stages.
-
     Resveratrol (RES, trans-3,5,4' -trihydroxystilbene), a well-known natural polyphenolic phytoalexin present abundantly in red wine and other plants,  is a component of Asian traditional medicine used to treat cardiovascular diseases. Recently, RES has gained considerable attention as an anticancer agent since a report was published by Jang and coworkers in 1997. Its potential use in chemoprevention and chemotherapy for various cancer forms relies on its effects on cell growth, apoptosis, angiogenesis, and cancer metastasis. As RES appears to have many anti-tumor effects on different cancer cell types, the molecular basis of these effects needs to be extensively studied using a cell culture model that best resembles the tumor environment in the body. This will allow us to better understand its mechanism of action and its potential use as a coadjuvant drug for established cancer treatments.
-
     Our first goal is to investigate the dose-response effect of RES on the morphology  (apoptosis and differentiation) of prostate cancer cells cultured as spheroids (30 cultures) . The second goal is to investigate the molecular mechanism of RES action by repeating the above treatments and performing  transcriptome and proteomic analyses on treated versus control spheroids. Proteomic analyses will be performed using commercial antibody microarrays. The RNA sequencing and proteomic results will be validated by quantitative PCR and Western blot analyses, respectively . The long term goal is to investigate themolecular mechanism of RES action on 30 cancer cell cultures and to identify the main Cell Signaling pathways activated by this flavonoid compound.
 
 -
@@ -805,4 +802,71 @@
       period: May 1, 2017 – April 30, 2018
   abstract: |
     The goal of the proposal is to develop a targeted nanoparticle system for the treatment of breast cancer. Chemotherapy remains one of the major treatment options for metastatic breast cancer; however, acquired resistance to chemotherapeutic agents such as doxorubicin is a major reason for cancer treatment failure. Recently, it has been shown that knocking down the expression of MDR1 P-glycoprotein (P-gp) by P-gp specific siRNA could increase the delivery of doxorubicin to doxorubicin resistant breast cancer cells which could improve the metastatic breast cancer treatment. However, it will be more effective if the particles are selectively targeted to the cancer cells. The aptamer surface labeling will be used to selectively deliver both p-gp siRNA encapsulated nanoparticles and doxorubicin encapsulated nanoparticles to metastatic cancer cells. The efficacy of targeted versus non-targeted delivery of siRNA and doxorubicin nanoparticles to breast cancer cells will be examined. Our hypothesis is that conjugating nanoparticles with a cancer cell specific aptamer should allow selective delivery of therapeutic drugs to tumor cells leading to enhanced cellular toxicity and antitumor effect as compared to unconjugated nanoparticles. This hypothesis will be tested by the following two specific aims. Specific Aim 1: Formulation of nanoparticle-aptamer conjugates for targeted delivery of P-gp siRNA to breast cancer cells. Specific Aim II; Formulation of doxorubicin encapsulated nanoparticles with surface aptamer for targeted delivery to breast cancer cells.
+
+-
+  name: Scott Poh
+  active: true
+  origin: Louisiana Tech University
+  image: poh.jpg
+  project_title: Targeting of Macrophages in Inflammation With Thermosensitive Biopolymers
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2016 – April 30, 2018
+  abstract: |
+    Immune cells such as pro-inflammatory folate receptor positive (FR+) activated macrophages play a key role in the development of inflammatory diseases . Because treatment of most inflammation pathologies are encumbered by unwanted side effects that arise from the deposition of drug into wrong tissues . The logical remedy for these undesirable properties involves selective targeting of the therapeutic agent to pathologic cells, thereby avoiding collateral toxic ity to healthy cells and undesirable side effects. Previous published work has demonstrated that activated macrophages overexpress folate receptor (but not resting macrophages) that can be exploited for selective targeting and internalization of small molecular folate conjugates (SMFCs) (Mw < 3000) proven useful in sites of inflammation in both human patients and animal models, however little work has been investigated on nanoscale drug delivery system such as biopolymer nanoparticle. Although, peptide drugs may be effective in promoting anti-inflammatory effects but poor bioavailability limits its commercial application, thereby alternative delivery approaches must be sought. In recent years, temperature sensitive polymeric nanoparticles have attracted much attention for their potential biomedical applications in delivering drug to tumor sites and inflamed tissues.
+    For this purpose, we propose designing a nanoscale drug carrier that function as selective targeting and ability to protect peptide drug from enzymatic degradation, thus increasing the half-life of the peptide for diagnostics and therapeutic treatment. By combining folate-targeting and biopolymer as a carrier, we examined whether folate-targeted thermosensit ive polymer (FTSP) loaded with fluorescent and therapeutic cargos could selectively target folate receptor positive (FR+) activated macrophages, presenting the opportunity to both visualize and suppressing pro-inflammatory mediators, with little or no collateral toxicity to healthy cells.
+
+-
+  name: Siva Murru
+  active: true
+  origin: University of Louisiana at Monroe
+  image: murru.png
+  project_title: Design and synthesis of heterocyclic compounds and their metal-complexes for evaluation of anti-cancer and anti-microbial activity
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2017 – April 30, 2018
+  abstract: |
+    Cancer and antibiotic resistance are some of the most difficult ailments and they became leading causes of death around the world. Anticancer agents that target DNA are generally the most effective agents in clinical use and have produced significant increases in the survival of cancer patients, but they are extremely toxic. Also, some of the bacterial species are becoming resistant to most of the traditional antibiotics. Consequently, much effort has been put into finding robust inhibitors that are more selective, less toxic and less susceptible to drug resistance. Havi ng experience in the field of heterocyclic synthesis and medicinal chemistry, we recently obtained some interesti ng preliminary results on anticancer activity of our Ru-pyrazole complexes from NCI-screening. (vide infra) The results indicate that some of our compounds exhibit anticancer activity, mainly towards non small cell  J ung cancer (NSCLC) cell lines. Currentl y we are planning on synthesizing new set of pyrazoles with different substitution patterns and their metal complexes, and screen them for anticancer activity. In parallel to  the anticancer activity studies. we have also tested set of substituted quinolines for anti bacterial activity and they found to have considerable inhibition effect on the growth of the E. coli. Based on these preliminary results and the biological significance of pyrazole pharmacophore, we envisage that combining both pyrazole and quinoline moieties together may increase the therapeutic efficacy. Accordingly, we plan to develop a library of novel quinoline-pyrazole  bis-heterocycles  and evaluate their antibacterial activities .
+    The general aim of our overall project is to design and synthesize nitrogen heterocycles and their metal complexes to evaluate for anticancer and antibacterial activities. These are mainly two independent goals, but they can be accomplished by complimentary approaches because of the common synthetic ground. The long term goal of this project is to find novel anticancer agents for lung cancer treatment and antibiotics that are less susceptible to drug resistance with the main focus on MRSA strains. In addition to that, we will be developing several synthetic approaches that wi ll u ltimately provide new chemica l tools for the diverse range of synthetic chemists and biomedical researchers in academia and industry.
+
+-
+  name: Rami Al-Horani
+  active: true
+  origin: Xavier University
+  image: al-horani.jpg
+  project_title: Development of Factor Xllla Allosteric Inhibitors as a Paradigm-Shifting Treatment for Venous Thromboembolism
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2017 – April 30, 2018
+  abstract: |
+    Venous thromboembolism (VTE) remains a major public health crisis which severely impacts several ethnic communities in the US. Furthermore, a 2-way link between VTE and cancer has also been confirmed. In fact, cancer patients constitute 15-20% of all patients diagnosed with VTE. Anticoagulants are the mainstay of VTE treatment. Nevertheless, clinically used anticoagulants are plagued with a number of drawbacks including a life-threatening risk of internal bleeding. New approaches to safely prevent and/or treat VTE are highly clinically significant. Factor Xllla (FXllla) is a transglutaminase procoagulant that is different from all other physiologic procoagulants which are serine proteases. This unique biochemical aspect of FXllla has been under investigation in the context of VTE mechanism. Venous thrombi from FXlll-deficient mice were found to be significantly smaller in size. Various studies also suggested that specific FXllla polymorphism provides a moderate protection against VTE and that heterozygous FXlll-deficient mice do not show signs of excessive bleeding. Therefore, FXllla may serve as a potential therapeutic target for a new VTE treatment, yet with no risk of the deadly bleeding side effect. Very few FXllla inhibitors have been reported thus far, most of which are not selective as they target the active site. I propose to consider sulfated/sulfonated glycosaminoglycan (GAG) mimetics platform to discover and subsequently rationally design FXllla inhibitors. These GAG mimetics are projected to potently and selectively inhibit FXllla through allosteric modulation , a mechanism often exploited by nature to achieve specific regulation. In preliminary studies , I independently discovered that suramin, a sulfonated GAG mimetic and an approved antiparasitic drug, inhibits FXllla with an IC50 value of 85 µM. This proposal specifically aims to use a multidisciplinary approach to establish the principles of effective and selective inhibition of FXllla by suramin and its analogs . The overall goal of research in this area is to 1) enhance our understanding of FXllla role in the coagulation physiology and pathology and 2) investigate an alternative approach to modulate FXllla through allostery so as to pave the way to a transforming potent and safe anticoagulant therapy to prevent and/or treat thrombotic disorders.
+
+-
+  name: Georgios Matthaiolampakis
+  active: true
+  origin: Xavier University
+  image: matthaiolampakis.jpg
+  project_title: Combinatorial treatment of miRNAs and novel palatinate against lung cancer
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2017 – April 30, 2018
+  abstract: |
+    Gene therapy carries the strongest potential for the realization of the ""personalized  treatment''. Uniquely, each gene therapy application stems from and depends on the expression of key genes or driver mutations present in the cancer. Its application spans from downregulation of specific genes to activation of tumor suppressor pathways for inhibition of tumor growth, chemoresistance and metastasis. Unfortunately, no clinically actionable gene therapy approaches have emerged so far and the need for research on this field is ever direr. Similarly, in lung cancer (LC), the leading cause of cancer deaths worldwide, gene therapy can have a significant impact in controlling tumor growth. With non-small-cell lung cancer accounting for >85% of all lung cancer cases, our clinical approach is commonly limited to identical therapies among different patients, primarily the use of platinum based drugs, such as cisplatin. Despite significant efforts for early detection and treatment, we practically disregard the biological background of the disease. microRNAs (miR) are looked upon as a novel class of biologicals to synergistically complement the chemotherapy, as they can simultaneously affect multiple pathways involved in cancer progression and metastasis. miR-34a, a downstream target of TP53, is capable of restoring the tumor suppressor function of an otherwise highly mutated and non-functional TP53 protein. Interestingly, TP53 aberrations have been detected in >50% of cancer patients. Furthermore, miR-30a downregulation  is associated with establishment of the metastatic niche and promotion of metastasis. These two miRNAs are often downregulated in the majority of lung cancer tissues, and their exogenous delivery can prove beneficial. However, nucleic-acid delivery is limited by poor bioavailability, rapid metabolism and low cellular-uptake . We will entrap miR-34a and miR-30a mimics inside a novel tocopherol-PEl-PEG (TPP) nanovector that can encapsulate, protect and deliver multiple loads, i.e. oligonucleotides and active drugs, to the tumor mass in vivo. We will decorate the nanovectors with the tumor cell-targeting peptide, Chlorotoxin, to achieve active targeting and enhance intracellular delivery. Chlorotoxin is known to strongly discriminate between tumor and normal cells, including in lung cancer. The treatment will be combined with a novel lipid-modified platinum compound, CDDP-c8, which demonstrates higher lipophilicity, thus higher encapsulation efficiency in nanocarriers, and more importantly, has superior selective cytotoxicity, compared to cisplatin, against cisplatin-resistant cells of lung cancer.
+
+-
+  name: David Mills
+  active: true
+  origin: Louisiana Tech University
+  image: mills.jpg
+  project_title: Instrumentation in Support of a New 3D Printing Lab
+  funding:
+    -
+      name: Shared Instrument
+      period: May 1, 2016 – April 30, 2018
+  abstract: |
+    "Researchers at Louisiana Tech have recently developed several new bio- and tissue engineered technologies. Dr.David Mills' lab has developed a manufacturing method for fabricating drug-doped customized thermoplastic filaments that are bioactive and can be produced at low cost. This method is not constrained to one particular material, but is capable of being easily modified to encompass metal particles, ceramic nanotubes, and bioactive powders that retain integrity and functionality through the 3D printing process. The advantage of such a process is the level of customization achievable by the designer allowing fabrication of the desired material characteristics without complex modification. Dr. Mills this approach believe this approach will open many new clinical treatments enhance dental and orthopedic implant integration and longevity promising an increase in the quality of life for many patients.
 

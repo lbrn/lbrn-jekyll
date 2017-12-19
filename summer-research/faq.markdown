@@ -15,18 +15,18 @@ title: Frequently Asked Questions
 * Students who are attending a university or college in the state of Louisiana, except LSU Baton Rouge and Tulane students.
  
 
-* Students who are not graduating between January through August of 2017.
+* Students who are not graduating between January through August of 2018.
  
 
  
  
 
-### *LBRN Summer Research Program dates 2017*
+### *LBRN Summer Research Program dates 2018*
 
 **What are the program dates?**
   
 
-* The 2017 Program will run from tentatively May 22 – July 28, 2017 for Undergraduate and Graduate student participants.
+* The program will run from tentatively May 21 – July 27, 2018 for Undergraduate and Graduate student participants.
  
 
 * Dates for Faculty participants may be flexible, need to be stated in your proposal application.
@@ -185,7 +185,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Wednesday, February 10, 2017.
+* The application deadline is Wednesday, February 7, 2018.
  
 
  
@@ -252,7 +252,7 @@ title: Frequently Asked Questions
 **When and how will I be notified of my acceptance into the LBRN program?**
  
 
-* Letters will be emailed by the end of April, 2017.
+* Letters will be emailed by the end of April, 2018.
 
  
 

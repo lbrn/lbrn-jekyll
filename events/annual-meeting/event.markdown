@@ -9,14 +9,13 @@ This year's event is being held in Shreveport, Louisiana at the LSU Health Scien
 
 If for any reason that you need to cancel your registration or if you have any questions, please contact Ms. Alexis White, [alexisw@lsu.edu](mailto:alexisw@lsu.edu).
 
-Hotel Reservation is indicated with your online event registration. Any changes, please let Alexis White, LBRN Administrator know immediately. Do not book your hotel through Hilton. Please register for the conference and select if you require a room.
+Hotel Reservation is indicated with your online event registration. Any changes, please let Alexis White, LBRN Administrator know immediately. Please register for the conference and select if you require a room.
 
 <p class="text-error">
-	Deadline for registration: TBD</p>
+	Deadline for registration: January 5, 2018</p>
 
-*Note: after the deadline you will not be able to receive the discounted hotel group rate.*
+*Note: after the deadline you may not be able to receive the discounted hotel group rate.*
 
 ---
-Note: registration button not yet 'active' while survey being updated (updated: Oct 26, 2017). "Soon!"
 
 <a href="https://redcap.lbrn.lsu.edu/surveys/?s=PL3CXYJEDR" class="btn btn-info btn-large">Continue to Event Registration Form</a>

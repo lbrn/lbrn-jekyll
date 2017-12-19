@@ -4,7 +4,7 @@ title: Applications
 ---
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Deadline is February 10, 2017</strong></h4>
+  <h4><strong>Deadline is February 7, 2018</strong></h4>
   <br>
   <p>
     Note carefully the Application requirements. If these requirements are not met, the application is considered incomplete.
@@ -14,7 +14,7 @@ title: Applications
 
 #### **Application link** ####
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=RMHDHXPA3H" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2017 Summer Research Pre-Application (click here)</a>
+<a href="https://redcap.lbrn.lsu.edu/surveys/?s=HYFJDYW3JT" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2018 Summer Research Pre-Application (click here)</a>
 
 
 <!--<b>Link will be available here, check back soon.</b>-->

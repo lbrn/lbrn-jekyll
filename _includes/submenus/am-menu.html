@@ -16,6 +16,15 @@
     <a href="{{ site.baseurl }}events/annual-meeting/event">Event Registration and Hotel Info</a>
   </li>
 
+  {% if page.title == " Covered Expenses" %}
+  <li class="active">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ site.baseurl }}events/annual-meeting/expenses">Covered Expenses</a>
+  </li>
+
+
   {% if page.title == "Poster Session" %}
   <li class="active">
   {% else %}

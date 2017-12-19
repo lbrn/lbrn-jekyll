@@ -14,8 +14,7 @@ title: Contact
 **Alexis White**<br>
 *LBRN Program Administrator*<br>
 (225) 578-1848<br>
-LSU Biological Sciences
-131 Life Sciences Bldg<br>
+School of Veterinary Medicine
 Baton Rouge, LA 70803
 [alexisw@lsu.edu][2]
 
