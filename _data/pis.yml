@@ -415,7 +415,7 @@
 
 -
   name: Harris McFerrin
-  active: true
+  active: false
   origin: Xavier University of Louisiana, Department of Biology
   image: mcferrin.jpg
   project_title: Inhibition of HSV-1 Associated Ocular Neovascularization by Antiangiogenic Agents
