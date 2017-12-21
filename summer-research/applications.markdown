@@ -4,7 +4,7 @@ title: Applications
 ---
 
 <div class="alert alert-warning alert-block">
-  <h4><strong>Deadline is February 7, 2018</strong></h4>
+  <h4><strong>Deadline is February 28, 2018</strong></h4>
   <br>
   <p>
     Note carefully the Application requirements. If these requirements are not met, the application is considered incomplete.
@@ -14,10 +14,13 @@ title: Applications
 
 #### **Application link** ####
 
-<a href="https://redcap.lbrn.lsu.edu/surveys/?s=HYFJDYW3JT" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2018 Summer Research Pre-Application (click here)</a>
+<!-- <a href="https://redcap.lbrn.lsu.edu/surveys/?s=HYFJDYW3JT" class="btn btn-large #btn-primary" style="margin-bottom: 30px">2018 Summer Research Pre-Application (click here)</a>
+-->
+
+<b>Link will be available here, check back soon.</b>
+<br><br>
 
 
-<!--<b>Link will be available here, check back soon.</b>-->
 
 The application process form INCLUDES all documentation and submissions from within the online application forms - the pre-application form must be completed in order to receive an application form link via e-mail.
 
@@ -47,7 +50,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 			<p>Please note the remaining documents are available within the application. You can begin the process now and update at anytime until the deadline.</p>
 
-			<a href="http://lbrn.lsu.edu/files/app/facultymentorlist.php">[Prospective Faculty mentor list]</a>  Mentors are Updating their information - check back frequently.
+<!--			<a href="http://lbrn.lsu.edu/files/app/facultymentorlist.php">[Prospective Faculty mentor list]</a> --> Mentors are Updating their information - check back frequently.
 		</div>
 	</div>
 	
@@ -71,7 +74,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 			<p>Please note the remaining documents are available within the form. You can begin the process now and update at anytime until the deadline.</p>
 
-			<a href="http://lbrn.lsu.edu/files/app/gradmentorlist.php">[Prospective Graduate mentor list]</a> Mentors are Updating their information - check back frequently.
+<!--			<a href="http://lbrn.lsu.edu/files/app/gradmentorlist.php">[Prospective Graduate mentor list]</a> --> Mentors are Updating their information - check back frequently.
 		 </div>
 	</div>
 		
@@ -91,7 +94,7 @@ You can follow our recruiting visits, etc. by following our program on [Twitter]
 
 				<li>All documents will be submitted (uploaded) within the online Application.</li></ol>
 
-				<a href="http://lbrn.lsu.edu/files/app/undermentorlist.php">[Prospective Undergraduate mentor list]</a> Mentors are Updating their information - check back frequently.
+<!--				<a href="http://lbrn.lsu.edu/files/app/undermentorlist.php">[Prospective Undergraduate mentor list]</a> --> Mentors are Updating their information - check back frequently.
 
 		</div>
 	</div>

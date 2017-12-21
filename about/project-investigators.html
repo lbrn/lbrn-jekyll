@@ -34,7 +34,7 @@ title: Project Investigators
 
 <div class="tab-pane fade in" id="all">
 
-  {% for pi in site.data.pis | sort %}
+  {% for pi in site.data.pis | sort:"pi" %}
     {% if pi.active == false %}
       <div class="row bio well">
         <div class="span2">

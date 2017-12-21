@@ -185,7 +185,7 @@ title: Frequently Asked Questions
 * Applications are available online.
  
 
-* The application deadline is Wednesday, February 7, 2018.
+* The application deadline is Wednesday, February 28, 2018.
  
 
  

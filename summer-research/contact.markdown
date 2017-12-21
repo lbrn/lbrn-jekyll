@@ -34,8 +34,8 @@ Baton Rouge, LA 70803
 **John I Quebedeaux Jr**<br>
 *LBRN Computer Manager*<br>
 (225) 578-0062<br>
-LSU Biological Sciences
-437 Life Sciences Bldg<br>
+LSU Biological Sciences / Center for Computation and Technology
+437 Life Sciences Bldg / 2041 DMC Bldg<br>
 Baton Rouge, LA 70803
 [johnq@lsu.edu][3]
 
