@@ -11,7 +11,7 @@ Poster size may be up to 4 ft wide X 4 ft. tall. <span class="text-error">Velcro
 
 The poster abstract cannot exceed 2000 characters. Please avoid using scientific notation and special characters in your abstract. Abstracts for the poster presentations will be printed in the program.
 
-<p class="text-error">Deadline for poster abstract submission January 5, 2018</p>
+<p class="text-error">Deadline for poster abstract submission January 12, 2018 (extended from 5th)</p>
 
 *The abstract submission form will be emailed to you after your event registration has been completed.*
 

@@ -12,7 +12,7 @@ If for any reason that you need to cancel your registration or if you have any q
 Hotel Reservation is indicated with your online event registration. Any changes, please let Alexis White, LBRN Administrator know immediately. Please register for the conference and select if you require a room.
 
 <p class="text-error">
-	Deadline for registration: January 5, 2018</p>
+	Deadline for registration: January 12, 2018 (extended from 5th)</p>
 
 *Note: after the deadline you may not be able to receive the discounted hotel group rate.*
 
